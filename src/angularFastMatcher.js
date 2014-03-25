@@ -9,16 +9,25 @@
       scope: {
         source: '=fastMatcherSource',
         matches: '=fastMatcherOutput',
-        selector: '=fastMatcherSelector'
+        currentCallback: '=fastMatcherCurrentCallback',
+        selectionCallback: '=fastMatcherSelectionCallback'
       },
       link: function(scope, element, attrs) {
         var parentScope = scope.$parent,
             property = attrs.fastMatcherProperty,
-            selector = scope.selector,
+            makeSelection = scope.selectionCallback,
             model = attrs.ngModel;
 
         if (!scope.matches) {
           scope.matches = [];
+        }
+
+        var selectedIndex = -1;
+        function setCurrentIndex(index) {
+          selectedIndex = index;
+          if (scope.currentCallback) {
+            scope.currentCallback(index);
+          }
         }
 
         $q.when(scope.source).then(function(source) {
@@ -31,23 +40,23 @@
             var needle = parentScope[model];
 
             scope.matches.length = 0;
-            parentScope.selectedIndex = -1;
+            setCurrentIndex(-1);
 
             if (needle) {
               matcher.getMatches(needle);
             }
           });
 
-          if (selector) {
+          if (makeSelection) {
             element.on('keyup', function(e) {
               switch (e.keyCode) {
                 case 13: // enter
-                  if (parentScope.selectedIndex >= 0 && parentScope.selectedIndex < scope.matches.length) {
-                    selector(scope.matches[parentScope.selectedIndex]);
+                  if (selectedIndex >= 0 && selectedIndex < scope.matches.length) {
+                    makeSelection(scope.matches[selectedIndex]);
                   } else if (scope.matches.length === 1) {
-                    selector(scope.matches[0]);
+                    makeSelection(scope.matches[0]);
                   }
-                  parentScope.selectedIndex = -1;
+                  setCurrentIndex(-1);
                   break;
 
                 case 27: // esc
@@ -55,11 +64,11 @@
                   break;
 
                 case 38: // up
-                  parentScope.selectedIndex = (parentScope.selectedIndex || scope.matches.length) - 1;
+                  setCurrentIndex((selectedIndex || scope.matches.length) - 1);
                   break;
 
                 case 40: // down
-                  parentScope.selectedIndex = ++parentScope.selectedIndex % scope.matches.length;
+                  setCurrentIndex(++selectedIndex % scope.matches.length);
                   break;
               }
 

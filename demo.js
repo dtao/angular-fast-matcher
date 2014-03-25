@@ -35,6 +35,12 @@ app.controller('DemoController', function($scope, $http, $q) {
     return $scope.words;
   });
 
+  $scope.currentEntryIndex = -1;
+
+  $scope.setCurrentEntry = function(index) {
+    $scope.currentEntryIndex = index;
+  };
+
   $scope.makeSelection = function(entry) {
     $scope.selection = entry;
   };
