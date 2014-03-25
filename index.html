@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html ng-app="FastMatcherDemo">
+
+<head>
+    <title>angular-fast-matcher</title>
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootswatch/3.1.1/readable/bootstrap.min.css" />
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js"></script>
+    <script src="angularFastMatcher.js"></script>
+    <script src="demo.js"></script>
+
+    <style>
+        .definition-list { display: table; padding-left: 0; }
+        .definition-list li { display: table-row; }
+        .definition-list li .part-of-speech,
+        .definition-list li .definition {
+            display: table-cell;
+            padding-right: 1em;
+        }
+        .part-of-speech:before { content: "("; }
+        .part-of-speech:after { content: ")"; }
+    </style>
+</head>
+
+<body ng-controller="DemoController">
+    <div class="container">
+        <div class="page-header">
+            <h1>angular-fast-matcher demo</h1>
+            <p class="lead">
+                <strong>angular-fast-matcher</strong> is an Angular directive that uses the
+                <a href="https://github.com/dtao/fast-matcher">fast-matcher</a> library to
+                provide autocomplete results.
+            </p>
+        </div>
+
+        <div class="form-group">
+            <label>Start typing a word.</label>
+            <input type="text" class="form-control"
+                fast-matcher
+                fast-matcher-source="wordsPromise"
+                fast-matcher-output="matchingWords"
+                fast-matcher-property="term"
+                placeholder="Search {{words.length | number}} words"
+                ng-disabled="!loaded"
+                ng-model="search" />
+        </div>
+
+        <dl class="list-group">
+            <div class="list-group-item" ng-repeat="entry in matchingWords">
+                <dt class="list-group-item-heading">{{entry.term}}</dt>
+                <dd ng-if="entry.definitions.length === 1">
+                    <span class="part-of-speech">{{entry.definitions[0].pos}}</span>
+                    <span class="definition">{{entry.definitions[0].def}}</span>
+                </dd>
+
+                <dd ng-if="entry.definitions.length > 1">
+                    <ol class="definition-list">
+                        <li ng-repeat="definition in entry.definitions">
+                            <span class="part-of-speech">{{definition.pos}}</span>
+                            <span class="definition">{{definition.def}}</span>
+                        </li>
+                    </ol>
+                </dd>
+            </div>
+        </dl>
+    </div>
+</body>
+
+</html>

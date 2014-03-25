@@ -1,0 +1,13 @@
+{
+  "name": "angular-fast-matcher",
+  "version": "0.1.0",
+  "description": "Angular directive for fast-matcher",
+  "main": "angularFastMatcher.js",
+  "devDependencies": {
+    "gulp": "^3.5.6",
+    "gulp-browserify": "^0.5.0"
+  },
+  "dependencies": {
+    "fast-matcher": "^0.1.0"
+  }
+}
