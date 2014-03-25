@@ -36,19 +36,3 @@ app.controller('DemoController', function($scope, $http, $q) {
   });
 
 });
-
-app.directive('htmlSource', function() {
-  return {
-    link: function(scope, element, attrs) {
-      var editor = CodeMirror.fromTextArea(element[0], {
-        lineNumbers: true,
-        mode: 'htmlmixed',
-        readOnly: true
-      });
-
-      editor.execCommand('selectAll');
-      editor.execCommand('indentAuto');
-      editor.execCommand('goDocStart');
-    }
-  };
-});

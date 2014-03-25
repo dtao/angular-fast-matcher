@@ -4,11 +4,9 @@
 <head>
     <title>angular-fast-matcher</title>
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootswatch/3.1.1/readable/bootstrap.min.css" />
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/codemirror/4.0.3/codemirror.css" />
+    <link rel="stylesheet" href="//yandex.st/highlightjs/8.0/styles/github.min.css">
     <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/codemirror/4.0.3/codemirror.js"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/codemirror/4.0.3/mode/xml/xml.js"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/codemirror/4.0.3/mode/htmlmixed/htmlmixed.js"></script>
+    <script src="//yandex.st/highlightjs/8.0/highlight.min.js"></script>
     <script src="angularFastMatcher.js"></script>
     <script src="demo.js"></script>
 
@@ -23,15 +21,12 @@
         }
         .part-of-speech:before { content: "("; }
         .part-of-speech:after { content: ")"; }
-        .CodeMirror {
-          border: 1px solid #eee;
-          height: auto;
-        }
-        .CodeMirror-scroll {
-          overflow-y: hidden;
-          overflow-x: auto;
-        }
+        pre { padding: 0; }
     </style>
+
+    <script>
+        hljs.initHighlightingOnLoad();
+    </script>
 </head>
 
 <body ng-controller="DemoController">
@@ -92,29 +87,26 @@
         </div>
 
         <div ng-show="isCurrentPage('usage')">
-            <h3>HTML</h3>
-            <textarea html-source>
-                &lt;!--
-                    Attach the directive to an &lt;input&gt; element with the following attributes.
-                --&gt;
-                &lt;input type="text"
-                    fast-matcher
-                    fast-matcher-source="[array or promise]"
-                    fast-matcher-output="[array to be populated]"
-                    fast-matcher-property="[selector property (omit for a simple array of strings)]"
-                    ng-model="[bind to something so the directive knows what to $watch]" /&gt;
+            <pre ng-non-bindable><code class="html">&lt;!--
+    Attach the directive to an &lt;input&gt; element with the following attributes.
+--&gt;
+&lt;input type="text"
+    fast-matcher
+    fast-matcher-source="[array or promise]"
+    fast-matcher-output="[array to be populated]"
+    fast-matcher-property="[selector property (omit for a simple array of strings)]"
+    ng-model="[bind to something so the directive knows what to $watch]" /&gt;
 
-                &lt;!--
-                    You can put this list anywhere on the page and style it however you want.
-                    In fact you can put it multiple places. Or nowhere. It also doesn't have to be
-                    a &lt;ul&gt; element. It can be anything.
-                --&gt;
-                &lt;ul&gt;
-                    &lt;li ng-repeat="item in [array specified w/ 'fast-matcher-output' property]"&gt;
-                        {{item}}
-                    &lt;/li&gt;
-                &lt;/ul&gt;
-            </textarea>
+&lt;!--
+    You can put this list anywhere on the page and style it however you want.
+    In fact you can put it multiple places. Or nowhere. It also doesn't have to be
+    a &lt;ul&gt; element. It can be anything.
+--&gt;
+&lt;ul&gt;
+    &lt;li ng-repeat="item in [array specified w/ 'fast-matcher-output' property]"&gt;
+        {{item}}
+    &lt;/li&gt;
+&lt;/ul&gt;</code></pre>
         </div>
     </div>
 </body>
