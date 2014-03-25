@@ -4,11 +4,16 @@
 <head>
     <title>angular-fast-matcher</title>
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootswatch/3.1.1/readable/bootstrap.min.css" />
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/codemirror/4.0.3/codemirror.css" />
     <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/codemirror/4.0.3/codemirror.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/codemirror/4.0.3/mode/xml/xml.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/codemirror/4.0.3/mode/htmlmixed/htmlmixed.js"></script>
     <script src="angularFastMatcher.js"></script>
     <script src="demo.js"></script>
 
     <style>
+        .nav { margin-bottom: 15px; }
         .definition-list { display: table; padding-left: 0; }
         .definition-list li { display: table-row; }
         .definition-list li .part-of-speech,
@@ -18,6 +23,14 @@
         }
         .part-of-speech:before { content: "("; }
         .part-of-speech:after { content: ")"; }
+        .CodeMirror {
+          border: 1px solid #eee;
+          height: auto;
+        }
+        .CodeMirror-scroll {
+          overflow-y: hidden;
+          overflow-x: auto;
+        }
     </style>
 </head>
 
@@ -30,38 +43,79 @@
                 <a href="https://github.com/dtao/fast-matcher">fast-matcher</a> library to
                 provide autocomplete results.
             </p>
+            <p class="lead">
+                See the <a href="#usage" ng-click="showPage('usage')">usage</a> section for details
+                on how to use it.
+            </p>
         </div>
 
-        <div class="form-group">
-            <label>Start typing a word.</label>
-            <input type="text" class="form-control"
-                fast-matcher
-                fast-matcher-source="wordsPromise"
-                fast-matcher-output="matchingWords"
-                fast-matcher-property="term"
-                placeholder="Search {{words.length | number}} words"
-                ng-disabled="!loaded"
-                ng-model="search" />
-        </div>
+        <ul class="nav nav-tabs">
+            <li class="{{getTabClass('demo')}}">
+                <a href="#demo" ng-click="showPage('demo')">Demo</a>
+            </li>
+            <li class="{{getTabClass('usage')}}">
+                <a href="#usage" ng-click="showPage('usage')">Usage</a>
+            </li>
+        </ul>
 
-        <dl class="list-group">
-            <div class="list-group-item" ng-repeat="entry in matchingWords">
-                <dt class="list-group-item-heading">{{entry.term}}</dt>
-                <dd ng-if="entry.definitions.length === 1">
-                    <span class="part-of-speech">{{entry.definitions[0].pos}}</span>
-                    <span class="definition">{{entry.definitions[0].def}}</span>
-                </dd>
-
-                <dd ng-if="entry.definitions.length > 1">
-                    <ol class="definition-list">
-                        <li ng-repeat="definition in entry.definitions">
-                            <span class="part-of-speech">{{definition.pos}}</span>
-                            <span class="definition">{{definition.def}}</span>
-                        </li>
-                    </ol>
-                </dd>
+        <div ng-show="isCurrentPage('demo')">
+            <div class="form-group">
+                <label>Start typing a word.</label>
+                <input type="text" name="search" class="form-control"
+                    fast-matcher
+                    fast-matcher-source="wordsPromise"
+                    fast-matcher-output="matchingWords"
+                    fast-matcher-property="term"
+                    placeholder="Search {{words.length | number}} words"
+                    ng-disabled="!loaded"
+                    ng-model="search" />
             </div>
-        </dl>
+
+            <dl class="list-group">
+                <div class="list-group-item" ng-repeat="entry in matchingWords">
+                    <dt class="list-group-item-heading">{{entry.term}}</dt>
+                    <dd ng-if="entry.definitions.length === 1">
+                        <span class="part-of-speech">{{entry.definitions[0].pos}}</span>
+                        <span class="definition">{{entry.definitions[0].def}}</span>
+                    </dd>
+
+                    <dd ng-if="entry.definitions.length > 1">
+                        <ol class="definition-list">
+                            <li ng-repeat="definition in entry.definitions">
+                                <span class="part-of-speech">{{definition.pos}}</span>
+                                <span class="definition">{{definition.def}}</span>
+                            </li>
+                        </ol>
+                    </dd>
+                </div>
+            </dl>
+        </div>
+
+        <div ng-show="isCurrentPage('usage')">
+            <h3>HTML</h3>
+            <textarea html-source>
+                &lt;!--
+                    Attach the directive to an &lt;input&gt; element with the following attributes.
+                --&gt;
+                &lt;input type="text"
+                    fast-matcher
+                    fast-matcher-source="[array or promise]"
+                    fast-matcher-output="[array to be populated]"
+                    fast-matcher-property="[selector property (omit for a simple array of strings)]"
+                    ng-model="[bind to something so the directive knows what to $watch]" /&gt;
+
+                &lt;!--
+                    You can put this list anywhere on the page and style it however you want.
+                    In fact you can put it multiple places. Or nowhere. It also doesn't have to be
+                    a &lt;ul&gt; element. It can be anything.
+                --&gt;
+                &lt;ul&gt;
+                    &lt;li ng-repeat="item in [array specified w/ 'fast-matcher-output' property]"&gt;
+                        {{item}}
+                    &lt;/li&gt;
+                &lt;/ul&gt;
+            </textarea>
+        </div>
     </div>
 </body>
 

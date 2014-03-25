@@ -147,7 +147,6 @@
   var module = angular.module('fastMatcher', []);
 
   module.directive('fastMatcher', ['$q', function($q) {
-
     return {
       scope: {
         source: '=fastMatcherSource',
@@ -179,7 +178,6 @@
         });
       }
     };
-
   }]);
 
 }(angular));
