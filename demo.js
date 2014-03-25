@@ -1,6 +1,6 @@
 var app = angular.module('FastMatcherDemo', ['fastMatcher']);
 
-app.controller('DemoController', function($scope, $http, $q) {
+app.controller('DemoController', function($scope, $window, $http, $q) {
 
   // Tab navigation
   $scope.currentPage = 'demo';
@@ -18,35 +18,31 @@ app.controller('DemoController', function($scope, $http, $q) {
   };
 
   // Demo section
-  $scope.words = [];
+  $scope.books = [];
   $scope.loaded = false;
 
   var requests = [];
-  angular.forEach('abcdefghijklmnopqrstuvwxyz'.split(''), function(chapter) {
-    var request = $http.get('data/' + chapter + '.json');
+  angular.forEach('abcdefghijklmnopqrstuvwxyz'.split(''), function(letter) {
+    var request = $http.get('data/books/' + letter + '.json');
     request.success(function(data) {
-      $scope.words.push.apply($scope.words, data);
+      $scope.books.push.apply($scope.books, data);
     });
     requests.push(request);
   });
 
-  $scope.wordsPromise = $q.all(requests).then(function() {
+  $scope.booksPromise = $q.all(requests).then(function() {
     $scope.loaded = true;
-    return $scope.words;
+    return $scope.books;
   });
 
-  $scope.currentEntryIndex = -1;
+  $scope.currentBookIndex = -1;
 
-  $scope.setCurrentEntry = function(index) {
-    $scope.currentEntryIndex = index;
+  $scope.setCurrentBook = function(index) {
+    $scope.currentBookIndex = index;
   };
 
-  $scope.makeSelection = function(entry) {
-    $scope.selection = entry;
-  };
-
-  $scope.clearSelection = function() {
-    $scope.selection = null;
+  $scope.selectBook = function(book) {
+    $window.open('http://www.gutenberg.org/ebooks/' + book.id);
   };
 
 });

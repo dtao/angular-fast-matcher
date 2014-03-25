@@ -3,14 +3,16 @@
 
 <head>
     <title>angular-fast-matcher</title>
-    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootswatch/3.1.1/readable/bootstrap.min.css" />
-    <link rel="stylesheet" href="//yandex.st/highlightjs/8.0/styles/github.min.css">
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootswatch/3.1.1/superhero/bootstrap.min.css" />
+    <link rel="stylesheet" href="//yandex.st/highlightjs/8.0/styles/mono-blue.min.css">
     <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js"></script>
     <script src="//yandex.st/highlightjs/8.0/highlight.min.js"></script>
     <script src="angularFastMatcher.js"></script>
     <script src="demo.js"></script>
 
     <style>
+        .page-header { text-align: center; }
+        .page-header a { font-weight: bold; }
         .nav { margin-bottom: 15px; }
         .definition-list { display: table; padding-left: 0; }
         .definition-list li { display: table-row; }
@@ -31,6 +33,10 @@
             left: calc(50% - 300px);
         }
         pre { padding: 0; }
+        pre code {
+            font-family: "Consolas", "Inconsolata", monospace;
+            font-size: 110%;
+        }
     </style>
 
     <script>
@@ -45,15 +51,13 @@
             <p class="lead">
                 <strong>angular-fast-matcher</strong> is an Angular directive that uses the
                 <a href="https://github.com/dtao/fast-matcher">fast-matcher</a> library to
-                provide autocomplete results.
-            </p>
-            <p class="lead">
+                provide autocomplete results.<br />
                 See the <a href="#usage" ng-click="showPage('usage')">usage</a> section for details
                 on how to use it.
             </p>
         </div>
 
-        <ul class="nav nav-tabs">
+        <ul class="nav nav-pills">
             <li class="{{getTabClass('demo')}}">
                 <a href="#demo" ng-click="showPage('demo')">Demo</a>
             </li>
@@ -64,68 +68,27 @@
 
         <div ng-show="isCurrentPage('demo')">
             <div class="form-group">
-                <label>Start typing a word.</label>
                 <input type="text" name="prefix" class="form-control"
                     fast-matcher
-                    fast-matcher-source="wordsPromise"
-                    fast-matcher-output="matchingWords"
-                    fast-matcher-property="term"
-                    fast-matcher-current-callback="setCurrentEntry"
-                    fast-matcher-selection-callback="makeSelection"
-                    placeholder="Search {{words.length | number}} words"
+                    fast-matcher-source="booksPromise"
+                    fast-matcher-output="matchingBooks"
+                    fast-matcher-property="titleBase"
+                    fast-matcher-current-callback="setCurrentBook"
+                    fast-matcher-selection-callback="selectBook"
+                    placeholder="Search {{books.length | number}} books from Project Gutenberg"
                     ng-disabled="!loaded"
                     ng-model="prefix" />
             </div>
 
-            <dl class="list-group">
-                <a href="#" class="list-group-item {{$index == currentEntryIndex ? 'active' : ''}}"
-                    ng-click="makeSelection(entry)"
-                    ng-repeat="entry in matchingWords">
+            <div class="list-group">
+                <a ng-repeat="book in matchingBooks"
+                    href="http://www.gutenberg.org/ebooks/{{book.id}}"
+                    target="_blank"
+                    class="list-group-item {{$index == currentBookIndex ? 'active' : ''}}">
 
-                    <dt class="list-group-item-heading">{{entry.term}}</dt>
-                    <dd ng-if="entry.definitions.length === 1">
-                        <span class="part-of-speech">{{entry.definitions[0].pos}}</span>
-                        <span class="definition">{{entry.definitions[0].def}}</span>
-                    </dd>
-
-                    <dd ng-if="entry.definitions.length > 1">
-                        <ol class="definition-list">
-                            <li ng-repeat="definition in entry.definitions">
-                                <span class="part-of-speech">{{definition.pos}}</span>
-                                <span class="definition">{{definition.def}}</span>
-                            </li>
-                        </ol>
-                    </dd>
+                    <h3 class="list-group-item-heading">{{book.title}}</h3>
+                    <p>{{book.author}}</p>
                 </a>
-            </dl>
-
-            <div class="modal" ng-if="!!selection">
-                <div class="modal-dialog">
-                    <div class="modal-content">
-                        <div class="modal-header">
-                            <h1 class="modal-title text-center">{{selection.term}}</h1>
-                        </div>
-                        <div class="modal-body">
-                            <table class="table table-striped">
-                                <thead>
-                                    <tr>
-                                        <th>Type</th>
-                                        <th>Definition</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr ng-repeat="definition in selection.definitions">
-                                        <td>{{definition.pos}}</td>
-                                        <td>{{definition.def}}</td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        </div>
-                        <div class="modal-footer">
-                            <button class="btn btn-default" ng-click="clearSelection()">Close</button>
-                        </div>
-                    </div>
-                </div>
             </div>
         </div>
 
@@ -134,22 +97,50 @@
     Attach the directive to an &lt;input&gt; element with the following attributes.
 
     Required:
-    fast-matcher
-    fast-matcher-source
-    fast-matcher-output
+    =========
+
+    * fast-matcher
+
+    * fast-matcher-source
+      Specify either an array or promise that resolves to an array. This will be the underlying
+      source from which autocomplete results are fetched.
+
+    * fast-matcher-output
+      Specify the array to be populated with autocomplete results. If it doesn't already exist, the
+      directive will create it.
+
+      Note that this array will be updated in-place.
 
     Optional:
-    fast-matcher-property
-    fast-matcher-current-callback
-    fast-matcher-selection-callback
+    =========
+
+    * fast-matcher-property
+      The name of the property to access from each element of the underlying source. For example if
+      the data source is an array of book objects and you want to provide autocompletion by title,
+      you would specify 'title' here.
+
+      You don't have to include this attribute if the data source is just a list of strings.
+
+    * fast-matcher-current-callback
+      A function to call with the index of the currently selected item, whenever it changes. This is
+      to support keyboard-based selection (letting the user hit Up/Down to highlight items in the
+      list).
+
+    * fast-matcher-selection-callback
+      A function to call when an item selected from the list of autocompletion results. This will be
+      called when the user selects an item and hits Enter.
+--&gt;
+
+&lt;!--
+    Example
 --&gt;
 &lt;input type="text"
     fast-matcher
-    fast-matcher-source="[array or promise]"
-    fast-matcher-output="[array to be populated]"
-    fast-matcher-property="[selector property (omit for a simple array of strings)]"
-    fast-matcher-current-callback="[function to call w/ the index of the current item]"
-    fast-matcher-selection-callback="[function to call when an item is selected]" /&gt;
+    fast-matcher-source="books"
+    fast-matcher-output="matchedBooks"
+    fast-matcher-property="title"
+    fast-matcher-current-callback="setCurrentBook"
+    fast-matcher-selection-callback="selectBook" /&gt;
 
 &lt;!--
     You can put this list anywhere on the page and style it however you want.
@@ -157,8 +148,9 @@
     a &lt;ul&gt; element. It can be anything.
 --&gt;
 &lt;ul&gt;
-    &lt;li ng-repeat="item in [array specified w/ 'fast-matcher-output' property]"&gt;
-        {{item}}
+    &lt;li ng-repeat="book in matchedBooks" class="{{isCurrentBook($index) ? 'active' : ''}}"&gt;
+        &lt;div class="title"&gt;{{book.title}}&lt;/div&gt;
+        &lt;div class="author"&gt;{{book.author}}&lt;/div&gt;
     &lt;/li&gt;
 &lt;/ul&gt;</code></pre>
         </div>
