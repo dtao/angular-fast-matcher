@@ -157,8 +157,7 @@
       link: function(scope, element, attrs) {
         var parentScope = scope.$parent,
             property = attrs.fastMatcherProperty,
-            makeSelection = scope.selectionCallback,
-            model = attrs.ngModel;
+            makeSelection = scope.selectionCallback;
 
         if (!scope.matches) {
           scope.matches = [];
@@ -178,16 +177,30 @@
             matches: scope.matches
           });
 
-          parentScope.$watch(model, function() {
-            var needle = parentScope[model];
+          var previousNeedle;
+          function refreshMatches(needle) {
+            if (needle !== previousNeedle) {
+              scope.matches.length = 0;
+              setCurrentIndex(-1);
 
-            scope.matches.length = 0;
-            setCurrentIndex(-1);
-
-            if (needle) {
-              matcher.getMatches(needle);
+              if (needle) {
+                matcher.getMatches(needle);
+              }
             }
-          });
+
+            previousNeedle = needle;
+          }
+
+          if (attrs.ngModel) {
+            parentScope.$watch(attrs.ngModel, function() {
+              refreshMatches(parentScope[attrs.ngModel]);
+            });
+
+          } else {
+            element.on('keyup', function() {
+              scope.$apply(function() { refreshMatches(element.val()); });
+            });
+          }
 
           if (makeSelection) {
             element.on('keyup', function(e) {
