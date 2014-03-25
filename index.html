@@ -70,13 +70,14 @@
                     fast-matcher-source="wordsPromise"
                     fast-matcher-output="matchingWords"
                     fast-matcher-property="term"
+                    fast-matcher-selector="makeSelection"
                     placeholder="Search {{words.length | number}} words"
                     ng-disabled="!loaded"
                     ng-model="search" />
             </div>
 
             <dl class="list-group">
-                <a href="#" class="list-group-item"
+                <a href="#" class="list-group-item {{$index === selectedIndex ? 'active' : ''}}"
                     ng-click="makeSelection(entry)"
                     ng-repeat="entry in matchingWords">
 
@@ -130,12 +131,22 @@
         <div ng-show="isCurrentPage('usage')">
             <pre ng-non-bindable><code class="html">&lt;!--
     Attach the directive to an &lt;input&gt; element with the following attributes.
+
+    Required:
+    fast-matcher
+    fast-matcher-source
+    fast-matcher-output
+
+    Optional:
+    fast-matcher-property
+    fast-matcher-selector
 --&gt;
 &lt;input type="text"
     fast-matcher
     fast-matcher-source="[array or promise]"
     fast-matcher-output="[array to be populated]"
     fast-matcher-property="[selector property (omit for a simple array of strings)]"
+    fast-matcher-selector="[function to call when an item is selected]"
     ng-model="[bind to something so the directive knows what to $watch]" /&gt;
 
 &lt;!--
