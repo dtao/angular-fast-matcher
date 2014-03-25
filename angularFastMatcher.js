@@ -1,8 +1,15 @@
 (function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);throw new Error("Cannot find module '"+o+"'")}var f=n[o]={exports:{}};t[o][0].call(f.exports,function(e){var n=t[o][1][e];return s(n?n:e)},f,f.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){
 (function() {
 
+  /**
+   * @example
+   * var list = ['b', 'a', 'c'];
+   *
+   * // constructing a FastMatcher instance should not modify the list passed in
+   * new FastMatcher(list); // list == ['b', 'a', 'c']
+   */
   function FastMatcher(list, options) {
-    this.list     = list;
+    this.list     = list.slice(0);
     this.options  = options || {};
     this.matches  = this.options.matches || [];
 
@@ -28,8 +35,14 @@
    * // => 'oo'
    */
   FastMatcher.prototype.createSelector = function createSelector() {
-    var selector = this.options.selector;
+    var baseSelector = this.getBaseSelector(this.options.selector);
 
+    return this.options.caseInsensitive ?
+      function(x) { return baseSelector(x).toLowerCase(); } :
+      baseSelector;
+  };
+
+  FastMatcher.prototype.getBaseSelector = function(selector) {
     if (typeof selector === 'function') {
       return selector;
     }
@@ -43,9 +56,15 @@
 
   /**
    * @example
-   * var fm = new FastMatcher(['ab', 'ac', 'ba', 'bc']);
+   * function getMatches(list, prefix, options) {
+   *   return new FastMatcher(list, options).getMatches(prefix);
+   * }
    *
-   * fm.getMatches('a'); // => ['ab', 'ac']
+   * getMatches(['aa', 'ab', 'ba', 'bb'], 'a');
+   * // => ['aa', 'ab']
+   *
+   * getMatches(['aa', 'ba', 'AB', 'BB'], 'a', { caseInsensitive: true });
+   * // => ['aa', 'AB']
    */
   FastMatcher.prototype.getMatches = function getMatches(prefix) {
     if (this.options.caseInsensitive) {
@@ -122,13 +141,16 @@
   /**
    * @private
    * @example
+   * startsWith('', 'a');     // => false
+   * startsWith('a', 'a');    // => true
+   * startsWith('aa', 'a');   // => true
    * startsWith('foo', 'f');  // => true
    * startsWith('bar', 'f');  // => false
    * startsWith('foo', 'fo'); // => true
    * startsWith('foo', 'o');  // => false
    */
   function startsWith(string, prefix) {
-    return string.lastIndexOf(prefix, prefix.length) === 0;
+    return string.lastIndexOf(prefix, prefix.length - 1) === 0;
   }
 
   if (typeof module === 'object' && (module && module.exports)) {
@@ -174,7 +196,8 @@
         $q.when(scope.source).then(function(source) {
           var matcher = new FastMatcher(source, {
             selector: property,
-            matches: scope.matches
+            matches: scope.matches,
+            caseInsensitive: true
           });
 
           var previousNeedle;

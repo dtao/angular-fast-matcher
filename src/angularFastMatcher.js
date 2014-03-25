@@ -32,7 +32,8 @@
         $q.when(scope.source).then(function(source) {
           var matcher = new FastMatcher(source, {
             selector: property,
-            matches: scope.matches
+            matches: scope.matches,
+            caseInsensitive: true
           });
 
           var previousNeedle;

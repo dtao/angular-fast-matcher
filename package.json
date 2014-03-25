@@ -8,6 +8,6 @@
     "gulp-browserify": "^0.5.0"
   },
   "dependencies": {
-    "fast-matcher": "^0.1.0"
+    "fast-matcher": "^0.1.1"
   }
 }
