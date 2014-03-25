@@ -35,4 +35,12 @@ app.controller('DemoController', function($scope, $http, $q) {
     return $scope.words;
   });
 
+  $scope.makeSelection = function(entry) {
+    $scope.selection = entry;
+  };
+
+  $scope.clearSelection = function() {
+    $scope.selection = null;
+  };
+
 });

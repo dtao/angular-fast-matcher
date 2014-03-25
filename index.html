@@ -21,6 +21,15 @@
         }
         .part-of-speech:before { content: "("; }
         .part-of-speech:after { content: ")"; }
+        .modal { display: block; background-color: rgba(0, 0, 0, 0.75); }
+        .modal-dialog {
+            display: block;
+            position: absolute;
+            width: 600px;
+            max-height: 600px;
+            top: calc(50% - 300px);
+            left: calc(50% - 300px);
+        }
         pre { padding: 0; }
     </style>
 
@@ -67,7 +76,10 @@
             </div>
 
             <dl class="list-group">
-                <div class="list-group-item" ng-repeat="entry in matchingWords">
+                <a href="#" class="list-group-item"
+                    ng-click="makeSelection(entry)"
+                    ng-repeat="entry in matchingWords">
+
                     <dt class="list-group-item-heading">{{entry.term}}</dt>
                     <dd ng-if="entry.definitions.length === 1">
                         <span class="part-of-speech">{{entry.definitions[0].pos}}</span>
@@ -82,8 +94,37 @@
                             </li>
                         </ol>
                     </dd>
-                </div>
+                </a>
             </dl>
+
+            <div class="modal" ng-if="!!selection">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h1 class="modal-title text-center">{{selection.term}}</h1>
+                        </div>
+                        <div class="modal-body">
+                            <table class="table table-striped">
+                                <thead>
+                                    <tr>
+                                        <th>Type</th>
+                                        <th>Definition</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr ng-repeat="definition in selection.definitions">
+                                        <td>{{definition.pos}}</td>
+                                        <td>{{definition.def}}</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="modal-footer">
+                            <button class="btn btn-default" ng-click="clearSelection()">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
 
         <div ng-show="isCurrentPage('usage')">
