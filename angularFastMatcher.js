@@ -226,7 +226,7 @@
           }
 
           if (makeSelection) {
-            element.on('keyup', function(e) {
+            element.on('keydown', function(e) {
               switch (e.keyCode) {
                 case 13: // enter
                   if (selectedIndex >= 0 && selectedIndex < scope.matches.length) {
