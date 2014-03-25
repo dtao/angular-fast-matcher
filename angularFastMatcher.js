@@ -237,10 +237,6 @@
                   setCurrentIndex(-1);
                   break;
 
-                case 27: // esc
-                  element.blur();
-                  break;
-
                 case 38: // up
                   setCurrentIndex((selectedIndex || scope.matches.length) - 1);
                   break;
