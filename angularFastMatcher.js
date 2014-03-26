@@ -9,49 +9,69 @@
    * new FastMatcher(list); // list == ['b', 'a', 'c']
    */
   function FastMatcher(list, options) {
-    this.list     = list.slice(0);
+    var source    = this.source = this.wrapList(list);
     this.options  = options || {};
     this.matches  = this.options.matches || [];
 
-    var selector = this.selector = this.createSelector();
-    this.list.sort(function(x, y) {
-      return compare(selector(x), selector(y));
+    var selectors = this.selectors = this.createSelectors();
+    this.lists = selectors.map(function(selector) {
+      var list = source.slice(0);
+      list.sort(function(x, y) {
+        return compare(selector(x.val), selector(y.val));
+      });
+      list.selector = selector;
+      return list;
     });
   }
 
   /**
    * @example
-   * function createSelector(property) {
-   *   return new FastMatcher([], { selector: property }).createSelector();
+   * function wrapList(list) {
+   *   return new FastMatcher([]).wrapList(list);
    * }
    *
-   * createSelector()('foo');
-   * // => 'foo'
-   *
-   * createSelector('x')({ x: 'bar'});
-   * // => 'bar'
-   *
-   * createSelector(function(str) { return str.slice(1); })('foo');
-   * // => 'oo'
+   * wrapList([5, 3, 4]); // => [{i:0,val:5},{i:1,val:3},{i:2,val:4}]
    */
-  FastMatcher.prototype.createSelector = function createSelector() {
-    var baseSelector = this.getBaseSelector(this.options.selector);
-
-    return this.options.caseInsensitive ?
-      function(x) { return baseSelector(x).toLowerCase(); } :
-      baseSelector;
+  FastMatcher.prototype.wrapList = function wrapList(list) {
+    return list.map(function(e, i) { return { i: i, val: e }; });
   };
 
-  FastMatcher.prototype.getBaseSelector = function(selector) {
-    if (typeof selector === 'function') {
-      return selector;
+  /**
+   * @example
+   * function createSelectors(selector) {
+   *   return new FastMatcher([], { selector: selector }).createSelectors();
+   * }
+   *
+   * createSelectors()[0]('foo');
+   * // => 'foo'
+   *
+   * createSelectors('x')[0]({ x: 'bar'});
+   * // => 'bar'
+   *
+   * createSelectors(function(str) { return str.slice(1); })[0]('foo');
+   * // => 'oo'
+   *
+   * createSelectors(['x', 'y'])[0]({ x: 'foo', y: 'bar' });
+   * // => 'foo'
+   *
+   * createSelectors(['x', 'y'])[1]({ x: 'foo', y: 'bar' });
+   * // => 'bar'
+   */
+  FastMatcher.prototype.createSelectors = function createSelectors() {
+    var options   = this.options,
+        selectors = options.selector;
+
+    if (!(selectors instanceof Array)) {
+      selectors = [selectors];
     }
 
-    if (selector) {
-      return function(x) { return x[selector]; };
-    }
+    return selectors.map(function(selector) {
+      var baseSelector = getBaseSelector(selector);
 
-    return function(x) { return x; };
+      return options.caseInsensitive ?
+        function(x) { return baseSelector(x).toLowerCase(); } :
+        baseSelector;
+    });
   };
 
   /**
@@ -65,45 +85,85 @@
    *
    * getMatches(['aa', 'ba', 'AB', 'BB'], 'a', { caseInsensitive: true });
    * // => ['aa', 'AB']
+   *
+   * getMatches(['ac', 'ab', 'b', 'aa'], 'a', { preserveOrder: true });
+   * // => ['ac', 'ab', 'aa']
+   *
+   * getMatches(['aa', 'ab', 'ac'], 'a', { limit: 2 });
+   * // => ['aa', 'ab']
+   *
+   * getMatches([{x:'a',y:'b'},{x:'b',y:'a'}], 'a', { selector: ['x', 'y'] });
+   * // => [{x:'a',y:'b'},{x:'b',y:'a'}]
+   *
+   * getMatches([{x:'a'},{y:'a'}], 'a', { selector: ['x', 'y'] });
+   * // => [{x:'a'},{y:'a'}]
+   *
+   * getMatches([{x:'a',y:'a'}], 'a', { selector: ['x', 'y'] });
+   * // => [{x:'a',y:'a'}]
+   *
+   * getMatches([{x:'a',y:'a'},{x:'a',y:'b'},{x:'b',y:'a'}], 'a', { selector: ['x', 'y'], limit: 3 });
+   * // => [{x:'a',y:'a'},{x:'a',y:'b'},{x:'b',y:'a'}]
+   *
+   * getMatches([{x:'a',y:'a'},{x:'a',y:'b'},{x:'b',y:'a'},{x:'c',y:'a'}], 'a', { selector: ['x', 'y'], limit: 3 });
+   * // => [{x:'a',y:'a'},{x:'a',y:'b'},{x:'b',y:'a'}]
    */
   FastMatcher.prototype.getMatches = function getMatches(prefix) {
     if (this.options.caseInsensitive) {
       prefix = prefix.toLowerCase();
     }
 
-    var limit    = Number(this.options.limit || 25),
-        selector = this.selector;
+    var originalLimit = Number(this.options.limit || 25);
 
-    var list    = this.list,
-        matches = this.matches,
-        index   = this.findIndex(prefix);
+    var limit = originalLimit,
+        lists = this.lists,
+        items = [],
+        list, index, item, itemsAdded;
 
-    matches.length = 0;
-
-    var item;
-    while (index < list.length) {
-      if (matches.length === limit) {
+    for (var i = 0; i < lists.length; ++i) {
+      if (items.length === limit) {
         break;
       }
 
-      item = selector(list[index]);
-      if (this.options.caseInsensitive) {
-        item = item.toLowerCase();
+      list = lists[i];
+      index = this.findIndex(list, prefix);
+      itemsAdded = 0;
+
+      while (index < list.length) {
+        if (items.length === limit) {
+          break;
+        }
+
+        item = list.selector(list[index].val);
+        if (this.options.caseInsensitive) {
+          item = item.toLowerCase();
+        }
+
+        if (!startsWith(item, prefix)) {
+          break;
+        }
+
+        items.push(list[index++]);
+        ++itemsAdded;
       }
 
-      if (!startsWith(item, prefix)) {
-        break;
-      }
-
-      matches.push(list[index++]);
+      // Say the original limit is 20 and we just found 10 more items. We now
+      // need to increase the effective limit (before removing duplicates) by 10
+      // to account for the maximum possible overlap between the matches found
+      // so far and the matches from the next list.
+      limit += itemsAdded;
     }
 
-    return matches;
+    if (this.options.preserveOrder) {
+      items.sort(function(x, y) { return compare(x.i, y.i); });
+    }
+
+    populate(this.matches, getValues(items, originalLimit));
+
+    return this.matches;
   };
 
-  FastMatcher.prototype.findIndex = function findIndex(prefix) {
-    var list     = this.list,
-        selector = this.selector,
+  FastMatcher.prototype.findIndex = function findIndex(list, prefix) {
+    var selector = list.selector,
         lower    = 0,
         upper    = list.length;
 
@@ -111,7 +171,7 @@
     while (lower < upper) {
       i = (lower + upper) >>> 1;
 
-      value = selector(list[i]);
+      value = selector(list[i].val);
       if (this.options.caseInsensitive) {
         value = value.toLowerCase();
       }
@@ -125,6 +185,69 @@
 
     return lower;
   };
+
+  /**
+   * @private
+   * @example
+   * getBaseSelector()('foo');
+   * // => 'foo'
+   *
+   * getBaseSelector('x')({ x: 'bar'});
+   * // => 'bar'
+   *
+   * getBaseSelector(function(str) { return str.slice(1); })('foo');
+   * // => 'oo'
+   */
+  function getBaseSelector(selector) {
+    if (typeof selector === 'function') {
+      return selector;
+    }
+
+    if (selector) {
+      return function(x) { return x[selector] || ''; };
+    }
+
+    return function(x) { return x; };
+  }
+
+  /**
+   * @private
+   * @example
+   * var arr = [];
+   *
+   * populate(arr, [1, 2, 3]); // arr == [1, 2, 3]
+   * populate(arr, []);        // arr == []
+   * populate(arr, ['foo']);   // arr == ['foo']
+   */
+  function populate(array, elements) {
+    var count = elements.length;
+    array.length = count;
+    for (var i = 0; i < count; ++i) {
+      array[i] = elements[i];
+    }
+  }
+
+  /**
+   * @private
+   * @example
+   * getValues([{i:0,val:'a'},{i:0,val:'a'},{i:1,val:'b'}], 3);
+   * // => ['a', 'b']
+   *
+   * getValues([{i:0,val:'a'},{i:1,val:'b'},{i:2,val:'c'}], 2);
+   * // => ['a', 'b']
+   */
+  function getValues(items, limit) {
+    var indexes = {}, values = [];
+
+    for (var i = 0; values.length < limit && i < items.length; ++i) {
+      if (!indexes[items[i].i]) {
+        indexes[items[i].i] = true;
+        values.push(items[i].val);
+      }
+    }
+
+    return values;
+  }
 
   /**
    * @private
@@ -181,6 +304,9 @@
             property = attrs.fastMatcherProperty,
             makeSelection = scope.selectionCallback;
 
+        if (!property) {
+          property = (attrs.fastMatcherProperties || '').split(/[\s,]+/);
+        }
         if (!scope.matches) {
           scope.matches = [];
         }
@@ -197,7 +323,8 @@
           var matcher = new FastMatcher(source, {
             selector: property,
             matches: scope.matches,
-            caseInsensitive: true
+            caseInsensitive: true,
+            preserveOrder: true
           });
 
           var previousNeedle;

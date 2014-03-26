@@ -17,6 +17,9 @@
             property = attrs.fastMatcherProperty,
             makeSelection = scope.selectionCallback;
 
+        if (!property) {
+          property = (attrs.fastMatcherProperties || '').split(/[\s,]+/);
+        }
         if (!scope.matches) {
           scope.matches = [];
         }
@@ -33,7 +36,8 @@
           var matcher = new FastMatcher(source, {
             selector: property,
             matches: scope.matches,
-            caseInsensitive: true
+            caseInsensitive: true,
+            preserveOrder: true
           });
 
           var previousNeedle;
