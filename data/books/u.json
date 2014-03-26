@@ -1,0 +1,4362 @@
+[
+  {
+    "id": "5449",
+    "title": "Uarda : a Romance of Ancient Egypt — Complete",
+    "titleBase": "Uarda : a Romance of Ancient Egypt — Complete",
+    "author": "Bell, Clara",
+    "authorFullName": "Clara Bell",
+    "authorId": "b#a1801"
+  },
+  {
+    "id": "5449",
+    "title": "Uarda : a Romance of Ancient Egypt — Complete",
+    "titleBase": "Uarda : a Romance of Ancient Egypt — Complete",
+    "author": "Ebers, Georg",
+    "authorFullName": "Georg Ebers",
+    "authorId": "e#a1800"
+  },
+  {
+    "id": "5439",
+    "title": "Uarda : a Romance of Ancient Egypt — Volume 01",
+    "titleBase": "Uarda : a Romance of Ancient Egypt — Volume 01",
+    "author": "Bell, Clara",
+    "authorFullName": "Clara Bell",
+    "authorId": "b#a1801"
+  },
+  {
+    "id": "5439",
+    "title": "Uarda : a Romance of Ancient Egypt — Volume 01",
+    "titleBase": "Uarda : a Romance of Ancient Egypt — Volume 01",
+    "author": "Ebers, Georg",
+    "authorFullName": "Georg Ebers",
+    "authorId": "e#a1800"
+  },
+  {
+    "id": "5440",
+    "title": "Uarda : a Romance of Ancient Egypt — Volume 02",
+    "titleBase": "Uarda : a Romance of Ancient Egypt — Volume 02",
+    "author": "Bell, Clara",
+    "authorFullName": "Clara Bell",
+    "authorId": "b#a1801"
+  },
+  {
+    "id": "5440",
+    "title": "Uarda : a Romance of Ancient Egypt — Volume 02",
+    "titleBase": "Uarda : a Romance of Ancient Egypt — Volume 02",
+    "author": "Ebers, Georg",
+    "authorFullName": "Georg Ebers",
+    "authorId": "e#a1800"
+  },
+  {
+    "id": "5441",
+    "title": "Uarda : a Romance of Ancient Egypt — Volume 03",
+    "titleBase": "Uarda : a Romance of Ancient Egypt — Volume 03",
+    "author": "Bell, Clara",
+    "authorFullName": "Clara Bell",
+    "authorId": "b#a1801"
+  },
+  {
+    "id": "5441",
+    "title": "Uarda : a Romance of Ancient Egypt — Volume 03",
+    "titleBase": "Uarda : a Romance of Ancient Egypt — Volume 03",
+    "author": "Ebers, Georg",
+    "authorFullName": "Georg Ebers",
+    "authorId": "e#a1800"
+  },
+  {
+    "id": "5442",
+    "title": "Uarda : a Romance of Ancient Egypt — Volume 04",
+    "titleBase": "Uarda : a Romance of Ancient Egypt — Volume 04",
+    "author": "Bell, Clara",
+    "authorFullName": "Clara Bell",
+    "authorId": "b#a1801"
+  },
+  {
+    "id": "5442",
+    "title": "Uarda : a Romance of Ancient Egypt — Volume 04",
+    "titleBase": "Uarda : a Romance of Ancient Egypt — Volume 04",
+    "author": "Ebers, Georg",
+    "authorFullName": "Georg Ebers",
+    "authorId": "e#a1800"
+  },
+  {
+    "id": "5443",
+    "title": "Uarda : a Romance of Ancient Egypt — Volume 05",
+    "titleBase": "Uarda : a Romance of Ancient Egypt — Volume 05",
+    "author": "Bell, Clara",
+    "authorFullName": "Clara Bell",
+    "authorId": "b#a1801"
+  },
+  {
+    "id": "5443",
+    "title": "Uarda : a Romance of Ancient Egypt — Volume 05",
+    "titleBase": "Uarda : a Romance of Ancient Egypt — Volume 05",
+    "author": "Ebers, Georg",
+    "authorFullName": "Georg Ebers",
+    "authorId": "e#a1800"
+  },
+  {
+    "id": "5444",
+    "title": "Uarda : a Romance of Ancient Egypt — Volume 06",
+    "titleBase": "Uarda : a Romance of Ancient Egypt — Volume 06",
+    "author": "Bell, Clara",
+    "authorFullName": "Clara Bell",
+    "authorId": "b#a1801"
+  },
+  {
+    "id": "5444",
+    "title": "Uarda : a Romance of Ancient Egypt — Volume 06",
+    "titleBase": "Uarda : a Romance of Ancient Egypt — Volume 06",
+    "author": "Ebers, Georg",
+    "authorFullName": "Georg Ebers",
+    "authorId": "e#a1800"
+  },
+  {
+    "id": "5445",
+    "title": "Uarda : a Romance of Ancient Egypt — Volume 07",
+    "titleBase": "Uarda : a Romance of Ancient Egypt — Volume 07",
+    "author": "Bell, Clara",
+    "authorFullName": "Clara Bell",
+    "authorId": "b#a1801"
+  },
+  {
+    "id": "5445",
+    "title": "Uarda : a Romance of Ancient Egypt — Volume 07",
+    "titleBase": "Uarda : a Romance of Ancient Egypt — Volume 07",
+    "author": "Ebers, Georg",
+    "authorFullName": "Georg Ebers",
+    "authorId": "e#a1800"
+  },
+  {
+    "id": "5446",
+    "title": "Uarda : a Romance of Ancient Egypt — Volume 08",
+    "titleBase": "Uarda : a Romance of Ancient Egypt — Volume 08",
+    "author": "Bell, Clara",
+    "authorFullName": "Clara Bell",
+    "authorId": "b#a1801"
+  },
+  {
+    "id": "5446",
+    "title": "Uarda : a Romance of Ancient Egypt — Volume 08",
+    "titleBase": "Uarda : a Romance of Ancient Egypt — Volume 08",
+    "author": "Ebers, Georg",
+    "authorFullName": "Georg Ebers",
+    "authorId": "e#a1800"
+  },
+  {
+    "id": "5447",
+    "title": "Uarda : a Romance of Ancient Egypt — Volume 09",
+    "titleBase": "Uarda : a Romance of Ancient Egypt — Volume 09",
+    "author": "Bell, Clara",
+    "authorFullName": "Clara Bell",
+    "authorId": "b#a1801"
+  },
+  {
+    "id": "5447",
+    "title": "Uarda : a Romance of Ancient Egypt — Volume 09",
+    "titleBase": "Uarda : a Romance of Ancient Egypt — Volume 09",
+    "author": "Ebers, Georg",
+    "authorFullName": "Georg Ebers",
+    "authorId": "e#a1800"
+  },
+  {
+    "id": "5448",
+    "title": "Uarda : a Romance of Ancient Egypt — Volume 10",
+    "titleBase": "Uarda : a Romance of Ancient Egypt — Volume 10",
+    "author": "Bell, Clara",
+    "authorFullName": "Clara Bell",
+    "authorId": "b#a1801"
+  },
+  {
+    "id": "5448",
+    "title": "Uarda : a Romance of Ancient Egypt — Volume 10",
+    "titleBase": "Uarda : a Romance of Ancient Egypt — Volume 10",
+    "author": "Ebers, Georg",
+    "authorFullName": "Georg Ebers",
+    "authorId": "e#a1800"
+  },
+  {
+    "id": "38496",
+    "title": "UbirajaraLenda tupi",
+    "titleBase": "UbirajaraLenda tupi",
+    "author": "Alencar, José Martiniano de",
+    "authorFullName": "José Martiniano de Alencar",
+    "authorId": "a#a33653"
+  },
+  {
+    "id": "23601",
+    "title": "The U-boat hunters",
+    "titleBase": "U-boat hunters",
+    "author": "Connolly, James B. (James Brendan)",
+    "authorFullName": "James B. (James Brendan) Connolly",
+    "authorId": "c#a5241"
+  },
+  {
+    "id": "16884",
+    "title": "Ubu Roiou les Polonais",
+    "titleBase": "Ubu Roiou les Polonais",
+    "author": "Jarry, Alfred",
+    "authorFullName": "Alfred Jarry",
+    "authorId": "j#a6994"
+  },
+  {
+    "id": "35102",
+    "title": "Udvalgte Digtninger",
+    "titleBase": "Udvalgte Digtninger",
+    "author": "Heiberg, Johan Ludvig",
+    "authorFullName": "Johan Ludvig Heiberg",
+    "authorId": "h#a37463"
+  },
+  {
+    "id": "24817",
+    "title": "Ueber die Geometrie der alten Aegypter.\rVortrag, gehalten in der feierlichen Sitzung der Kaiserlichen Akademie der Wissenschaften am 29. Mai 1884.",
+    "titleBase": "Ueber die Geometrie der alten Aegypter.\rVortrag, gehalten in der feierlichen Sitzung der Kaiserlichen Akademie der Wissenschaften am 29. Mai 1884.",
+    "author": "Weyr, Emil",
+    "authorFullName": "Emil Weyr",
+    "authorId": "w#a26751"
+  },
+  {
+    "id": "18471",
+    "title": "Ueber die schrecklichen Wirkungen des Aufsturzes eines Kometen auf die Erdeund über die vor fünftausend Jahren gehabte Erscheinung dieser Art",
+    "titleBase": "Ueber die schrecklichen Wirkungen des Aufsturzes eines Kometen auf die Erdeund über die vor fünftausend Jahren gehabte Erscheinung dieser Art",
+    "author": "Gelpke, August Heinrich Christian",
+    "authorFullName": "August Heinrich Christian Gelpke",
+    "authorId": "g#a8050"
+  },
+  {
+    "id": "37377",
+    "title": "Ueber die Wirkung des Nordsee-BadesEine physiologisch-chemische Untersuchung",
+    "titleBase": "Ueber die Wirkung des Nordsee-BadesEine physiologisch-chemische Untersuchung",
+    "author": "Beneke, F. W.",
+    "authorFullName": "F. W. Beneke",
+    "authorId": "b#a38807"
+  },
+  {
+    "id": "21349",
+    "title": "Ueber Goethes Hermann und Dorothea",
+    "titleBase": "Ueber Goethes Hermann und Dorothea",
+    "author": "Hehn, Victor",
+    "authorFullName": "Victor Hehn",
+    "authorId": "h#a9872"
+  },
+  {
+    "id": "21349",
+    "title": "Ueber Goethes Hermann und Dorothea",
+    "titleBase": "Ueber Goethes Hermann und Dorothea",
+    "author": "Leitzmann, Albert",
+    "authorFullName": "Albert Leitzmann",
+    "authorId": "l#a9873"
+  },
+  {
+    "id": "21349",
+    "title": "Ueber Goethes Hermann und Dorothea",
+    "titleBase": "Ueber Goethes Hermann und Dorothea",
+    "author": "Schiemann, Theodor",
+    "authorFullName": "Theodor Schiemann",
+    "authorId": "s#a9874"
+  },
+  {
+    "id": "20313",
+    "title": "Ueber Riemann's Theorie der Algebraischen Functionen",
+    "titleBase": "Ueber Riemann's Theorie der Algebraischen Functionen",
+    "author": "Klein, Felix",
+    "authorFullName": "Felix Klein",
+    "authorId": "k#a9227"
+  },
+  {
+    "id": "43175",
+    "title": "Ugo Foscolo (1778-1827)La vita italiana durante la Rivoluzione francese e l'Impero",
+    "titleBase": "Ugo Foscolo (1778-1827)La vita italiana durante la Rivoluzione francese e l'Impero",
+    "author": "Chiarini, Giuseppe",
+    "authorFullName": "Giuseppe Chiarini",
+    "authorId": "c#a42051"
+  },
+  {
+    "id": "9641",
+    "title": "Ugo: Scene del secolo X",
+    "titleBase": "Ugo: Scene del secolo X",
+    "author": "Bazzero, Ambrogio",
+    "authorFullName": "Ambrogio Bazzero",
+    "authorId": "b#a3110"
+  },
+  {
+    "id": "29712",
+    "title": "Uit het leven van Dik Trom",
+    "titleBase": "Uit het leven van Dik Trom",
+    "author": "Braakensiek, Joh. (Johan Coenraad)",
+    "authorFullName": "Joh. (Johan Coenraad) Braakensiek",
+    "authorId": "b#a6460"
+  },
+  {
+    "id": "29712",
+    "title": "Uit het leven van Dik Trom",
+    "titleBase": "Uit het leven van Dik Trom",
+    "author": "Kieviet, Cornelis Johannes",
+    "authorFullName": "Cornelis Johannes Kieviet",
+    "authorId": "k#a2188"
+  },
+  {
+    "id": "14088",
+    "title": "Uit Marokko\rDe Aarde en haar Volken, 1906",
+    "titleBase": "Uit Marokko\rDe Aarde en haar Volken, 1906",
+    "author": "Genthe, Siegfried",
+    "authorFullName": "Siegfried Genthe",
+    "authorId": "g#a5364"
+  },
+  {
+    "id": "41675",
+    "title": "Uit Ons DorpDrie Verhalen voor Meisjes",
+    "titleBase": "Uit Ons DorpDrie Verhalen voor Meisjes",
+    "author": "Andriessen, P. J. (Pieter Jacob)",
+    "authorFullName": "P. J. (Pieter Jacob) Andriessen",
+    "authorId": "a#a9271"
+  },
+  {
+    "id": "29590",
+    "title": "Uit Sowjet-Rusland: Beelden en beschouwingen",
+    "titleBase": "Uit Sowjet-Rusland: Beelden en beschouwingen",
+    "author": "Roland Holst-Van der Schalk, Henriette",
+    "authorFullName": "Henriette Roland Holst-Van der Schalk",
+    "authorId": "r#a4174"
+  },
+  {
+    "id": "27405",
+    "title": "Ulf Van Yern, and Other Ballads",
+    "titleBase": "Ulf Van Yern, and Other Ballads",
+    "author": "Borrow, George",
+    "authorFullName": "George Borrow",
+    "authorId": "b#a4383"
+  },
+  {
+    "id": "27405",
+    "title": "Ulf Van Yern, and Other Ballads",
+    "titleBase": "Ulf Van Yern, and Other Ballads",
+    "author": "Wise, Thomas James",
+    "authorFullName": "Thomas James Wise",
+    "authorId": "w#a31678"
+  },
+  {
+    "id": "44283",
+    "title": "Ulla FersenHistoriallinen novelli",
+    "titleBase": "Ulla FersenHistoriallinen novelli",
+    "author": "Lempiranta, Arvo",
+    "authorFullName": "Arvo Lempiranta",
+    "authorId": "l#a8156"
+  },
+  {
+    "id": "44283",
+    "title": "Ulla FersenHistoriallinen novelli",
+    "titleBase": "Ulla FersenHistoriallinen novelli",
+    "author": "Mellin, G. H. (Gustaf Henrik)",
+    "authorFullName": "G. H. (Gustaf Henrik) Mellin",
+    "authorId": "m#a9455"
+  },
+  {
+    "id": "19474",
+    "title": "Uller Uprising",
+    "titleBase": "Uller Uprising",
+    "author": "Carr, John F.",
+    "authorFullName": "John F. Carr",
+    "authorId": "c#a8699"
+  },
+  {
+    "id": "19474",
+    "title": "Uller Uprising",
+    "titleBase": "Uller Uprising",
+    "author": "Clark, John D.",
+    "authorFullName": "John D. Clark",
+    "authorId": "c#a8698"
+  },
+  {
+    "id": "19474",
+    "title": "Uller Uprising",
+    "titleBase": "Uller Uprising",
+    "author": "Piper, H. Beam",
+    "authorFullName": "H. Beam Piper",
+    "authorId": "p#a8301"
+  },
+  {
+    "id": "19370",
+    "title": "Ullr Uprising",
+    "titleBase": "Ullr Uprising",
+    "author": "Piper, H. Beam",
+    "authorFullName": "H. Beam Piper",
+    "authorId": "p#a8301"
+  },
+  {
+    "id": "24887",
+    "title": "Ulrich SchmidelDer erste Geschichtschreiber der La Plata-Länder (1535-1555)",
+    "titleBase": "Ulrich SchmidelDer erste Geschichtschreiber der La Plata-Länder (1535-1555)",
+    "author": "Lehmann-Nitsche, Robert",
+    "authorFullName": "Robert Lehmann-Nitsche",
+    "authorId": "l#a26794"
+  },
+  {
+    "id": "34374",
+    "title": "UlrikeEine Erzählung",
+    "titleBase": "UlrikeEine Erzählung",
+    "author": "Sternheim, Carl",
+    "authorFullName": "Carl Sternheim",
+    "authorId": "s#a36981"
+  },
+  {
+    "id": "42958",
+    "title": "Ulster",
+    "titleBase": "Ulster",
+    "author": "Gwynn, Stephen Lucius",
+    "authorFullName": "Stephen Lucius Gwynn",
+    "authorId": "g#a2451"
+  },
+  {
+    "id": "37187",
+    "title": "Ulster Folklore",
+    "titleBase": "Ulster Folklore",
+    "author": "Andrews, Elizabeth",
+    "authorFullName": "Elizabeth Andrews",
+    "authorId": "a#a38692"
+  },
+  {
+    "id": "14326",
+    "title": "Ulster's Stand For Union",
+    "titleBase": "Ulster's Stand For Union",
+    "author": "McNeill, Ronald",
+    "authorFullName": "Ronald McNeill",
+    "authorId": "m#a5475"
+  },
+  {
+    "id": "35982",
+    "title": "A ultima ceia do Doutor Fausto",
+    "titleBase": "ultima ceia do Doutor Fausto",
+    "author": "Pimentel, Alberto",
+    "authorFullName": "Alberto Pimentel",
+    "authorId": "p#a25371"
+  },
+  {
+    "id": "31299",
+    "title": "The Ultimate Criminal",
+    "titleBase": "Ultimate Criminal",
+    "author": "Grimké, Archibald Henry",
+    "authorFullName": "Archibald Henry Grimké",
+    "authorId": "g#a5574"
+  },
+  {
+    "id": "22466",
+    "title": "The Ultimate Experiment",
+    "titleBase": "Ultimate Experiment",
+    "author": "DeKy, Thornton",
+    "authorFullName": "Thornton DeKy",
+    "authorId": "d#a25339"
+  },
+  {
+    "id": "23790",
+    "title": "The Ultimate Weapon",
+    "titleBase": "Ultimate Weapon",
+    "author": "Campbell, John Wood",
+    "authorFullName": "John Wood Campbell",
+    "authorId": "c#a9112"
+  },
+  {
+    "id": "30334",
+    "title": "Ultima Thule",
+    "titleBase": "Ultima Thule",
+    "author": "Reynolds, Mack",
+    "authorFullName": "Mack Reynolds",
+    "authorId": "r#a25744"
+  },
+  {
+    "id": "30334",
+    "title": "Ultima Thule",
+    "titleBase": "Ultima Thule",
+    "author": "Schoenherr, John",
+    "authorFullName": "John Schoenherr",
+    "authorId": "s#a25396"
+  },
+  {
+    "id": "29998",
+    "title": "Ultimatum de 11 de Janeiro",
+    "titleBase": "Ultimatum de 11 de Janeiro",
+    "author": "Quental, Antero de",
+    "authorFullName": "Antero de Quental",
+    "authorId": "q#a34296"
+  },
+  {
+    "id": "29998",
+    "title": "Ultimatum de 11 de Janeiro",
+    "titleBase": "Ultimatum de 11 de Janeiro",
+    "author": "Veloso, Rodrigo",
+    "authorFullName": "Rodrigo Veloso",
+    "authorId": "v#a34297"
+  },
+  {
+    "id": "31357",
+    "title": "The Ultroom Error",
+    "titleBase": "Ultroom Error",
+    "author": "Sohl, Jerry",
+    "authorFullName": "Jerry Sohl",
+    "authorId": "s#a35175"
+  },
+  {
+    "id": "4300",
+    "title": "Ulysses",
+    "titleBase": "Ulysses",
+    "author": "Joyce, James",
+    "authorFullName": "James Joyce",
+    "authorId": "j#a1039"
+  },
+  {
+    "id": "28386",
+    "title": "Ulysses S. Grant",
+    "titleBase": "Ulysses S. Grant",
+    "author": "Allen, Walter",
+    "authorFullName": "Walter Allen",
+    "authorId": "a#a33329"
+  },
+  {
+    "id": "35130",
+    "title": "Uma visita ao primeiro romancista portuguez em S. Miguel de Seide",
+    "titleBase": "Uma visita ao primeiro romancista portuguez em S. Miguel de Seide",
+    "author": "Pimentel, Alberto",
+    "authorFullName": "Alberto Pimentel",
+    "authorId": "p#a25371"
+  },
+  {
+    "id": "5900",
+    "title": "Umboo, the Elephant",
+    "titleBase": "Umboo, the Elephant",
+    "author": "Garis, Howard Roger",
+    "authorFullName": "Howard Roger Garis",
+    "authorId": "g#a808"
+  },
+  {
+    "id": "6674",
+    "title": "Umbrellas and Their History",
+    "titleBase": "Umbrellas and Their History",
+    "author": "Sangster, William",
+    "authorFullName": "William Sangster",
+    "authorId": "s#a2145"
+  },
+  {
+    "id": "31657",
+    "title": "Um club da Má-Lingua",
+    "titleBase": "Um club da Má-Lingua",
+    "author": "Dostoyevsky, Fyodor",
+    "authorFullName": "Fyodor Dostoyevsky",
+    "authorId": "d#a314"
+  },
+  {
+    "id": "31657",
+    "title": "Um club da Má-Lingua",
+    "titleBase": "Um club da Má-Lingua",
+    "author": "Macedo, Manuel de",
+    "authorFullName": "Manuel de Macedo",
+    "authorId": "m#a35386"
+  },
+  {
+    "id": "32792",
+    "title": "Um contemporaneo do Infante D. Henrique",
+    "titleBase": "Um contemporaneo do Infante D. Henrique",
+    "author": "Pimentel, Alberto",
+    "authorFullName": "Alberto Pimentel",
+    "authorId": "p#a25371"
+  },
+  {
+    "id": "37935",
+    "title": "Una donna",
+    "titleBase": "Una donna",
+    "author": "Bracco, Roberto",
+    "authorFullName": "Roberto Bracco",
+    "authorId": "b#a37422"
+  },
+  {
+    "id": "18046",
+    "title": "Una notte fataleovvero il racconto dell'esiliato / bozzetti milanesi",
+    "titleBase": "Una notte fataleovvero il racconto dell'esiliato / bozzetti milanesi",
+    "author": "Porati, R. A.",
+    "authorFullName": "R. A. Porati",
+    "authorId": "p#a7770"
+  },
+  {
+    "id": "23550",
+    "title": "Una Of The Hill Country1911",
+    "titleBase": "Una Of The Hill Country1911",
+    "author": "Murfree, Mary Noailles",
+    "authorFullName": "Mary Noailles Murfree",
+    "authorId": "m#a1759"
+  },
+  {
+    "id": "37931",
+    "title": "Un'avventura di viaggio",
+    "titleBase": "Un'avventura di viaggio",
+    "author": "Bracco, Roberto",
+    "authorFullName": "Roberto Bracco",
+    "authorId": "b#a37422"
+  },
+  {
+    "id": "43156",
+    "title": "Unawares",
+    "titleBase": "Unawares",
+    "author": "Peard, Frances",
+    "authorFullName": "Frances Peard",
+    "authorId": "p#a42041"
+  },
+  {
+    "id": "555",
+    "title": "The Unbearable Bassington",
+    "titleBase": "Unbearable Bassington",
+    "author": "Saki",
+    "authorFullName": "Saki",
+    "authorId": "s#a152"
+  },
+  {
+    "id": "2184",
+    "title": "Unbeaten Tracks in Japan",
+    "titleBase": "Unbeaten Tracks in Japan",
+    "author": "Bird, Isabella L. (Isabella Lucy)",
+    "authorFullName": "Isabella L. (Isabella Lucy) Bird",
+    "authorId": "b#a393"
+  },
+  {
+    "id": "32149",
+    "title": "Unbegotten Child",
+    "titleBase": "Unbegotten Child",
+    "author": "Marks, Winston K.",
+    "authorFullName": "Winston K. Marks",
+    "authorId": "m#a26841"
+  },
+  {
+    "id": "23942",
+    "title": "Unborn Tomorrow",
+    "titleBase": "Unborn Tomorrow",
+    "author": "Freas, Kelly",
+    "authorFullName": "Kelly Freas",
+    "authorId": "f#a8302"
+  },
+  {
+    "id": "23942",
+    "title": "Unborn Tomorrow",
+    "titleBase": "Unborn Tomorrow",
+    "author": "Reynolds, Mack",
+    "authorFullName": "Mack Reynolds",
+    "authorId": "r#a25744"
+  },
+  {
+    "id": "38400",
+    "title": "Un Cadet de Famille, v. 1/3",
+    "titleBase": "Un Cadet de Famille, v. 1/3",
+    "author": "Dumas, Alexandre",
+    "authorFullName": "Alexandre Dumas",
+    "authorId": "d#a492"
+  },
+  {
+    "id": "38400",
+    "title": "Un Cadet de Famille, v. 1/3",
+    "titleBase": "Un Cadet de Famille, v. 1/3",
+    "author": "Perceval, Victor",
+    "authorFullName": "Victor Perceval",
+    "authorId": "p#a39441"
+  },
+  {
+    "id": "38400",
+    "title": "Un Cadet de Famille, v. 1/3",
+    "titleBase": "Un Cadet de Famille, v. 1/3",
+    "author": "Trelawney, Edward John",
+    "authorFullName": "Edward John Trelawney",
+    "authorId": "t#a39440"
+  },
+  {
+    "id": "38867",
+    "title": "Un Cadet de Famille, v. 2/3",
+    "titleBase": "Un Cadet de Famille, v. 2/3",
+    "author": "Dumas, Alexandre",
+    "authorFullName": "Alexandre Dumas",
+    "authorId": "d#a492"
+  },
+  {
+    "id": "38867",
+    "title": "Un Cadet de Famille, v. 2/3",
+    "titleBase": "Un Cadet de Famille, v. 2/3",
+    "author": "Perceval, Victor",
+    "authorFullName": "Victor Perceval",
+    "authorId": "p#a39441"
+  },
+  {
+    "id": "38867",
+    "title": "Un Cadet de Famille, v. 2/3",
+    "titleBase": "Un Cadet de Famille, v. 2/3",
+    "author": "Trelawney, Edward John",
+    "authorFullName": "Edward John Trelawney",
+    "authorId": "t#a39440"
+  },
+  {
+    "id": "39555",
+    "title": "Un Cadet de Famille, v. 3/3",
+    "titleBase": "Un Cadet de Famille, v. 3/3",
+    "author": "Dumas, Alexandre",
+    "authorFullName": "Alexandre Dumas",
+    "authorId": "d#a492"
+  },
+  {
+    "id": "39555",
+    "title": "Un Cadet de Famille, v. 3/3",
+    "titleBase": "Un Cadet de Famille, v. 3/3",
+    "author": "Perceval, Victor",
+    "authorFullName": "Victor Perceval",
+    "authorId": "p#a39441"
+  },
+  {
+    "id": "39555",
+    "title": "Un Cadet de Famille, v. 3/3",
+    "titleBase": "Un Cadet de Famille, v. 3/3",
+    "author": "Trelawney, Edward John",
+    "authorFullName": "Edward John Trelawney",
+    "authorId": "t#a39440"
+  },
+  {
+    "id": "25171",
+    "title": "The UncalledA Novel",
+    "titleBase": "UncalledA Novel",
+    "author": "Dunbar, Paul Laurence",
+    "authorFullName": "Paul Laurence Dunbar",
+    "authorId": "d#a6269"
+  },
+  {
+    "id": "35641",
+    "title": "Uncanny Tales",
+    "titleBase": "Uncanny Tales",
+    "author": "Molesworth, Mrs.",
+    "authorFullName": "Mrs. Molesworth",
+    "authorId": "m#a2147"
+  },
+  {
+    "id": "26606",
+    "title": "Uncanny Tales",
+    "titleBase": "Uncanny Tales",
+    "author": "Various",
+    "authorFullName": "Various",
+    "authorId": "v#a116"
+  },
+  {
+    "id": "34016",
+    "title": "Unc' Edinburg: A Plantation Echo",
+    "titleBase": "Unc' Edinburg: A Plantation Echo",
+    "author": "Clinedinst, B. West (Benjamin West)",
+    "authorFullName": "B. West (Benjamin West) Clinedinst",
+    "authorId": "c#a24800"
+  },
+  {
+    "id": "34016",
+    "title": "Unc' Edinburg: A Plantation Echo",
+    "titleBase": "Unc' Edinburg: A Plantation Echo",
+    "author": "Page, Thomas Nelson",
+    "authorFullName": "Thomas Nelson Page",
+    "authorId": "p#a184"
+  },
+  {
+    "id": "4305",
+    "title": "The Unclassed",
+    "titleBase": "Unclassed",
+    "author": "Gissing, George",
+    "authorFullName": "George Gissing",
+    "authorId": "g#a641"
+  },
+  {
+    "id": "10581",
+    "title": "Uncle BernacA Memory of the Empire",
+    "titleBase": "Uncle BernacA Memory of the Empire",
+    "author": "Doyle, Arthur Conan",
+    "authorFullName": "Arthur Conan Doyle",
+    "authorId": "d#a69"
+  },
+  {
+    "id": "31769",
+    "title": "Uncle Daniel's Story Of \"Tom\" Anderson, and Twenty Great Battles",
+    "titleBase": "Uncle Daniel's Story Of \"Tom\" Anderson, and Twenty Great Battles",
+    "author": "McElroy, John",
+    "authorFullName": "John McElroy",
+    "authorId": "m#a1015"
+  },
+  {
+    "id": "44924",
+    "title": "Uncle Joe's Stories",
+    "titleBase": "Uncle Joe's Stories",
+    "author": "Brabourne, First Baron",
+    "authorFullName": "First Baron Brabourne",
+    "authorId": "b#a42992"
+  },
+  {
+    "id": "44924",
+    "title": "Uncle Joe's Stories",
+    "titleBase": "Uncle Joe's Stories",
+    "author": "Knatchbull-Hugesson, Edward Hugessen",
+    "authorFullName": "Edward Hugessen Knatchbull-Hugesson",
+    "authorId": "k#a42991"
+  },
+  {
+    "id": "970",
+    "title": "Uncle Josh's Punkin Centre Stories",
+    "titleBase": "Uncle Josh's Punkin Centre Stories",
+    "author": "Stewart, Cal",
+    "authorFullName": "Cal Stewart",
+    "authorId": "s#a494"
+  },
+  {
+    "id": "16080",
+    "title": "Uncle Max",
+    "titleBase": "Uncle Max",
+    "author": "Carey, Rosa Nouchette",
+    "authorFullName": "Rosa Nouchette Carey",
+    "authorId": "c#a1352"
+  },
+  {
+    "id": "15826",
+    "title": "Uncle Noah's Christmas Inspiration",
+    "titleBase": "Uncle Noah's Christmas Inspiration",
+    "author": "Dalrymple, Leona",
+    "authorFullName": "Leona Dalrymple",
+    "authorId": "d#a6328"
+  },
+  {
+    "id": "23807",
+    "title": "The Uncle Of An Angel1891",
+    "titleBase": "Uncle Of An Angel1891",
+    "author": "Janvier, Thomas A. (Thomas Allibone)",
+    "authorFullName": "Thomas A. (Thomas Allibone) Janvier",
+    "authorId": "j#a3196"
+  },
+  {
+    "id": "23807",
+    "title": "The Uncle Of An Angel1891",
+    "titleBase": "Uncle Of An Angel1891",
+    "author": "Smedley, W. T. (William Thomas)",
+    "authorFullName": "W. T. (William Thomas) Smedley",
+    "authorId": "s#a26043"
+  },
+  {
+    "id": "22282",
+    "title": "Uncle Remus and Brer Rabbit",
+    "titleBase": "Uncle Remus and Brer Rabbit",
+    "author": "Harris, Joel Chandler",
+    "authorFullName": "Joel Chandler Harris",
+    "authorId": "h#a868"
+  },
+  {
+    "id": "21605",
+    "title": "Uncle Remus, his songs and his sayings",
+    "titleBase": "Uncle Remus, his songs and his sayings",
+    "author": "Harris, Joel Chandler",
+    "authorFullName": "Joel Chandler Harris",
+    "authorId": "h#a868"
+  },
+  {
+    "id": "2306",
+    "title": "Uncle Remus, His Songs and His Sayings",
+    "titleBase": "Uncle Remus, His Songs and His Sayings",
+    "author": "Harris, Joel Chandler",
+    "authorFullName": "Joel Chandler Harris",
+    "authorId": "h#a868"
+  },
+  {
+    "id": "6441",
+    "title": "Uncle Robert's Geography (Uncle Robert's Visit, V.3)",
+    "titleBase": "Uncle Robert's Geography (Uncle Robert's Visit, V.3)",
+    "author": "Helm, Nellie Lathrop",
+    "authorFullName": "Nellie Lathrop Helm",
+    "authorId": "h#a4618"
+  },
+  {
+    "id": "6441",
+    "title": "Uncle Robert's Geography (Uncle Robert's Visit, V.3)",
+    "titleBase": "Uncle Robert's Geography (Uncle Robert's Visit, V.3)",
+    "author": "Parker, Francis W. (Francis Wayland)",
+    "authorFullName": "Francis W. (Francis Wayland) Parker",
+    "authorId": "p#a2045"
+  },
+  {
+    "id": "21666",
+    "title": "Uncle Rutherford's Nieces: A Story for Girls",
+    "titleBase": "Uncle Rutherford's Nieces: A Story for Girls",
+    "author": "Mathews, Joanna H. (Joanna Hooe)",
+    "authorFullName": "Joanna H. (Joanna Hooe) Mathews",
+    "authorId": "m#a2089"
+  },
+  {
+    "id": "26381",
+    "title": "Uncle Sam's Boys as Lieutenantsor, Serving Old Glory as Line Officers",
+    "titleBase": "Uncle Sam's Boys as Lieutenantsor, Serving Old Glory as Line Officers",
+    "author": "Hancock, H. Irving (Harrie Irving)",
+    "authorFullName": "H. Irving (Harrie Irving) Hancock",
+    "authorId": "h#a2034"
+  },
+  {
+    "id": "27679",
+    "title": "Uncle Sam's Boys as Sergeantsor, Handling Their First Real Commands",
+    "titleBase": "Uncle Sam's Boys as Sergeantsor, Handling Their First Real Commands",
+    "author": "Hancock, H. Irving (Harrie Irving)",
+    "authorFullName": "H. Irving (Harrie Irving) Hancock",
+    "authorId": "h#a2034"
+  },
+  {
+    "id": "23447",
+    "title": "Uncle Sam's Boys in the Philippinesor, Following the Flag against the Moros",
+    "titleBase": "Uncle Sam's Boys in the Philippinesor, Following the Flag against the Moros",
+    "author": "Hancock, H. Irving (Harrie Irving)",
+    "authorFullName": "H. Irving (Harrie Irving) Hancock",
+    "authorId": "h#a2034"
+  },
+  {
+    "id": "27680",
+    "title": "Uncle Sam's Boys in the Ranks\ror, Two Recruits in the United States Army",
+    "titleBase": "Uncle Sam's Boys in the Ranks\ror, Two Recruits in the United States Army",
+    "author": "Hancock, H. Irving (Harrie Irving)",
+    "authorFullName": "H. Irving (Harrie Irving) Hancock",
+    "authorId": "h#a2034"
+  },
+  {
+    "id": "12810",
+    "title": "Uncle Sam's Boys with Pershing's TroopsDick Prescott at Grips with the Boche",
+    "titleBase": "Uncle Sam's Boys with Pershing's TroopsDick Prescott at Grips with the Boche",
+    "author": "Hancock, H. Irving (Harrie Irving)",
+    "authorFullName": "H. Irving (Harrie Irving) Hancock",
+    "authorId": "h#a2034"
+  },
+  {
+    "id": "38241",
+    "title": "Uncle's Dream; and The Permanent Husband",
+    "titleBase": "Uncle's Dream; and The Permanent Husband",
+    "author": "Dostoyevsky, Fyodor",
+    "authorFullName": "Fyodor Dostoyevsky",
+    "authorId": "d#a314"
+  },
+  {
+    "id": "38241",
+    "title": "Uncle's Dream; and The Permanent Husband",
+    "titleBase": "Uncle's Dream; and The Permanent Husband",
+    "author": "Whishaw, Frederick",
+    "authorFullName": "Frederick Whishaw",
+    "authorId": "w#a38216"
+  },
+  {
+    "id": "14851",
+    "title": "Uncle SilasA Tale of Bartram-Haugh",
+    "titleBase": "Uncle SilasA Tale of Bartram-Haugh",
+    "author": "Le Fanu, Joseph Sheridan",
+    "authorFullName": "Joseph Sheridan Le Fanu",
+    "authorId": "l#a272"
+  },
+  {
+    "id": "28446",
+    "title": "Uncle TerryA Story of the Maine Coast",
+    "titleBase": "Uncle TerryA Story of the Maine Coast",
+    "author": "Munn, Charles Clark",
+    "authorFullName": "Charles Clark Munn",
+    "authorId": "m#a9054"
+  },
+  {
+    "id": "14710",
+    "title": "Uncle Titus and His Visit to the Country",
+    "titleBase": "Uncle Titus and His Visit to the Country",
+    "author": "Brooks, Louise",
+    "authorFullName": "Louise Brooks",
+    "authorId": "b#a5051"
+  },
+  {
+    "id": "14710",
+    "title": "Uncle Titus and His Visit to the Country",
+    "titleBase": "Uncle Titus and His Visit to the Country",
+    "author": "Spyri, Johanna",
+    "authorFullName": "Johanna Spyri",
+    "authorId": "s#a2491"
+  },
+  {
+    "id": "203",
+    "title": "Uncle Tom's Cabin",
+    "titleBase": "Uncle Tom's Cabin",
+    "author": "Stowe, Harriet Beecher",
+    "authorFullName": "Harriet Beecher Stowe",
+    "authorId": "s#a115"
+  },
+  {
+    "id": "10279",
+    "title": "Uncle Tom's Cabin: Entrance of Topsy",
+    "titleBase": "Uncle Tom's Cabin: Entrance of Topsy",
+    "author": "Spencer, Len",
+    "authorFullName": "Len Spencer",
+    "authorId": "s#a3364"
+  },
+  {
+    "id": "10279",
+    "title": "Uncle Tom's Cabin: Entrance of Topsy",
+    "titleBase": "Uncle Tom's Cabin: Entrance of Topsy",
+    "author": "Stowe, Harriet Beecher",
+    "authorFullName": "Harriet Beecher Stowe",
+    "authorId": "s#a115"
+  },
+  {
+    "id": "11171",
+    "title": "Uncle Tom's Cabin, Young Folks' Edition",
+    "titleBase": "Uncle Tom's Cabin, Young Folks' Edition",
+    "author": "Stowe, Harriet Beecher",
+    "authorFullName": "Harriet Beecher Stowe",
+    "authorId": "s#a115"
+  },
+  {
+    "id": "1756",
+    "title": "Uncle Vanya: Scenes from Country Life in Four Acts",
+    "titleBase": "Uncle Vanya: Scenes from Country Life in Four Acts",
+    "author": "Chekhov, Anton Pavlovich",
+    "authorFullName": "Anton Pavlovich Chekhov",
+    "authorId": "c#a708"
+  },
+  {
+    "id": "41397",
+    "title": "Uncle Walt [Walt Mason]The Poet Philosopher",
+    "titleBase": "Uncle Walt [Walt Mason]The Poet Philosopher",
+    "author": "Mason, Walter George",
+    "authorFullName": "Walter George Mason",
+    "authorId": "m#a6947"
+  },
+  {
+    "id": "23213",
+    "title": "Uncle Wiggily and Old Mother Hubbard\rAdventures of the Rabbit Gentleman with the Mother Goose Characters",
+    "titleBase": "Uncle Wiggily and Old Mother Hubbard\rAdventures of the Rabbit Gentleman with the Mother Goose Characters",
+    "author": "Garis, Howard Roger",
+    "authorFullName": "Howard Roger Garis",
+    "authorId": "g#a808"
+  },
+  {
+    "id": "17807",
+    "title": "Uncle Wiggily in the Woods",
+    "titleBase": "Uncle Wiggily in the Woods",
+    "author": "Garis, Howard Roger",
+    "authorFullName": "Howard Roger Garis",
+    "authorId": "g#a808"
+  },
+  {
+    "id": "17807",
+    "title": "Uncle Wiggily in the Woods",
+    "titleBase": "Uncle Wiggily in the Woods",
+    "author": "Wisa, Louis",
+    "authorFullName": "Louis Wisa",
+    "authorId": "w#a8138"
+  },
+  {
+    "id": "42574",
+    "title": "Uncle Wiggily in Wonderland",
+    "titleBase": "Uncle Wiggily in Wonderland",
+    "author": "Bloomfield, Edward",
+    "authorFullName": "Edward Bloomfield",
+    "authorId": "b#a41748"
+  },
+  {
+    "id": "42574",
+    "title": "Uncle Wiggily in Wonderland",
+    "titleBase": "Uncle Wiggily in Wonderland",
+    "author": "Garis, Howard Roger",
+    "authorFullName": "Howard Roger Garis",
+    "authorId": "g#a808"
+  },
+  {
+    "id": "15281",
+    "title": "Uncle Wiggily's Adventures",
+    "titleBase": "Uncle Wiggily's Adventures",
+    "author": "Garis, Howard Roger",
+    "authorFullName": "Howard Roger Garis",
+    "authorId": "g#a808"
+  },
+  {
+    "id": "15282",
+    "title": "Uncle Wiggily's Travels",
+    "titleBase": "Uncle Wiggily's Travels",
+    "author": "Garis, Howard Roger",
+    "authorFullName": "Howard Roger Garis",
+    "authorId": "g#a808"
+  },
+  {
+    "id": "15282",
+    "title": "Uncle Wiggily's Travels",
+    "titleBase": "Uncle Wiggily's Travels",
+    "author": "Wisa, Louis",
+    "authorFullName": "Louis Wisa",
+    "authorId": "w#a8138"
+  },
+  {
+    "id": "4634",
+    "title": "Uncle William: The Man Who Was Shif'less",
+    "titleBase": "Uncle William: The Man Who Was Shif'less",
+    "author": "Lee, Jennette",
+    "authorFullName": "Jennette Lee",
+    "authorId": "l#a1520"
+  },
+  {
+    "id": "44161",
+    "title": "Un Coeur de femme",
+    "titleBase": "Un Coeur de femme",
+    "author": "Bourget, Paul",
+    "authorFullName": "Paul Bourget",
+    "authorId": "b#a1346"
+  },
+  {
+    "id": "44467",
+    "title": "Un cœur virginal",
+    "titleBase": "Un cœur virginal",
+    "author": "Gourmont, Remy de",
+    "authorFullName": "Remy de Gourmont",
+    "authorId": "g#a6996"
+  },
+  {
+    "id": "18862",
+    "title": "The Uncollected Writings of Thomas de Quincey—Vol. 1With a Preface and Annotations by James Hogg",
+    "titleBase": "Uncollected Writings of Thomas de Quincey—Vol. 1With a Preface and Annotations by James Hogg",
+    "author": "De Quincey, Thomas",
+    "authorFullName": "Thomas De Quincey",
+    "authorId": "d#a797"
+  },
+  {
+    "id": "18862",
+    "title": "The Uncollected Writings of Thomas de Quincey—Vol. 1With a Preface and Annotations by James Hogg",
+    "titleBase": "Uncollected Writings of Thomas de Quincey—Vol. 1With a Preface and Annotations by James Hogg",
+    "author": "Hogg, James",
+    "authorFullName": "James Hogg",
+    "authorId": "h#a8415"
+  },
+  {
+    "id": "20090",
+    "title": "The Uncollected Writings of Thomas de Quincey, Vol. 2With a Preface and Annotations by James Hogg",
+    "titleBase": "Uncollected Writings of Thomas de Quincey, Vol. 2With a Preface and Annotations by James Hogg",
+    "author": "De Quincey, Thomas",
+    "authorFullName": "Thomas De Quincey",
+    "authorId": "d#a797"
+  },
+  {
+    "id": "20090",
+    "title": "The Uncollected Writings of Thomas de Quincey, Vol. 2With a Preface and Annotations by James Hogg",
+    "titleBase": "Uncollected Writings of Thomas de Quincey, Vol. 2With a Preface and Annotations by James Hogg",
+    "author": "Hogg, James",
+    "authorFullName": "James Hogg",
+    "authorId": "h#a8415"
+  },
+  {
+    "id": "9741",
+    "title": "The Uncommercial Traveller",
+    "titleBase": "Uncommercial Traveller",
+    "author": "Dickens, Charles",
+    "authorFullName": "Charles Dickens",
+    "authorId": "d#a37"
+  },
+  {
+    "id": "914",
+    "title": "The Uncommercial Traveller",
+    "titleBase": "Uncommercial Traveller",
+    "author": "Dickens, Charles",
+    "authorFullName": "Charles Dickens",
+    "authorId": "d#a37"
+  },
+  {
+    "id": "1242",
+    "title": "Unconscious Comedians",
+    "titleBase": "Unconscious Comedians",
+    "author": "Balzac, Honoré de",
+    "authorFullName": "Honoré de Balzac",
+    "authorId": "b#a251"
+  },
+  {
+    "id": "1242",
+    "title": "Unconscious Comedians",
+    "titleBase": "Unconscious Comedians",
+    "author": "Wormeley, Katharine Prescott",
+    "authorFullName": "Katharine Prescott Wormeley",
+    "authorId": "w#a661"
+  },
+  {
+    "id": "6605",
+    "title": "Unconscious Memory",
+    "titleBase": "Unconscious Memory",
+    "author": "Butler, Samuel",
+    "authorFullName": "Samuel Butler",
+    "authorId": "b#a748"
+  },
+  {
+    "id": "31844",
+    "title": "The Unconstitutionality of Slavery",
+    "titleBase": "Unconstitutionality of Slavery",
+    "author": "Spooner, Lysander",
+    "authorFullName": "Lysander Spooner",
+    "authorId": "s#a552"
+  },
+  {
+    "id": "12991",
+    "title": "The Uncrowned King",
+    "titleBase": "Uncrowned King",
+    "author": "Neill, John R. (John Rea)",
+    "authorFullName": "John R. (John Rea) Neill",
+    "authorId": "n#a26521"
+  },
+  {
+    "id": "12991",
+    "title": "The Uncrowned King",
+    "titleBase": "Uncrowned King",
+    "author": "Wright, Harold Bell",
+    "authorFullName": "Harold Bell Wright",
+    "authorId": "w#a1146"
+  },
+  {
+    "id": "24175",
+    "title": "Und die ihr alle meine Brüder seid",
+    "titleBase": "Und die ihr alle meine Brüder seid",
+    "author": "Frohnmeyer, Ida",
+    "authorFullName": "Ida Frohnmeyer",
+    "authorId": "f#a8998"
+  },
+  {
+    "id": "28321",
+    "title": "L'undecimo comandamento: Romanzo",
+    "titleBase": "L'undecimo comandamento: Romanzo",
+    "author": "Barrili, Anton Giulio",
+    "authorFullName": "Anton Giulio Barrili",
+    "authorId": "b#a4056"
+  },
+  {
+    "id": "35251",
+    "title": "Under a Charm, A Novel, Vol. I",
+    "titleBase": "Under a Charm, A Novel, Vol. I",
+    "author": "Tyrrell, Christina",
+    "authorFullName": "Christina Tyrrell",
+    "authorId": "t#a37413"
+  },
+  {
+    "id": "35251",
+    "title": "Under a Charm, A Novel, Vol. I",
+    "titleBase": "Under a Charm, A Novel, Vol. I",
+    "author": "Werner, E.",
+    "authorFullName": "E. Werner",
+    "authorId": "w#a7823"
+  },
+  {
+    "id": "35252",
+    "title": "Under a Charm, A Novel, Vol. II",
+    "titleBase": "Under a Charm, A Novel, Vol. II",
+    "author": "Tyrrell, Christina",
+    "authorFullName": "Christina Tyrrell",
+    "authorId": "t#a37413"
+  },
+  {
+    "id": "35252",
+    "title": "Under a Charm, A Novel, Vol. II",
+    "titleBase": "Under a Charm, A Novel, Vol. II",
+    "author": "Werner, E.",
+    "authorFullName": "E. Werner",
+    "authorId": "w#a7823"
+  },
+  {
+    "id": "35253",
+    "title": "Under a Charm, A Novel, Vol. III",
+    "titleBase": "Under a Charm, A Novel, Vol. III",
+    "author": "Tyrrell, Christina",
+    "authorFullName": "Christina Tyrrell",
+    "authorId": "t#a37413"
+  },
+  {
+    "id": "35253",
+    "title": "Under a Charm, A Novel, Vol. III",
+    "titleBase": "Under a Charm, A Novel, Vol. III",
+    "author": "Werner, E.",
+    "authorFullName": "E. Werner",
+    "authorId": "w#a7823"
+  },
+  {
+    "id": "29475",
+    "title": "Under Arctic Ice",
+    "titleBase": "Under Arctic Ice",
+    "author": "Bates, Harry",
+    "authorFullName": "Harry Bates",
+    "authorId": "b#a33755"
+  },
+  {
+    "id": "31014",
+    "title": "Den Underbara Spegeln",
+    "titleBase": "Den Underbara Spegeln",
+    "author": "Witt, Otto",
+    "authorFullName": "Otto Witt",
+    "authorId": "w#a34099"
+  },
+  {
+    "id": "32173",
+    "title": "Under Boy Scout Colors",
+    "titleBase": "Under Boy Scout Colors",
+    "author": "Ames, Joseph Bushnell",
+    "authorFullName": "Joseph Bushnell Ames",
+    "authorId": "a#a32647"
+  },
+  {
+    "id": "40939",
+    "title": "Under Cover",
+    "titleBase": "Under Cover",
+    "author": "Kirkpatrick, William",
+    "authorFullName": "William Kirkpatrick",
+    "authorId": "k#a37332"
+  },
+  {
+    "id": "40939",
+    "title": "Under Cover",
+    "titleBase": "Under Cover",
+    "author": "Martyn, Wyndham",
+    "authorFullName": "Wyndham Martyn",
+    "authorId": "m#a40578"
+  },
+  {
+    "id": "40939",
+    "title": "Under Cover",
+    "titleBase": "Under Cover",
+    "author": "Megrue, Roi Cooper",
+    "authorFullName": "Roi Cooper Megrue",
+    "authorId": "m#a40907"
+  },
+  {
+    "id": "9463",
+    "title": "The Under Dog",
+    "titleBase": "Under Dog",
+    "author": "Smith, Francis Hopkinson",
+    "authorFullName": "Francis Hopkinson Smith",
+    "authorId": "s#a444"
+  },
+  {
+    "id": "549",
+    "title": "The Underdogs: A Novel of the Mexican Revolution",
+    "titleBase": "Underdogs: A Novel of the Mexican Revolution",
+    "author": "Azuela, Mariano",
+    "authorFullName": "Mariano Azuela",
+    "authorId": "a#a282"
+  },
+  {
+    "id": "549",
+    "title": "The Underdogs: A Novel of the Mexican Revolution",
+    "titleBase": "Underdogs: A Novel of the Mexican Revolution",
+    "author": "Munguía, E. (Enrique)",
+    "authorFullName": "E. (Enrique) Munguía",
+    "authorId": "m#a283"
+  },
+  {
+    "id": "19206",
+    "title": "Under Drake's Flag: A Tale of the Spanish Main",
+    "titleBase": "Under Drake's Flag: A Tale of the Spanish Main",
+    "author": "Browne, Gordon",
+    "authorFullName": "Gordon Browne",
+    "authorId": "b#a8569"
+  },
+  {
+    "id": "19206",
+    "title": "Under Drake's Flag: A Tale of the Spanish Main",
+    "titleBase": "Under Drake's Flag: A Tale of the Spanish Main",
+    "author": "Henty, G. A. (George Alfred)",
+    "authorFullName": "G. A. (George Alfred) Henty",
+    "authorId": "h#a1032"
+  },
+  {
+    "id": "31375",
+    "title": "Under False Pretences: A Novel",
+    "titleBase": "Under False Pretences: A Novel",
+    "author": "Sergeant, Adeline",
+    "authorFullName": "Adeline Sergeant",
+    "authorId": "s#a26039"
+  },
+  {
+    "id": "20101",
+    "title": "Under Fire",
+    "titleBase": "Under Fire",
+    "author": "King, Charles",
+    "authorFullName": "Charles King",
+    "authorId": "k#a6787"
+  },
+  {
+    "id": "27935",
+    "title": "Under FireA Tale of New England Village Life",
+    "titleBase": "Under FireA Tale of New England Village Life",
+    "author": "Munsey, Frank Andrew",
+    "authorFullName": "Frank Andrew Munsey",
+    "authorId": "m#a33024"
+  },
+  {
+    "id": "33480",
+    "title": "Under Fire For Servia",
+    "titleBase": "Under Fire For Servia",
+    "author": "Fiske, Colonel James",
+    "authorFullName": "Colonel James Fiske",
+    "authorId": "f#a36431"
+  },
+  {
+    "id": "33480",
+    "title": "Under Fire For Servia",
+    "titleBase": "Under Fire For Servia",
+    "author": "Furman, E. A.",
+    "authorFullName": "E. A. Furman",
+    "authorId": "f#a6784"
+  },
+  {
+    "id": "4380",
+    "title": "Under Fire: The Story of a Squad",
+    "titleBase": "Under Fire: The Story of a Squad",
+    "author": "Barbusse, Henri",
+    "authorFullName": "Henri Barbusse",
+    "authorId": "b#a1472"
+  },
+  {
+    "id": "4380",
+    "title": "Under Fire: The Story of a Squad",
+    "titleBase": "Under Fire: The Story of a Squad",
+    "author": "Wray, W. Fitzwater",
+    "authorFullName": "W. Fitzwater Wray",
+    "authorId": "w#a1473"
+  },
+  {
+    "id": "39144",
+    "title": "Under Four AdministrationsFrom Cleveland to Taft",
+    "titleBase": "Under Four AdministrationsFrom Cleveland to Taft",
+    "author": "Straus, Oscar S.",
+    "authorFullName": "Oscar S. Straus",
+    "authorId": "s#a39860"
+  },
+  {
+    "id": "8990",
+    "title": "The Underground City; Or, The Black Indies\r(Sometimes Called The Child of the Cavern)",
+    "titleBase": "Underground City; Or, The Black Indies\r(Sometimes Called The Child of the Cavern)",
+    "author": "Verne, Jules",
+    "authorFullName": "Jules Verne",
+    "authorId": "v#a60"
+  },
+  {
+    "id": "1355",
+    "title": "The Underground City; Or, The Black Indies\r(Sometimes Called The Child of the Cavern)",
+    "titleBase": "Underground City; Or, The Black Indies\r(Sometimes Called The Child of the Cavern)",
+    "author": "Verne, Jules",
+    "authorFullName": "Jules Verne",
+    "authorId": "v#a60"
+  },
+  {
+    "id": "4686",
+    "title": "Underground: Hacking, madness and obsession on the electronic frontier",
+    "titleBase": "Underground: Hacking, madness and obsession on the electronic frontier",
+    "author": "Assange, Julian",
+    "authorFullName": "Julian Assange",
+    "authorId": "a#a37994"
+  },
+  {
+    "id": "4686",
+    "title": "Underground: Hacking, madness and obsession on the electronic frontier",
+    "titleBase": "Underground: Hacking, madness and obsession on the electronic frontier",
+    "author": "Dreyfus, Suelette",
+    "authorFullName": "Suelette Dreyfus",
+    "authorId": "d#a1546"
+  },
+  {
+    "id": "33549",
+    "title": "Underground Man",
+    "titleBase": "Underground Man",
+    "author": "Brereton, Cloudesley",
+    "authorFullName": "Cloudesley Brereton",
+    "authorId": "b#a1463"
+  },
+  {
+    "id": "33549",
+    "title": "Underground Man",
+    "titleBase": "Underground Man",
+    "author": "Tarde, Gabriel",
+    "authorFullName": "Gabriel Tarde",
+    "authorId": "t#a36467"
+  },
+  {
+    "id": "15263",
+    "title": "The Underground Railroad\rA Record of Facts, Authentic Narratives, Letters, &c., Narrating the Hardships, Hair-Breadth Escapes and Death Struggles of the Slaves in Their Efforts for Freedom, As Related by Themselves and Others, or Witnessed by the Author.",
+    "titleBase": "Underground Railroad\rA Record of Facts, Authentic Narratives, Letters, &c., Narrating the Hardships, Hair-Breadth Escapes and Death Struggles of the Slaves in Their Efforts for Freedom, As Related by Themselves and Others, or Witnessed by the Author.",
+    "author": "Still, William",
+    "authorFullName": "William Still",
+    "authorId": "s#a5956"
+  },
+  {
+    "id": "17981",
+    "title": "Under HandicapA Novel",
+    "titleBase": "Under HandicapA Novel",
+    "author": "Gregory, Jackson",
+    "authorFullName": "Jackson Gregory",
+    "authorId": "g#a3384"
+  },
+  {
+    "id": "10495",
+    "title": "Under King Constantine",
+    "titleBase": "Under King Constantine",
+    "author": "Trask, Katrina",
+    "authorFullName": "Katrina Trask",
+    "authorId": "t#a3560"
+  },
+  {
+    "id": "34747",
+    "title": "Under Nordenvindens Svøbe",
+    "titleBase": "Under Nordenvindens Svøbe",
+    "author": "Rasmussen, Knud",
+    "authorFullName": "Knud Rasmussen",
+    "authorId": "r#a33593"
+  },
+  {
+    "id": "40451",
+    "title": "Under One Flag",
+    "titleBase": "Under One Flag",
+    "author": "Marsh, Richard",
+    "authorFullName": "Richard Marsh",
+    "authorId": "m#a1718"
+  },
+  {
+    "id": "44464",
+    "title": "Under One Sceptre, or Mortimer's MissionThe Story of the Lord of the Marches",
+    "titleBase": "Under One Sceptre, or Mortimer's MissionThe Story of the Lord of the Marches",
+    "author": "Holt, Emily Sarah",
+    "authorFullName": "Emily Sarah Holt",
+    "authorId": "h#a9787"
+  },
+  {
+    "id": "31231",
+    "title": "Under Padlock and Seal",
+    "titleBase": "Under Padlock and Seal",
+    "author": "Avery, Harold",
+    "authorFullName": "Harold Avery",
+    "authorId": "a#a3270"
+  },
+  {
+    "id": "33212",
+    "title": "The Underpup",
+    "titleBase": "Underpup",
+    "author": "Wylie, I. A. R. (Ida Alexa Ross)",
+    "authorFullName": "I. A. R. (Ida Alexa Ross) Wylie",
+    "authorId": "w#a2583"
+  },
+  {
+    "id": "16714",
+    "title": "Under Sealed Orders",
+    "titleBase": "Under Sealed Orders",
+    "author": "Cody, H. A. (Hiram Alfred)",
+    "authorFullName": "H. A. (Hiram Alfred) Cody",
+    "authorId": "c#a2694"
+  },
+  {
+    "id": "27609",
+    "title": "The Undersea Tube",
+    "titleBase": "Undersea Tube",
+    "author": "Hansen, L. Taylor (Lucile Taylor)",
+    "authorFullName": "L. Taylor (Lucile Taylor) Hansen",
+    "authorId": "h#a32793"
+  },
+  {
+    "id": "27609",
+    "title": "The Undersea Tube",
+    "titleBase": "Undersea Tube",
+    "author": "Wessolowski, Hans Waldemar",
+    "authorFullName": "Hans Waldemar Wessolowski",
+    "authorId": "w#a32703"
+  },
+  {
+    "id": "40834",
+    "title": "The Under-Secretary",
+    "titleBase": "Under-Secretary",
+    "author": "Le Queux, William",
+    "authorFullName": "William Le Queux",
+    "authorId": "l#a3141"
+  },
+  {
+    "id": "9492",
+    "title": "Understanding the Scriptures",
+    "titleBase": "Understanding the Scriptures",
+    "author": "McConnell, Francis John",
+    "authorFullName": "Francis John McConnell",
+    "authorId": "m#a3076"
+  },
+  {
+    "id": "5347",
+    "title": "Understood Betsy",
+    "titleBase": "Understood Betsy",
+    "author": "Fisher, Dorothy Canfield",
+    "authorFullName": "Dorothy Canfield Fisher",
+    "authorId": "f#a1781"
+  },
+  {
+    "id": "42600",
+    "title": "Under St Paul'sA Romance",
+    "titleBase": "Under St Paul'sA Romance",
+    "author": "Dowling, Richard",
+    "authorFullName": "Richard Dowling",
+    "authorId": "d#a41234"
+  },
+  {
+    "id": "12153",
+    "title": "The UnderstudyNight Watches, Part 3.",
+    "titleBase": "UnderstudyNight Watches, Part 3.",
+    "author": "Davis, Stanley",
+    "authorFullName": "Stanley Davis",
+    "authorId": "d#a24861"
+  },
+  {
+    "id": "12153",
+    "title": "The UnderstudyNight Watches, Part 3.",
+    "titleBase": "UnderstudyNight Watches, Part 3.",
+    "author": "Jacobs, W. W. (William Wymark)",
+    "authorFullName": "W. W. (William Wymark) Jacobs",
+    "authorId": "j#a1865"
+  },
+  {
+    "id": "546",
+    "title": "Under the Andes",
+    "titleBase": "Under the Andes",
+    "author": "Stout, Rex",
+    "authorFullName": "Rex Stout",
+    "authorId": "s#a279"
+  },
+  {
+    "id": "21061",
+    "title": "Under the Chilian FlagA Tale of War between Chili and Peru",
+    "titleBase": "Under the Chilian FlagA Tale of War between Chili and Peru",
+    "author": "Collingwood, Harry",
+    "authorFullName": "Harry Collingwood",
+    "authorId": "c#a9699"
+  },
+  {
+    "id": "21061",
+    "title": "Under the Chilian FlagA Tale of War between Chili and Peru",
+    "titleBase": "Under the Chilian FlagA Tale of War between Chili and Peru",
+    "author": "Rainey, W. (William)",
+    "authorFullName": "W. (William) Rainey",
+    "authorId": "r#a9704"
+  },
+  {
+    "id": "41758",
+    "title": "Under the Chinese DragonA Tale of Mongolia",
+    "titleBase": "Under the Chinese DragonA Tale of Mongolia",
+    "author": "Brereton, F. S. (Frederick Sadleir)",
+    "authorFullName": "F. S. (Frederick Sadleir) Brereton",
+    "authorId": "b#a34828"
+  },
+  {
+    "id": "41758",
+    "title": "Under the Chinese DragonA Tale of Mongolia",
+    "titleBase": "Under the Chinese DragonA Tale of Mongolia",
+    "author": "Sheldon, Charles Mills",
+    "authorFullName": "Charles Mills Sheldon",
+    "authorId": "s#a7958"
+  },
+  {
+    "id": "20719",
+    "title": "Under the Country Sky",
+    "titleBase": "Under the Country Sky",
+    "author": "Richmond, Grace S. (Grace Smith)",
+    "authorFullName": "Grace S. (Grace Smith) Richmond",
+    "authorId": "r#a2216"
+  },
+  {
+    "id": "20719",
+    "title": "Under the Country Sky",
+    "titleBase": "Under the Country Sky",
+    "author": "Rogers, Frances",
+    "authorFullName": "Frances Rogers",
+    "authorId": "r#a9480"
+  },
+  {
+    "id": "2828",
+    "title": "Under the Deodars",
+    "titleBase": "Under the Deodars",
+    "author": "Kipling, Rudyard",
+    "authorFullName": "Rudyard Kipling",
+    "authorId": "k#a132"
+  },
+  {
+    "id": "16407",
+    "title": "Under the Dragon FlagMy Experiences in the Chino-Japanese War",
+    "titleBase": "Under the Dragon FlagMy Experiences in the Chino-Japanese War",
+    "author": "Allan, James",
+    "authorFullName": "James Allan",
+    "authorId": "a#a6685"
+  },
+  {
+    "id": "27910",
+    "title": "Under the Ensign of the Rising SunA Story of the Russo-Japanese War",
+    "titleBase": "Under the Ensign of the Rising SunA Story of the Russo-Japanese War",
+    "author": "Collingwood, Harry",
+    "authorFullName": "Harry Collingwood",
+    "authorId": "c#a9699"
+  },
+  {
+    "id": "27910",
+    "title": "Under the Ensign of the Rising SunA Story of the Russo-Japanese War",
+    "titleBase": "Under the Ensign of the Rising SunA Story of the Russo-Japanese War",
+    "author": "Lumley, Savile",
+    "authorFullName": "Savile Lumley",
+    "authorId": "l#a9929"
+  },
+  {
+    "id": "19235",
+    "title": "Under the Great Bear",
+    "titleBase": "Under the Great Bear",
+    "author": "Giles, Howard",
+    "authorFullName": "Howard Giles",
+    "authorId": "g#a37816"
+  },
+  {
+    "id": "19235",
+    "title": "Under the Great Bear",
+    "titleBase": "Under the Great Bear",
+    "author": "Munroe, Kirk",
+    "authorFullName": "Kirk Munroe",
+    "authorId": "m#a1480"
+  },
+  {
+    "id": "9437",
+    "title": "Under the Greenwood Tree",
+    "titleBase": "Under the Greenwood Tree",
+    "author": "Hardy, Thomas",
+    "authorFullName": "Thomas Hardy",
+    "authorId": "h#a23"
+  },
+  {
+    "id": "2662",
+    "title": "Under the Greenwood Tree; Or, The Mellstock Quire\rA Rural Painting of the Dutch School",
+    "titleBase": "Under the Greenwood Tree; Or, The Mellstock Quire\rA Rural Painting of the Dutch School",
+    "author": "Hardy, Thomas",
+    "authorFullName": "Thomas Hardy",
+    "authorId": "h#a23"
+  },
+  {
+    "id": "31555",
+    "title": "Under the Liberty Tree: A Story of The 'Boston Massacre'",
+    "titleBase": "Under the Liberty Tree: A Story of The 'Boston Massacre'",
+    "author": "Otis, James",
+    "authorFullName": "James Otis",
+    "authorId": "o#a1433"
+  },
+  {
+    "id": "3795",
+    "title": "Under the Lilacs",
+    "titleBase": "Under the Lilacs",
+    "author": "Alcott, Louisa May",
+    "authorFullName": "Louisa May Alcott",
+    "authorId": "a#a102"
+  },
+  {
+    "id": "30246",
+    "title": "Under the Maples",
+    "titleBase": "Under the Maples",
+    "author": "Burroughs, John",
+    "authorFullName": "John Burroughs",
+    "authorId": "b#a1127"
+  },
+  {
+    "id": "33257",
+    "title": "Under the MendipsA Tale",
+    "titleBase": "Under the MendipsA Tale",
+    "author": "Marshall, Emma",
+    "authorFullName": "Emma Marshall",
+    "authorId": "m#a28350"
+  },
+  {
+    "id": "21068",
+    "title": "Under the Meteor FlagLog of a Midshipman during the French Revolutionary War",
+    "titleBase": "Under the Meteor FlagLog of a Midshipman during the French Revolutionary War",
+    "author": "Collingwood, Harry",
+    "authorFullName": "Harry Collingwood",
+    "authorId": "c#a9699"
+  },
+  {
+    "id": "19731",
+    "title": "Under the Ocean to the South Pole; Or, the Strange Cruise of the Submarine Wonder",
+    "titleBase": "Under the Ocean to the South Pole; Or, the Strange Cruise of the Submarine Wonder",
+    "author": "Rockwood, Roy",
+    "authorFullName": "Roy Rockwood",
+    "authorId": "r#a1625"
+  },
+  {
+    "id": "7066",
+    "title": "Under the Prophet in Utah; the National Menace of a Political Priestcraft",
+    "titleBase": "Under the Prophet in Utah; the National Menace of a Political Priestcraft",
+    "author": "Cannon, Frank J.",
+    "authorFullName": "Frank J. Cannon",
+    "authorId": "c#a2327"
+  },
+  {
+    "id": "7066",
+    "title": "Under the Prophet in Utah; the National Menace of a Political Priestcraft",
+    "titleBase": "Under the Prophet in Utah; the National Menace of a Political Priestcraft",
+    "author": "O'Higgins, Harvey Jerrold",
+    "authorFullName": "Harvey Jerrold O'Higgins",
+    "authorId": "o#a2328"
+  },
+  {
+    "id": "23829",
+    "title": "Under the Rebel's Reign",
+    "titleBase": "Under the Rebel's Reign",
+    "author": "Neufeld, Charles",
+    "authorFullName": "Charles Neufeld",
+    "authorId": "n#a26062"
+  },
+  {
+    "id": "23829",
+    "title": "Under the Rebel's Reign",
+    "titleBase": "Under the Rebel's Reign",
+    "author": "Sheldon, Charles Mills",
+    "authorFullName": "Charles Mills Sheldon",
+    "authorId": "s#a7958"
+  },
+  {
+    "id": "42202",
+    "title": "Under the Red CrescentAdventures of an English Surgeon with the Turkish Army atPlevna and Erzeroum 1877-1878",
+    "titleBase": "Under the Red CrescentAdventures of an English Surgeon with the Turkish Army atPlevna and Erzeroum 1877-1878",
+    "author": "Ryan, Charles S.",
+    "authorFullName": "Charles S. Ryan",
+    "authorId": "r#a41571"
+  },
+  {
+    "id": "1896",
+    "title": "Under the Red Robe",
+    "titleBase": "Under the Red Robe",
+    "author": "Weyman, Stanley John",
+    "authorFullName": "Stanley John Weyman",
+    "authorId": "w#a742"
+  },
+  {
+    "id": "2555",
+    "title": "Under the Redwoods",
+    "titleBase": "Under the Redwoods",
+    "author": "Harte, Bret",
+    "authorFullName": "Bret Harte",
+    "authorId": "h#a593"
+  },
+  {
+    "id": "23675",
+    "title": "Under the Rose",
+    "titleBase": "Under the Rose",
+    "author": "Isham, Frederic Stewart",
+    "authorFullName": "Frederic Stewart Isham",
+    "authorId": "i#a3515"
+  },
+  {
+    "id": "37979",
+    "title": "Under the Shadow of Etna: Sicilian Stories from the Italian of Giovanni Verga",
+    "titleBase": "Under the Shadow of Etna: Sicilian Stories from the Italian of Giovanni Verga",
+    "author": "Dole, Nathan Haskell",
+    "authorFullName": "Nathan Haskell Dole",
+    "authorId": "d#a36286"
+  },
+  {
+    "id": "37979",
+    "title": "Under the Shadow of Etna: Sicilian Stories from the Italian of Giovanni Verga",
+    "titleBase": "Under the Shadow of Etna: Sicilian Stories from the Italian of Giovanni Verga",
+    "author": "Verga, Giovanni",
+    "authorFullName": "Giovanni Verga",
+    "authorId": "v#a39173"
+  },
+  {
+    "id": "8196",
+    "title": "Under the Skylights",
+    "titleBase": "Under the Skylights",
+    "author": "Fuller, Henry Blake",
+    "authorFullName": "Henry Blake Fuller",
+    "authorId": "f#a2641"
+  },
+  {
+    "id": "28008",
+    "title": "Under the Southern Cross",
+    "titleBase": "Under the Southern Cross",
+    "author": "Rae, John",
+    "authorFullName": "John Rae",
+    "authorId": "r#a26297"
+  },
+  {
+    "id": "28008",
+    "title": "Under the Southern Cross",
+    "titleBase": "Under the Southern Cross",
+    "author": "Robins, Elizabeth",
+    "authorFullName": "Elizabeth Robins",
+    "authorId": "r#a3274"
+  },
+  {
+    "id": "34037",
+    "title": "Under the Southern Cross\rOr Travels in Australia, Tasmania, New Zealand, Samoa, and Other Pacific Islands",
+    "titleBase": "Under the Southern Cross\rOr Travels in Australia, Tasmania, New Zealand, Samoa, and Other Pacific Islands",
+    "author": "Ballou, Maturin Murray",
+    "authorFullName": "Maturin Murray Ballou",
+    "authorId": "b#a1543"
+  },
+  {
+    "id": "40973",
+    "title": "Under the Stars and Bars\rOr, Memories of Four Years Service with the Oglethorpes, of Augusta, Georgia",
+    "titleBase": "Under the Stars and Bars\rOr, Memories of Four Years Service with the Oglethorpes, of Augusta, Georgia",
+    "author": "Clark, Walter A. (Walter Augustus)",
+    "authorFullName": "Walter A. (Walter Augustus) Clark",
+    "authorId": "c#a40918"
+  },
+  {
+    "id": "41425",
+    "title": "Under the Star-Spangled BannerA Tale of the Spanish-American War",
+    "titleBase": "Under the Star-Spangled BannerA Tale of the Spanish-American War",
+    "author": "Brereton, F. S. (Frederick Sadleir)",
+    "authorFullName": "F. S. (Frederick Sadleir) Brereton",
+    "authorId": "b#a34828"
+  },
+  {
+    "id": "6006",
+    "title": "Under the Storm",
+    "titleBase": "Under the Storm",
+    "author": "Yonge, Charlotte M. (Charlotte Mary)",
+    "authorFullName": "Charlotte M. (Charlotte Mary) Yonge",
+    "authorId": "y#a945"
+  },
+  {
+    "id": "20909",
+    "title": "Under the Tree",
+    "titleBase": "Under the Tree",
+    "author": "Roberts, Elizabeth Madox",
+    "authorFullName": "Elizabeth Madox Roberts",
+    "authorId": "r#a9599"
+  },
+  {
+    "id": "19645",
+    "title": "Under the Trees and Elsewhere",
+    "titleBase": "Under the Trees and Elsewhere",
+    "author": "Mabie, Hamilton Wright",
+    "authorFullName": "Hamilton Wright Mabie",
+    "authorId": "m#a1421"
+  },
+  {
+    "id": "23493",
+    "title": "Under the Waves: Diving in Deep Waters",
+    "titleBase": "Under the Waves: Diving in Deep Waters",
+    "author": "Ballantyne, R. M. (Robert Michael)",
+    "authorFullName": "R. M. (Robert Michael) Ballantyne",
+    "authorId": "b#a333"
+  },
+  {
+    "id": "23493",
+    "title": "Under the Waves: Diving in Deep Waters",
+    "titleBase": "Under the Waves: Diving in Deep Waters",
+    "author": "Pearson",
+    "authorFullName": "Pearson",
+    "authorId": "p#a35348"
+  },
+  {
+    "id": "22888",
+    "title": "Under the Window: Pictures & Rhymes for Children",
+    "titleBase": "Under the Window: Pictures & Rhymes for Children",
+    "author": "Greenaway, Kate",
+    "authorFullName": "Kate Greenaway",
+    "authorId": "g#a6307"
+  },
+  {
+    "id": "44827",
+    "title": "Under the Witches' MoonA Romantic Tale of Mediaeval Rome",
+    "titleBase": "Under the Witches' MoonA Romantic Tale of Mediaeval Rome",
+    "author": "Gallizier, Nathan",
+    "authorFullName": "Nathan Gallizier",
+    "authorId": "g#a40342"
+  },
+  {
+    "id": "31913",
+    "title": "Undertones",
+    "titleBase": "Undertones",
+    "author": "Cawein, Madison Julius",
+    "authorFullName": "Madison Julius Cawein",
+    "authorId": "c#a2531"
+  },
+  {
+    "id": "4916",
+    "title": "Undertow",
+    "titleBase": "Undertow",
+    "author": "Norris, Kathleen Thompson",
+    "authorFullName": "Kathleen Thompson Norris",
+    "authorId": "n#a1247"
+  },
+  {
+    "id": "3465",
+    "title": "Under Two Flags",
+    "titleBase": "Under Two Flags",
+    "author": "Ouida",
+    "authorFullName": "Ouida",
+    "authorId": "o#a1204"
+  },
+  {
+    "id": "20207",
+    "title": "Under Wellington's CommandA Tale of the Peninsular War",
+    "titleBase": "Under Wellington's CommandA Tale of the Peninsular War",
+    "author": "Henty, G. A. (George Alfred)",
+    "authorFullName": "G. A. (George Alfred) Henty",
+    "authorId": "h#a1032"
+  },
+  {
+    "id": "20207",
+    "title": "Under Wellington's CommandA Tale of the Peninsular War",
+    "titleBase": "Under Wellington's CommandA Tale of the Peninsular War",
+    "author": "Paget, Walter",
+    "authorFullName": "Walter Paget",
+    "authorId": "p#a9756"
+  },
+  {
+    "id": "9359",
+    "title": "Under Western Eyes",
+    "titleBase": "Under Western Eyes",
+    "author": "Conrad, Joseph",
+    "authorFullName": "Joseph Conrad",
+    "authorId": "c#a125"
+  },
+  {
+    "id": "2480",
+    "title": "Under Western Eyes",
+    "titleBase": "Under Western Eyes",
+    "author": "Conrad, Joseph",
+    "authorFullName": "Joseph Conrad",
+    "authorId": "c#a125"
+  },
+  {
+    "id": "43265",
+    "title": "Under Wolfe's Flag",
+    "titleBase": "Under Wolfe's Flag",
+    "author": "Walker, Rowland",
+    "authorFullName": "Rowland Walker",
+    "authorId": "w#a42096"
+  },
+  {
+    "id": "438",
+    "title": "Underwoods",
+    "titleBase": "Underwoods",
+    "author": "Stevenson, Robert Louis",
+    "authorFullName": "Robert Louis Stevenson",
+    "authorId": "s#a35"
+  },
+  {
+    "id": "15503",
+    "title": "The UnderworldThe Story of Robert Sinclair, Miner",
+    "titleBase": "UnderworldThe Story of Robert Sinclair, Miner",
+    "author": "Welsh, James C.",
+    "authorFullName": "James C. Welsh",
+    "authorId": "w#a6093"
+  },
+  {
+    "id": "3714",
+    "title": "Undine",
+    "titleBase": "Undine",
+    "author": "Bunnett, F. E. (Fanny Elizabeth)",
+    "authorFullName": "F. E. (Fanny Elizabeth) Bunnett",
+    "authorId": "b#a1276"
+  },
+  {
+    "id": "18752",
+    "title": "Undine",
+    "titleBase": "Undine",
+    "author": "Cameron, Katharine",
+    "authorFullName": "Katharine Cameron",
+    "authorId": "c#a8229"
+  },
+  {
+    "id": "3714",
+    "title": "Undine",
+    "titleBase": "Undine",
+    "author": "La Motte-Fouqué, Friedrich Heinrich Karl, Freiherr de",
+    "authorFullName": "Friedrich Heinrich Karl Freiherr de La Motte-Fouqué",
+    "authorId": "l#a1045"
+  },
+  {
+    "id": "2825",
+    "title": "Undine",
+    "titleBase": "Undine",
+    "author": "La Motte-Fouqué, Friedrich Heinrich Karl, Freiherr de",
+    "authorFullName": "Friedrich Heinrich Karl Freiherr de La Motte-Fouqué",
+    "authorId": "l#a1045"
+  },
+  {
+    "id": "18752",
+    "title": "Undine",
+    "titleBase": "Undine",
+    "author": "La Motte-Fouqué, Friedrich Heinrich Karl, Freiherr de",
+    "authorFullName": "Friedrich Heinrich Karl Freiherr de La Motte-Fouqué",
+    "authorId": "l#a1045"
+  },
+  {
+    "id": "18752",
+    "title": "Undine",
+    "titleBase": "Undine",
+    "author": "MacGregor, Mary Esther Miller",
+    "authorFullName": "Mary Esther Miller MacGregor",
+    "authorId": "m#a712"
+  },
+  {
+    "id": "2825",
+    "title": "Undine",
+    "titleBase": "Undine",
+    "author": "Yonge, Charlotte M. (Charlotte Mary)",
+    "authorFullName": "Charlotte M. (Charlotte Mary) Yonge",
+    "authorId": "y#a945"
+  },
+  {
+    "id": "25440",
+    "title": "An Undivided Union",
+    "titleBase": "Undivided Union",
+    "author": "Optic, Oliver",
+    "authorFullName": "Oliver Optic",
+    "authorId": "o#a260"
+  },
+  {
+    "id": "25440",
+    "title": "An Undivided Union",
+    "titleBase": "Undivided Union",
+    "author": "Stratemeyer, Edward",
+    "authorFullName": "Edward Stratemeyer",
+    "authorId": "s#a1626"
+  },
+  {
+    "id": "480",
+    "title": "\"Undo\": A Novel",
+    "titleBase": "\"Undo\": A Novel",
+    "author": "Hutsko, Joe",
+    "authorFullName": "Joe Hutsko",
+    "authorId": "h#a258"
+  },
+  {
+    "id": "34156",
+    "title": "The Undying Past",
+    "titleBase": "Undying Past",
+    "author": "Marshall, Beatrice",
+    "authorFullName": "Beatrice Marshall",
+    "authorId": "m#a36815"
+  },
+  {
+    "id": "34156",
+    "title": "The Undying Past",
+    "titleBase": "Undying Past",
+    "author": "Sudermann, Hermann",
+    "authorFullName": "Hermann Sudermann",
+    "authorId": "s#a2769"
+  },
+  {
+    "id": "6684",
+    "title": "Uneasy Money",
+    "titleBase": "Uneasy Money",
+    "author": "Wodehouse, P. G. (Pelham Grenville)",
+    "authorFullName": "P. G. (Pelham Grenville) Wodehouse",
+    "authorId": "w#a783"
+  },
+  {
+    "id": "44657",
+    "title": "UnelmaRomaani",
+    "titleBase": "UnelmaRomaani",
+    "author": "Jaakkola, Väinö",
+    "authorFullName": "Väinö Jaakkola",
+    "authorId": "j#a40868"
+  },
+  {
+    "id": "44657",
+    "title": "UnelmaRomaani",
+    "titleBase": "UnelmaRomaani",
+    "author": "Zola, Émile",
+    "authorFullName": "Émile Zola",
+    "authorId": "z#a528"
+  },
+  {
+    "id": "15395",
+    "title": "Unelmiensa uhriRomaani",
+    "titleBase": "Unelmiensa uhriRomaani",
+    "author": "Salmela, Marja",
+    "authorFullName": "Marja Salmela",
+    "authorId": "s#a6031"
+  },
+  {
+    "id": "43389",
+    "title": "Une Maladie MoraleLe mal du siècle",
+    "titleBase": "Une Maladie MoraleLe mal du siècle",
+    "author": "Charpentier, Paul",
+    "authorFullName": "Paul Charpentier",
+    "authorId": "c#a42172"
+  },
+  {
+    "id": "40185",
+    "title": "Das unendliche GesprächEine nächtliche Szene",
+    "titleBase": "Das unendliche GesprächEine nächtliche Szene",
+    "author": "Hasenclever, Walter",
+    "authorFullName": "Walter Hasenclever",
+    "authorId": "h#a40460"
+  },
+  {
+    "id": "37914",
+    "title": "Un été dans le Sahara",
+    "titleBase": "Un été dans le Sahara",
+    "author": "Fromentin, Eugène",
+    "authorFullName": "Eugène Fromentin",
+    "authorId": "f#a32054"
+  },
+  {
+    "id": "33725",
+    "title": "Unexplored!",
+    "titleBase": "Unexplored!",
+    "author": "Chaffee, Allen",
+    "authorFullName": "Allen Chaffee",
+    "authorId": "c#a36559"
+  },
+  {
+    "id": "41593",
+    "title": "Unexplored Spain",
+    "titleBase": "Unexplored Spain",
+    "author": "Buck, Walter J.",
+    "authorFullName": "Walter J. Buck",
+    "authorId": "b#a39310"
+  },
+  {
+    "id": "41593",
+    "title": "Unexplored Spain",
+    "titleBase": "Unexplored Spain",
+    "author": "Caldwell, E.",
+    "authorFullName": "E. Caldwell",
+    "authorId": "c#a38556"
+  },
+  {
+    "id": "41593",
+    "title": "Unexplored Spain",
+    "titleBase": "Unexplored Spain",
+    "author": "Chapman, Abel",
+    "authorFullName": "Abel Chapman",
+    "authorId": "c#a39309"
+  },
+  {
+    "id": "41593",
+    "title": "Unexplored Spain",
+    "titleBase": "Unexplored Spain",
+    "author": "Crawhall, Joseph",
+    "authorFullName": "Joseph Crawhall",
+    "authorId": "c#a41251"
+  },
+  {
+    "id": "5183",
+    "title": "The Unexpurgated Case Against Woman Suffrage",
+    "titleBase": "Unexpurgated Case Against Woman Suffrage",
+    "author": "Wright, Almroth",
+    "authorFullName": "Almroth Wright",
+    "authorId": "w#a1727"
+  },
+  {
+    "id": "38830",
+    "title": "UnfetteredA Novel",
+    "titleBase": "UnfetteredA Novel",
+    "author": "Griggs, Sutton E. (Sutton Elbert)",
+    "authorFullName": "Sutton E. (Sutton Elbert) Griggs",
+    "authorId": "g#a6067"
+  },
+  {
+    "id": "30562",
+    "title": "Unfinished PortraitsStories of Musicians and Artists",
+    "titleBase": "Unfinished PortraitsStories of Musicians and Artists",
+    "author": "Lee, Jennette",
+    "authorFullName": "Jennette Lee",
+    "authorId": "l#a1520"
+  },
+  {
+    "id": "19297",
+    "title": "The Unfolding Destiny of the British Bahá'í Community : the Messages from the Guardian of the Bahá'í Faith to the Bahá'ís of the British Isles",
+    "titleBase": "Unfolding Destiny of the British Bahá'í Community : the Messages from the Guardian of the Bahá'í Faith to the Bahá'ís of the British Isles",
+    "author": "Shoghi, Effendi",
+    "authorFullName": "Effendi Shoghi",
+    "authorId": "s#a8574"
+  },
+  {
+    "id": "13533",
+    "title": "The Unfolding Life\rA Study of Development with Reference to Religious Training",
+    "titleBase": "Unfolding Life\rA Study of Development with Reference to Religious Training",
+    "author": "Lamoreaux, Antoinette Abernethy",
+    "authorFullName": "Antoinette Abernethy Lamoreaux",
+    "authorId": "l#a5118"
+  },
+  {
+    "id": "4700",
+    "title": "The Unforseen Return",
+    "titleBase": "Unforseen Return",
+    "author": "Morlock, Frank J.",
+    "authorFullName": "Frank J. Morlock",
+    "authorId": "m#a1532"
+  },
+  {
+    "id": "4700",
+    "title": "The Unforseen Return",
+    "titleBase": "Unforseen Return",
+    "author": "Regnard, Jean François",
+    "authorFullName": "Jean François Regnard",
+    "authorId": "r#a1551"
+  },
+  {
+    "id": "21707",
+    "title": "Ungava",
+    "titleBase": "Ungava",
+    "author": "Ballantyne, R. M. (Robert Michael)",
+    "authorFullName": "R. M. (Robert Michael) Ballantyne",
+    "authorId": "b#a333"
+  },
+  {
+    "id": "16596",
+    "title": "Ungava Bob: A Winter's Tale",
+    "titleBase": "Ungava Bob: A Winter's Tale",
+    "author": "Palmer, Samuel M.",
+    "authorFullName": "Samuel M. Palmer",
+    "authorId": "p#a7013"
+  },
+  {
+    "id": "16596",
+    "title": "Ungava Bob: A Winter's Tale",
+    "titleBase": "Ungava Bob: A Winter's Tale",
+    "author": "Wallace, Dillon",
+    "authorFullName": "Dillon Wallace",
+    "authorId": "w#a1361"
+  },
+  {
+    "id": "27249",
+    "title": "Ungdomsdrömmarhistorisk berättelse",
+    "titleBase": "Ungdomsdrömmarhistorisk berättelse",
+    "author": "Topelius, Zacharias",
+    "authorFullName": "Zacharias Topelius",
+    "authorId": "t#a6545"
+  },
+  {
+    "id": "19940",
+    "title": "Die ungleichen Schalen: Fünf einaktige Dramen",
+    "titleBase": "Die ungleichen Schalen: Fünf einaktige Dramen",
+    "author": "Wassermann, Jakob",
+    "authorFullName": "Jakob Wassermann",
+    "authorId": "w#a6236"
+  },
+  {
+    "id": "13820",
+    "title": "Unhappy Far-Off Things",
+    "titleBase": "Unhappy Far-Off Things",
+    "author": "Dunsany, Edward John Moreton Drax Plunkett, Baron",
+    "authorFullName": "Edward John Moreton Drax Plunkett Baron Dunsany",
+    "authorId": "d#a2685"
+  },
+  {
+    "id": "7860",
+    "title": "Die unheilbringende Krone\r(oder König ohne Reich, Held ohne Mut, Schönheit ohne Jugend)",
+    "titleBase": "Die unheilbringende Krone\r(oder König ohne Reich, Held ohne Mut, Schönheit ohne Jugend)",
+    "author": "Raimund, Ferdinand",
+    "authorFullName": "Ferdinand Raimund",
+    "authorId": "r#a2124"
+  },
+  {
+    "id": "34222",
+    "title": "Das Unheimliche",
+    "titleBase": "Das Unheimliche",
+    "author": "Freud, Sigmund",
+    "authorFullName": "Sigmund Freud",
+    "authorId": "f#a391"
+  },
+  {
+    "id": "19918",
+    "title": "Uni",
+    "titleBase": "Uni",
+    "author": "Hytönen, Sulo M.",
+    "authorFullName": "Sulo M. Hytönen",
+    "authorId": "h#a8967"
+  },
+  {
+    "id": "26144",
+    "title": "The Unicorn from the Stars and Other Plays",
+    "titleBase": "Unicorn from the Stars and Other Plays",
+    "author": "Gregory, Lady",
+    "authorFullName": "Lady Gregory",
+    "authorId": "g#a4092"
+  },
+  {
+    "id": "26144",
+    "title": "The Unicorn from the Stars and Other Plays",
+    "titleBase": "Unicorn from the Stars and Other Plays",
+    "author": "Yeats, W. B. (William Butler)",
+    "authorFullName": "W. B. (William Butler) Yeats",
+    "authorId": "y#a1719"
+  },
+  {
+    "id": "39116",
+    "title": "Unicorns",
+    "titleBase": "Unicorns",
+    "author": "Huneker, James",
+    "authorFullName": "James Huneker",
+    "authorId": "h#a1597"
+  },
+  {
+    "id": "32737",
+    "title": "Uniform of a Man",
+    "titleBase": "Uniform of a Man",
+    "author": "Dryfoos, Dave",
+    "authorFullName": "Dave Dryfoos",
+    "authorId": "d#a34175"
+  },
+  {
+    "id": "32737",
+    "title": "Uniform of a Man",
+    "titleBase": "Uniform of a Man",
+    "author": "Palais, Rudolph",
+    "authorFullName": "Rudolph Palais",
+    "authorId": "p#a35411"
+  },
+  {
+    "id": "8602",
+    "title": "The Uninhabited House",
+    "titleBase": "Uninhabited House",
+    "author": "Riddell, J. H., Mrs.",
+    "authorFullName": "J. H. Mrs. Riddell",
+    "authorId": "r#a2824"
+  },
+  {
+    "id": "26172",
+    "title": "Union And Communionor Thoughts on the Song of Solomon",
+    "titleBase": "Union And Communionor Thoughts on the Song of Solomon",
+    "author": "Taylor, James Hudson",
+    "authorFullName": "James Hudson Taylor",
+    "authorId": "t#a25841"
+  },
+  {
+    "id": "22461",
+    "title": "Union and Democracy",
+    "titleBase": "Union and Democracy",
+    "author": "Johnson, Allen",
+    "authorFullName": "Allen Johnson",
+    "authorId": "j#a1084"
+  },
+  {
+    "id": "40444",
+    "title": "The Union: Or, Select Scots and English Poems",
+    "titleBase": "Union: Or, Select Scots and English Poems",
+    "author": "Various",
+    "authorFullName": "Various",
+    "authorId": "v#a116"
+  },
+  {
+    "id": "1576",
+    "title": "A Unique Story of a Marvellous Career: Life of Hon. Phineas T. Barnum",
+    "titleBase": "Unique Story of a Marvellous Career: Life of Hon. Phineas T. Barnum",
+    "author": "Benton, Joel",
+    "authorFullName": "Joel Benton",
+    "authorId": "b#a664"
+  },
+  {
+    "id": "11142",
+    "title": "Unitarianism",
+    "titleBase": "Unitarianism",
+    "author": "Tarrant, W. G. (William George)",
+    "authorFullName": "W. G. (William George) Tarrant",
+    "authorId": "t#a3860"
+  },
+  {
+    "id": "8605",
+    "title": "Unitarianism in America: A History of its Origin and Development",
+    "titleBase": "Unitarianism in America: A History of its Origin and Development",
+    "author": "Cooke, George Willis",
+    "authorFullName": "George Willis Cooke",
+    "authorId": "c#a2826"
+  },
+  {
+    "id": "11977",
+    "title": "The United Empire Loyalists : A Chronicle of the Great Migration",
+    "titleBase": "United Empire Loyalists : A Chronicle of the Great Migration",
+    "author": "Wallace, W. Stewart (William Stewart)",
+    "authorFullName": "W. Stewart (William Stewart) Wallace",
+    "authorId": "w#a4156"
+  },
+  {
+    "id": "41987",
+    "title": "The United Seas",
+    "titleBase": "United Seas",
+    "author": "Rogers, Robert W.",
+    "authorFullName": "Robert W. Rogers",
+    "authorId": "r#a41468"
+  },
+  {
+    "id": "31789",
+    "title": "The United States and Latin America",
+    "titleBase": "United States and Latin America",
+    "author": "Latané, John Holladay",
+    "authorFullName": "John Holladay Latané",
+    "authorId": "l#a8106"
+  },
+  {
+    "id": "35726",
+    "title": "The United States and the War",
+    "titleBase": "United States and the War",
+    "author": "Murray, Gilbert",
+    "authorFullName": "Gilbert Murray",
+    "authorId": "m#a1681"
+  },
+  {
+    "id": "2",
+    "title": "The United States Bill of Rights\rThe Ten Original Amendments to the Constitution of the United States",
+    "titleBase": "United States Bill of Rights\rThe Ten Original Amendments to the Constitution of the United States",
+    "author": "United States",
+    "authorFullName": "United States",
+    "authorId": "u#a1"
+  },
+  {
+    "id": "115",
+    "title": "United States Census Figures Back to 1630",
+    "titleBase": "United States Census Figures Back to 1630",
+    "author": "United States. Bureau of the Census",
+    "authorFullName": "United States. Bureau of the Census",
+    "authorId": "u#a25"
+  },
+  {
+    "id": "5",
+    "title": "The United States Constitution",
+    "titleBase": "United States Constitution",
+    "author": "United States",
+    "authorFullName": "United States",
+    "authorId": "u#a1"
+  },
+  {
+    "id": "300",
+    "title": "United States Declaration of Independence (HTML)",
+    "titleBase": "United States Declaration of Independence (HTML)",
+    "author": "United States",
+    "authorFullName": "United States",
+    "authorId": "u#a1"
+  },
+  {
+    "id": "36471",
+    "title": "United States Government Publications, v. 8  Jan-Jun 1892A Monthly Catalog",
+    "titleBase": "United States Government Publications, v. 8  Jan-Jun 1892A Monthly Catalog",
+    "author": "Compiled",
+    "authorFullName": "Compiled",
+    "authorId": "c#a38266"
+  },
+  {
+    "id": "36471",
+    "title": "United States Government Publications, v. 8  Jan-Jun 1892A Monthly Catalog",
+    "titleBase": "United States Government Publications, v. 8  Jan-Jun 1892A Monthly Catalog",
+    "author": "Hickcox, John H.",
+    "authorFullName": "John H. Hickcox",
+    "authorId": "h#a38295"
+  },
+  {
+    "id": "12364",
+    "title": "The United States in the Light of Prophecy\rOr, an Exposition of Rev. 13:11-17",
+    "titleBase": "United States in the Light of Prophecy\rOr, an Exposition of Rev. 13:11-17",
+    "author": "Smith, Uriah",
+    "authorFullName": "Uriah Smith",
+    "authorId": "s#a4338"
+  },
+  {
+    "id": "6665",
+    "title": "The United States of America, Part 1: 1783-1830",
+    "titleBase": "United States of America, Part 1: 1783-1830",
+    "author": "Sparks, Edwin Erle",
+    "authorFullName": "Edwin Erle Sparks",
+    "authorId": "s#a2140"
+  },
+  {
+    "id": "925",
+    "title": "United States Presidents' Inaugural Speeches: From Washington to George W. Bush",
+    "titleBase": "United States Presidents' Inaugural Speeches: From Washington to George W. Bush",
+    "author": "United States. Presidents",
+    "authorFullName": "United States. Presidents",
+    "authorId": "u#a476"
+  },
+  {
+    "id": "9868",
+    "title": "The United States Since the Civil War",
+    "titleBase": "United States Since the Civil War",
+    "author": "Lingley, Charles Ramsdell",
+    "authorFullName": "Charles Ramsdell Lingley",
+    "authorId": "l#a3180"
+  },
+  {
+    "id": "16591",
+    "title": "Unity of Good",
+    "titleBase": "Unity of Good",
+    "author": "Eddy, Mary Baker",
+    "authorFullName": "Mary Baker Eddy",
+    "authorId": "e#a1203"
+  },
+  {
+    "id": "15030",
+    "title": "The Unity of Western Civilization",
+    "titleBase": "Unity of Western Civilization",
+    "author": "Marvin, Francis Sydney",
+    "authorFullName": "Francis Sydney Marvin",
+    "authorId": "m#a33033"
+  },
+  {
+    "id": "253",
+    "title": "The Universal Copyright Convention (1988)",
+    "titleBase": "Universal Copyright Convention (1988)",
+    "author": "Coalition for Networked Information",
+    "authorFullName": "Coalition for Networked Information",
+    "authorId": "c#a142"
+  },
+  {
+    "id": "29477",
+    "title": "The Universal Reciter81 Choice Pieces of Rare Poetical Gems",
+    "titleBase": "Universal Reciter81 Choice Pieces of Rare Poetical Gems",
+    "author": "Various",
+    "authorFullName": "Various",
+    "authorId": "v#a116"
+  },
+  {
+    "id": "36343",
+    "title": "The Universe a Vast Electric Organism",
+    "titleBase": "Universe a Vast Electric Organism",
+    "author": "Warder, George Woodward",
+    "authorFullName": "George Woodward Warder",
+    "authorId": "w#a38218"
+  },
+  {
+    "id": "18257",
+    "title": "The Universe — or Nothing",
+    "titleBase": "Universe — or Nothing",
+    "author": "Moldeven, Meyer",
+    "authorFullName": "Meyer Moldeven",
+    "authorId": "m#a1011"
+  },
+  {
+    "id": "31553",
+    "title": "University Education in Ireland",
+    "titleBase": "University Education in Ireland",
+    "author": "Haughton, Samuel",
+    "authorFullName": "Samuel Haughton",
+    "authorId": "h#a35326"
+  },
+  {
+    "id": "455",
+    "title": "The University of Hard Knocks",
+    "titleBase": "University of Hard Knocks",
+    "author": "Parlette, Ralph Albert",
+    "authorFullName": "Ralph Albert Parlette",
+    "authorId": "p#a244"
+  },
+  {
+    "id": "21532",
+    "title": "The University of Michigan",
+    "titleBase": "University of Michigan",
+    "author": "Shaw, Wilfred Byron",
+    "authorFullName": "Wilfred Byron Shaw",
+    "authorId": "s#a24768"
+  },
+  {
+    "id": "39096",
+    "title": "Unkarilainen NabobRomaani",
+    "titleBase": "Unkarilainen NabobRomaani",
+    "author": "Jókai, Mór",
+    "authorFullName": "Mór Jókai",
+    "authorId": "j#a5845"
+  },
+  {
+    "id": "39096",
+    "title": "Unkarilainen NabobRomaani",
+    "titleBase": "Unkarilainen NabobRomaani",
+    "author": "Wainio, Niilo E.",
+    "authorFullName": "Niilo E. Wainio",
+    "authorId": "w#a39842"
+  },
+  {
+    "id": "13672",
+    "title": "The Unknown Eros",
+    "titleBase": "Unknown Eros",
+    "author": "Patmore, Coventry",
+    "authorFullName": "Coventry Patmore",
+    "authorId": "p#a1354"
+  },
+  {
+    "id": "2033",
+    "title": "The Unknown Guest",
+    "titleBase": "Unknown Guest",
+    "author": "Maeterlinck, Maurice",
+    "authorFullName": "Maurice Maeterlinck",
+    "authorId": "m#a795"
+  },
+  {
+    "id": "2033",
+    "title": "The Unknown Guest",
+    "titleBase": "Unknown Guest",
+    "author": "Teixeira de Mattos, Alexander",
+    "authorFullName": "Alexander Teixeira de Mattos",
+    "authorId": "t#a736"
+  },
+  {
+    "id": "29288",
+    "title": "The Unknown Life of Jesus ChristThe Original Text of Nicolas Notovitch's 1887 Discovery",
+    "titleBase": "Unknown Life of Jesus ChristThe Original Text of Nicolas Notovitch's 1887 Discovery",
+    "author": "Notovitch, Nicolas",
+    "authorFullName": "Nicolas Notovitch",
+    "authorId": "n#a33818"
+  },
+  {
+    "id": "32936",
+    "title": "An Unknown Lover",
+    "titleBase": "Unknown Lover",
+    "author": "Vaizey, George de Horne, Mrs.",
+    "authorFullName": "George de Horne Mrs. Vaizey",
+    "authorId": "v#a9729"
+  },
+  {
+    "id": "23060",
+    "title": "The Unknown Masterpiece1845",
+    "titleBase": "Unknown Masterpiece1845",
+    "author": "Balzac, Honoré de",
+    "authorFullName": "Honoré de Balzac",
+    "authorId": "b#a251"
+  },
+  {
+    "id": "16426",
+    "title": "Unknown Mexico, Volume 1 (of 2)\rA Record of Five Years' Exploration Among the Tribes of the Western Sierra Madre; In the Tierra Caliente of Tepic and Jalisco; and Among the Tarascos of Michoacan",
+    "titleBase": "Unknown Mexico, Volume 1 (of 2)\rA Record of Five Years' Exploration Among the Tribes of the Western Sierra Madre; In the Tierra Caliente of Tepic and Jalisco; and Among the Tarascos of Michoacan",
+    "author": "Lumholtz, Carl",
+    "authorFullName": "Carl Lumholtz",
+    "authorId": "l#a2486"
+  },
+  {
+    "id": "12157",
+    "title": "The UnknownNight Watches, Part 7.",
+    "titleBase": "UnknownNight Watches, Part 7.",
+    "author": "Davis, Stanley",
+    "authorFullName": "Stanley Davis",
+    "authorId": "d#a24861"
+  },
+  {
+    "id": "12157",
+    "title": "The UnknownNight Watches, Part 7.",
+    "titleBase": "UnknownNight Watches, Part 7.",
+    "author": "Jacobs, W. W. (William Wymark)",
+    "authorFullName": "W. W. (William Wymark) Jacobs",
+    "authorId": "j#a1865"
+  },
+  {
+    "id": "30622",
+    "title": "The Unknown Quantity: A Book of Romance and Some Half-Told Tales",
+    "titleBase": "Unknown Quantity: A Book of Romance and Some Half-Told Tales",
+    "author": "Van Dyke, Henry",
+    "authorFullName": "Henry Van Dyke",
+    "authorId": "v#a362"
+  },
+  {
+    "id": "33945",
+    "title": "The Unknown Sea",
+    "titleBase": "Unknown Sea",
+    "author": "Housman, Clemence",
+    "authorFullName": "Clemence Housman",
+    "authorId": "h#a4853"
+  },
+  {
+    "id": "4596",
+    "title": "Unknown to History: A Story of the Captivity of Mary of Scotland",
+    "titleBase": "Unknown to History: A Story of the Captivity of Mary of Scotland",
+    "author": "Yonge, Charlotte M. (Charlotte Mary)",
+    "authorFullName": "Charlotte M. (Charlotte Mary) Yonge",
+    "authorId": "y#a945"
+  },
+  {
+    "id": "26391",
+    "title": "The Unknown Wrestler",
+    "titleBase": "Unknown Wrestler",
+    "author": "Cody, H. A. (Hiram Alfred)",
+    "authorFullName": "H. A. (Hiram Alfred) Cody",
+    "authorId": "c#a2694"
+  },
+  {
+    "id": "32745",
+    "title": "The Unlearned",
+    "titleBase": "Unlearned",
+    "author": "Emshwiller, Ed",
+    "authorFullName": "Ed Emshwiller",
+    "authorId": "e#a25412"
+  },
+  {
+    "id": "32745",
+    "title": "The Unlearned",
+    "titleBase": "Unlearned",
+    "author": "Jones, Raymond F.",
+    "authorFullName": "Raymond F. Jones",
+    "authorId": "j#a25386"
+  },
+  {
+    "id": "14645",
+    "title": "Unleavened Bread",
+    "titleBase": "Unleavened Bread",
+    "author": "Grant, Robert",
+    "authorFullName": "Robert Grant",
+    "authorId": "g#a2515"
+  },
+  {
+    "id": "35653",
+    "title": "UnluckyA Fragment of a Girl's Life",
+    "titleBase": "UnluckyA Fragment of a Girl's Life",
+    "author": "Austin, Caroline",
+    "authorFullName": "Caroline Austin",
+    "authorId": "a#a37805"
+  },
+  {
+    "id": "13081",
+    "title": "Unmanned",
+    "titleBase": "Unmanned",
+    "author": "Oliver, Stephen",
+    "authorFullName": "Stephen Oliver",
+    "authorId": "o#a4013"
+  },
+  {
+    "id": "42723",
+    "title": "The Unmasking of Robert-Houdin",
+    "titleBase": "Unmasking of Robert-Houdin",
+    "author": "Houdini, Harry",
+    "authorFullName": "Harry Houdini",
+    "authorId": "h#a236"
+  },
+  {
+    "id": "43848",
+    "title": "Un Misanthrope à la Cour de Louis XIVMontausier, sa vie et son temps",
+    "titleBase": "Un Misanthrope à la Cour de Louis XIVMontausier, sa vie et son temps",
+    "author": "Roux, Amédée",
+    "authorFullName": "Amédée Roux",
+    "authorId": "r#a42435"
+  },
+  {
+    "id": "24529",
+    "title": "The Unnecessary Man",
+    "titleBase": "Unnecessary Man",
+    "author": "Garrett, Randall",
+    "authorFullName": "Randall Garrett",
+    "authorId": "g#a25267"
+  },
+  {
+    "id": "24529",
+    "title": "The Unnecessary Man",
+    "titleBase": "Unnecessary Man",
+    "author": "Martinez",
+    "authorFullName": "Martinez",
+    "authorId": "m#a26040"
+  },
+  {
+    "id": "42928",
+    "title": "Uno degli onestiCommedia in un atto",
+    "titleBase": "Uno degli onestiCommedia in un atto",
+    "author": "Bracco, Roberto",
+    "authorFullName": "Roberto Bracco",
+    "authorId": "b#a37422"
+  },
+  {
+    "id": "42328",
+    "title": "An Unoficial Patriot",
+    "titleBase": "Unoficial Patriot",
+    "author": "Gardener, Helen H. (Helen Hamilton)",
+    "authorFullName": "Helen H. (Helen Hamilton) Gardener",
+    "authorId": "g#a34434"
+  },
+  {
+    "id": "15793",
+    "title": "An Unpardonable Liar",
+    "titleBase": "Unpardonable Liar",
+    "author": "Parker, Gilbert",
+    "authorFullName": "Gilbert Parker",
+    "authorId": "p#a1285"
+  },
+  {
+    "id": "35854",
+    "title": "Un Pélerin d'Angkor",
+    "titleBase": "Un Pélerin d'Angkor",
+    "author": "Loti, Pierre",
+    "authorFullName": "Pierre Loti",
+    "authorId": "l#a853"
+  },
+  {
+    "id": "29282",
+    "title": "Un philosophe sous les toits",
+    "titleBase": "Un philosophe sous les toits",
+    "author": "Souvestre, Émile",
+    "authorFullName": "Émile Souvestre",
+    "authorId": "s#a1351"
+  },
+  {
+    "id": "38514",
+    "title": "The Unpopular Review, Number 19July-December 1918",
+    "titleBase": "Unpopular Review, Number 19July-December 1918",
+    "author": "Various",
+    "authorFullName": "Various",
+    "authorId": "v#a116"
+  },
+  {
+    "id": "15876",
+    "title": "The Unpopular Review, Volume II Number 3",
+    "titleBase": "Unpopular Review, Volume II Number 3",
+    "author": "Various",
+    "authorFullName": "Various",
+    "authorId": "v#a116"
+  },
+  {
+    "id": "3710",
+    "title": "An Unprotected Female at the Pyramids",
+    "titleBase": "Unprotected Female at the Pyramids",
+    "author": "Trollope, Anthony",
+    "authorFullName": "Anthony Trollope",
+    "authorId": "t#a324"
+  },
+  {
+    "id": "32036",
+    "title": "The Unprotected Species",
+    "titleBase": "Unprotected Species",
+    "author": "Sturgis, Melvin",
+    "authorFullName": "Melvin Sturgis",
+    "authorId": "s#a35628"
+  },
+  {
+    "id": "32244",
+    "title": "Un p'tit homme",
+    "titleBase": "Un p'tit homme",
+    "author": "Ferdinandus, A.",
+    "authorFullName": "A. Ferdinandus",
+    "authorId": "f#a35741"
+  },
+  {
+    "id": "32244",
+    "title": "Un p'tit homme",
+    "titleBase": "Un p'tit homme",
+    "author": "Jacob, P. L.",
+    "authorFullName": "P. L. Jacob",
+    "authorId": "j#a4290"
+  },
+  {
+    "id": "38746",
+    "title": "The Unpublishable Memoirs",
+    "titleBase": "Unpublishable Memoirs",
+    "author": "Rosenbach, A. S. W.",
+    "authorFullName": "A. S. W. Rosenbach",
+    "authorId": "r#a39630"
+  },
+  {
+    "id": "20255",
+    "title": "The Unruly Sprite: A Partial Fairy Tale",
+    "titleBase": "Unruly Sprite: A Partial Fairy Tale",
+    "author": "Van Dyke, Henry",
+    "authorFullName": "Henry Van Dyke",
+    "authorId": "v#a362"
+  },
+  {
+    "id": "15875",
+    "title": "The Unseen Bridegroom; Or, Wedded For a Week",
+    "titleBase": "Unseen Bridegroom; Or, Wedded For a Week",
+    "author": "Fleming, May Agnes",
+    "authorFullName": "May Agnes Fleming",
+    "authorId": "f#a1074"
+  },
+  {
+    "id": "1486",
+    "title": "The Unseen World, and Other Essays",
+    "titleBase": "Unseen World, and Other Essays",
+    "author": "Fiske, John",
+    "authorFullName": "John Fiske",
+    "authorId": "f#a525"
+  },
+  {
+    "id": "44557",
+    "title": "An Unsentimental Journey through Cornwall",
+    "titleBase": "Unsentimental Journey through Cornwall",
+    "author": "Craik, Dinah Maria Mulock",
+    "authorFullName": "Dinah Maria Mulock Craik",
+    "authorId": "c#a264"
+  },
+  {
+    "id": "44557",
+    "title": "An Unsentimental Journey through Cornwall",
+    "titleBase": "Unsentimental Journey through Cornwall",
+    "author": "Hemy, C. Napier",
+    "authorFullName": "C. Napier Hemy",
+    "authorId": "h#a42811"
+  },
+  {
+    "id": "33041",
+    "title": "Unsichtbare BandeErzählungen",
+    "titleBase": "Unsichtbare BandeErzählungen",
+    "author": "Franzos, Marie",
+    "authorFullName": "Marie Franzos",
+    "authorId": "f#a9157"
+  },
+  {
+    "id": "33041",
+    "title": "Unsichtbare BandeErzählungen",
+    "titleBase": "Unsichtbare BandeErzählungen",
+    "author": "Lagerlöf, Selma",
+    "authorFullName": "Selma Lagerlöf",
+    "authorId": "l#a1717"
+  },
+  {
+    "id": "1654",
+    "title": "An Unsocial Socialist",
+    "titleBase": "Unsocial Socialist",
+    "author": "Shaw, Bernard",
+    "authorFullName": "Bernard Shaw",
+    "authorId": "s#a467"
+  },
+  {
+    "id": "22651",
+    "title": "The Unsolved Riddle of Social Justice",
+    "titleBase": "Unsolved Riddle of Social Justice",
+    "author": "Leacock, Stephen",
+    "authorFullName": "Stephen Leacock",
+    "authorId": "l#a1221"
+  },
+  {
+    "id": "10109",
+    "title": "The Unspeakable Gentleman",
+    "titleBase": "Unspeakable Gentleman",
+    "author": "Marquand, John P. (John Phillips)",
+    "authorFullName": "John P. (John Phillips) Marquand",
+    "authorId": "m#a3310"
+  },
+  {
+    "id": "5009",
+    "title": "The Unspeakable Perk",
+    "titleBase": "Unspeakable Perk",
+    "author": "Adams, Samuel Hopkins",
+    "authorFullName": "Samuel Hopkins Adams",
+    "authorId": "a#a1635"
+  },
+  {
+    "id": "23443",
+    "title": "Unspecialist",
+    "titleBase": "Unspecialist",
+    "author": "Yaco, Murray F.",
+    "authorFullName": "Murray F. Yaco",
+    "authorId": "y#a25843"
+  },
+  {
+    "id": "9057",
+    "title": "Unspoken Sermons, Series I., II., and III.",
+    "titleBase": "Unspoken Sermons, Series I., II., and III.",
+    "author": "MacDonald, George",
+    "authorFullName": "George MacDonald",
+    "authorId": "m#a127"
+  },
+  {
+    "id": "10886",
+    "title": "The Untamed",
+    "titleBase": "Untamed",
+    "author": "Brand, Max",
+    "authorFullName": "Max Brand",
+    "authorId": "b#a743"
+  },
+  {
+    "id": "23147",
+    "title": "Untechnological Employment",
+    "titleBase": "Untechnological Employment",
+    "author": "Clinton, Ed M.",
+    "authorFullName": "Ed M. Clinton",
+    "authorId": "c#a25710"
+  },
+  {
+    "id": "2420",
+    "title": "Unterhaltungen deutscher Ausgewanderten",
+    "titleBase": "Unterhaltungen deutscher Ausgewanderten",
+    "author": "Goethe, Johann Wolfgang von",
+    "authorFullName": "Johann Wolfgang von Goethe",
+    "authorId": "g#a586"
+  },
+  {
+    "id": "36382",
+    "title": "Der Unterkiefer des Homo HeidelbergensisAus den Sanden von Mauer bei Heidelberg",
+    "titleBase": "Der Unterkiefer des Homo HeidelbergensisAus den Sanden von Mauer bei Heidelberg",
+    "author": "Schoetensack, Otto",
+    "authorFullName": "Otto Schoetensack",
+    "authorId": "s#a38238"
+  },
+  {
+    "id": "26686",
+    "title": "Unterm Birnbaum",
+    "titleBase": "Unterm Birnbaum",
+    "author": "Fontane, Theodor",
+    "authorFullName": "Theodor Fontane",
+    "authorId": "f#a1765"
+  },
+  {
+    "id": "44239",
+    "title": "Unter Palmen und Buchen. Erster Band.Unter Buchen. Gesammelte Erzählungen.",
+    "titleBase": "Unter Palmen und Buchen. Erster Band.Unter Buchen. Gesammelte Erzählungen.",
+    "author": "Gerstäcker, Friedrich",
+    "authorFullName": "Friedrich Gerstäcker",
+    "authorId": "g#a8053"
+  },
+  {
+    "id": "37945",
+    "title": "Untersuchungen über die radioaktiven Substanzen von Marie Curie, übersetzt und mit Litteratur-Ergänzungen versehen von W. Kaufmann",
+    "titleBase": "Untersuchungen über die radioaktiven Substanzen von Marie Curie, übersetzt und mit Litteratur-Ergänzungen versehen von W. Kaufmann",
+    "author": "Curie, Marie",
+    "authorFullName": "Marie Curie",
+    "authorId": "c#a39174"
+  },
+  {
+    "id": "37945",
+    "title": "Untersuchungen über die radioaktiven Substanzen von Marie Curie, übersetzt und mit Litteratur-Ergänzungen versehen von W. Kaufmann",
+    "titleBase": "Untersuchungen über die radioaktiven Substanzen von Marie Curie, übersetzt und mit Litteratur-Ergänzungen versehen von W. Kaufmann",
+    "author": "Kaufmann, Walter",
+    "authorFullName": "Walter Kaufmann",
+    "authorId": "k#a39175"
+  },
+  {
+    "id": "14223",
+    "title": "Untersuchungen über Goethes Faust in seiner ältesten Gestalt",
+    "titleBase": "Untersuchungen über Goethes Faust in seiner ältesten Gestalt",
+    "author": "Collin, J. (Josef)",
+    "authorFullName": "J. (Josef) Collin",
+    "authorId": "c#a5416"
+  },
+  {
+    "id": "38126",
+    "title": "Der Untertan",
+    "titleBase": "Der Untertan",
+    "author": "Mann, Heinrich",
+    "authorFullName": "Heinrich Mann",
+    "authorId": "m#a35073"
+  },
+  {
+    "id": "27491",
+    "title": "Unthinkable",
+    "titleBase": "Unthinkable",
+    "author": "Phillips, Rog",
+    "authorFullName": "Rog Phillips",
+    "authorId": "p#a34753"
+  },
+  {
+    "id": "27491",
+    "title": "Unthinkable",
+    "titleBase": "Unthinkable",
+    "author": "Terry, W. E.",
+    "authorFullName": "W. E. Terry",
+    "authorId": "t#a34265"
+  },
+  {
+    "id": "30683",
+    "title": "The Unthinking Destroyer",
+    "titleBase": "Unthinking Destroyer",
+    "author": "Phillips, Rog",
+    "authorFullName": "Rog Phillips",
+    "authorId": "p#a34753"
+  },
+  {
+    "id": "30683",
+    "title": "The Unthinking Destroyer",
+    "titleBase": "Unthinking Destroyer",
+    "author": "Terry, W. E.",
+    "authorFullName": "W. E. Terry",
+    "authorId": "t#a34265"
+  },
+  {
+    "id": "4034",
+    "title": "The Untilled Field",
+    "titleBase": "Untilled Field",
+    "author": "Moore, George",
+    "authorFullName": "George Moore",
+    "authorId": "m#a1366"
+  },
+  {
+    "id": "24789",
+    "title": "\"Unto Caesar\"",
+    "titleBase": "\"Unto Caesar\"",
+    "author": "Orczy, Emmuska Orczy, Baroness",
+    "authorFullName": "Emmuska Orczy Baroness Orczy",
+    "authorId": "o#a45"
+  },
+  {
+    "id": "36541",
+    "title": "Unto This Last and Other Essays on Political Economy",
+    "titleBase": "Unto This Last and Other Essays on Political Economy",
+    "author": "Ruskin, John",
+    "authorFullName": "John Ruskin",
+    "authorId": "r#a359"
+  },
+  {
+    "id": "24221",
+    "title": "The Untouchable",
+    "titleBase": "Untouchable",
+    "author": "Douglas",
+    "authorFullName": "Douglas",
+    "authorId": "d#a21"
+  },
+  {
+    "id": "24221",
+    "title": "The Untouchable",
+    "titleBase": "Untouchable",
+    "author": "Kallis, Stephen A.",
+    "authorFullName": "Stephen A. Kallis",
+    "authorId": "k#a26321"
+  },
+  {
+    "id": "22108",
+    "title": "The Untroubled Mind",
+    "titleBase": "Untroubled Mind",
+    "author": "Hall, Herbert J. (Herbert James)",
+    "authorFullName": "Herbert J. (Herbert James) Hall",
+    "authorId": "h#a25115"
+  },
+  {
+    "id": "42816",
+    "title": "Unveiling a ParallelA Romance",
+    "titleBase": "Unveiling a ParallelA Romance",
+    "author": "Jones, Alice Ilgenfritz",
+    "authorFullName": "Alice Ilgenfritz Jones",
+    "authorId": "j#a41870"
+  },
+  {
+    "id": "42816",
+    "title": "Unveiling a ParallelA Romance",
+    "titleBase": "Unveiling a ParallelA Romance",
+    "author": "Marchant, Ella",
+    "authorFullName": "Ella Marchant",
+    "authorId": "m#a41871"
+  },
+  {
+    "id": "33359",
+    "title": "The Unveiling of Lhasa",
+    "titleBase": "Unveiling of Lhasa",
+    "author": "Candler, Edmund",
+    "authorFullName": "Edmund Candler",
+    "authorId": "c#a36363"
+  },
+  {
+    "id": "10958",
+    "title": "An Unwilling Maid\rBeing the History of Certain Episodes during the American Revolution in the Early Life of Mistress Betty Yorke, born Wolcott",
+    "titleBase": "Unwilling Maid\rBeing the History of Certain Episodes during the American Revolution in the Early Life of Mistress Betty Yorke, born Wolcott",
+    "author": "Lincoln, Jeanie Gould",
+    "authorFullName": "Jeanie Gould Lincoln",
+    "authorId": "l#a3768"
+  },
+  {
+    "id": "42135",
+    "title": "The Unwilling Professor",
+    "titleBase": "Unwilling Professor",
+    "author": "Luros, Milton",
+    "authorFullName": "Milton Luros",
+    "authorId": "l#a41543"
+  },
+  {
+    "id": "42135",
+    "title": "The Unwilling Professor",
+    "titleBase": "Unwilling Professor",
+    "author": "Porges, Arthur",
+    "authorFullName": "Arthur Porges",
+    "authorId": "p#a32890"
+  },
+  {
+    "id": "6070",
+    "title": "The Unwilling Vestal",
+    "titleBase": "Unwilling Vestal",
+    "author": "White, Edward Lucas",
+    "authorFullName": "Edward Lucas White",
+    "authorId": "w#a1929"
+  },
+  {
+    "id": "23335",
+    "title": "Unwise Child",
+    "titleBase": "Unwise Child",
+    "author": "Garrett, Randall",
+    "authorFullName": "Randall Garrett",
+    "authorId": "g#a25267"
+  },
+  {
+    "id": "20299",
+    "title": "Unwritten Literature of HawaiiThe Sacred Songs of the Hula",
+    "titleBase": "Unwritten Literature of HawaiiThe Sacred Songs of the Hula",
+    "author": "Emerson, Nathaniel Bright",
+    "authorFullName": "Nathaniel Bright Emerson",
+    "authorId": "e#a9216"
+  },
+  {
+    "id": "15888",
+    "title": "The Unwritten Literature of the Hopi",
+    "titleBase": "Unwritten Literature of the Hopi",
+    "author": "Lockett, Hattie Greene",
+    "authorFullName": "Hattie Greene Lockett",
+    "authorId": "l#a6361"
+  },
+  {
+    "id": "21030",
+    "title": "Uotilan isäntä: Rikosjuttu Suomesta",
+    "titleBase": "Uotilan isäntä: Rikosjuttu Suomesta",
+    "author": "Nervander, Emil Fredrik",
+    "authorFullName": "Emil Fredrik Nervander",
+    "authorId": "n#a7613"
+  },
+  {
+    "id": "3283",
+    "title": "The Upanishads",
+    "titleBase": "Upanishads",
+    "author": "Paramananda, Swami",
+    "authorFullName": "Swami Paramananda",
+    "authorId": "p#a1150"
+  },
+  {
+    "id": "16454",
+    "title": "The Upas TreeA Christmas Story for all the Year",
+    "titleBase": "Upas TreeA Christmas Story for all the Year",
+    "author": "Barclay, Florence L. (Florence Louisa)",
+    "authorFullName": "Florence L. (Florence Louisa) Barclay",
+    "authorId": "b#a1253"
+  },
+  {
+    "id": "2376",
+    "title": "Up from Slavery: An Autobiography",
+    "titleBase": "Up from Slavery: An Autobiography",
+    "author": "Washington, Booker T.",
+    "authorFullName": "Booker T. Washington",
+    "authorId": "w#a880"
+  },
+  {
+    "id": "14456",
+    "title": "The Uphill Climb",
+    "titleBase": "Uphill Climb",
+    "author": "Bower, B. M.",
+    "authorFullName": "B. M. Bower",
+    "authorId": "b#a275"
+  },
+  {
+    "id": "14456",
+    "title": "The Uphill Climb",
+    "titleBase": "Uphill Climb",
+    "author": "Russell, Charles M. (Charles Marion)",
+    "authorFullName": "Charles M. (Charles Marion) Russell",
+    "authorId": "r#a3000"
+  },
+  {
+    "id": "23477",
+    "title": "Up! Horsie!An Original Fairy Tale",
+    "titleBase": "Up! Horsie!An Original Fairy Tale",
+    "author": "Chatelain, Clara de",
+    "authorFullName": "Clara de Chatelain",
+    "authorId": "c#a31351"
+  },
+  {
+    "id": "17453",
+    "title": "Up in Ardmuirland",
+    "titleBase": "Up in Ardmuirland",
+    "author": "Barrett, Michael",
+    "authorFullName": "Michael Barrett",
+    "authorId": "b#a7397"
+  },
+  {
+    "id": "21708",
+    "title": "Up in the Clouds: Balloon Voyages",
+    "titleBase": "Up in the Clouds: Balloon Voyages",
+    "author": "Ballantyne, R. M. (Robert Michael)",
+    "authorFullName": "R. M. (Robert Michael) Ballantyne",
+    "authorId": "b#a333"
+  },
+  {
+    "id": "31269",
+    "title": "Upon The Tree-Tops",
+    "titleBase": "Upon The Tree-Tops",
+    "author": "Beard, James Carter",
+    "authorFullName": "James Carter Beard",
+    "authorId": "b#a35110"
+  },
+  {
+    "id": "31269",
+    "title": "Upon The Tree-Tops",
+    "titleBase": "Upon The Tree-Tops",
+    "author": "Miller, Olive Thorne",
+    "authorFullName": "Olive Thorne Miller",
+    "authorId": "m#a31220"
+  },
+  {
+    "id": "22246",
+    "title": "The Upper Berth",
+    "titleBase": "Upper Berth",
+    "author": "Crawford, F. Marion (Francis Marion)",
+    "authorFullName": "F. Marion (Francis Marion) Crawford",
+    "authorId": "c#a1316"
+  },
+  {
+    "id": "18036",
+    "title": "Uppingham by the Seaa Narrative of the Year at Borth",
+    "titleBase": "Uppingham by the Seaa Narrative of the Year at Borth",
+    "author": "Skrine, John Huntley",
+    "authorFullName": "John Huntley Skrine",
+    "authorId": "s#a7763"
+  },
+  {
+    "id": "10637",
+    "title": "The Uprising of a Great PeopleThe United States in 1861. to Which is Added a Word of Peace on the Difference Between England the United States.",
+    "titleBase": "Uprising of a Great PeopleThe United States in 1861. to Which is Added a Word of Peace on the Difference Between England the United States.",
+    "author": "Booth, Mary L. (Mary Louise)",
+    "authorFullName": "Mary L. (Mary Louise) Booth",
+    "authorId": "b#a4864"
+  },
+  {
+    "id": "10637",
+    "title": "The Uprising of a Great PeopleThe United States in 1861. to Which is Added a Word of Peace on the Difference Between England the United States.",
+    "titleBase": "Uprising of a Great PeopleThe United States in 1861. to Which is Added a Word of Peace on the Difference Between England the United States.",
+    "author": "Gasparin, Agénor, comte de",
+    "authorFullName": "Agénor comte de Gasparin",
+    "authorId": "g#a3614"
+  },
+  {
+    "id": "24024",
+    "title": "Ups and Downs in the Life of a Distressed Gentleman",
+    "titleBase": "Ups and Downs in the Life of a Distressed Gentleman",
+    "author": "Stone, William L. (William Leete)",
+    "authorFullName": "William L. (William Leete) Stone",
+    "authorId": "s#a26169"
+  },
+  {
+    "id": "39905",
+    "title": "Upsidonia",
+    "titleBase": "Upsidonia",
+    "author": "Marshall, Archibald",
+    "authorFullName": "Archibald Marshall",
+    "authorId": "m#a35191"
+  },
+  {
+    "id": "27492",
+    "title": "Upstarts",
+    "titleBase": "Upstarts",
+    "author": "Dillon, Diane",
+    "authorFullName": "Diane Dillon",
+    "authorId": "d#a32729"
+  },
+  {
+    "id": "27492",
+    "title": "Upstarts",
+    "titleBase": "Upstarts",
+    "author": "Dillon, Leo",
+    "authorFullName": "Leo Dillon",
+    "authorId": "d#a32728"
+  },
+  {
+    "id": "27492",
+    "title": "Upstarts",
+    "titleBase": "Upstarts",
+    "author": "Wesley, Joseph",
+    "authorFullName": "Joseph Wesley",
+    "authorId": "w#a32723"
+  },
+  {
+    "id": "44879",
+    "title": "Up Terrapin River",
+    "titleBase": "Up Terrapin River",
+    "author": "Read, Opie P.",
+    "authorFullName": "Opie P. Read",
+    "authorId": "r#a42965"
+  },
+  {
+    "id": "26653",
+    "title": "Up The BalticYoung America in Norway, Sweden, and Denmark",
+    "titleBase": "Up The BalticYoung America in Norway, Sweden, and Denmark",
+    "author": "Optic, Oliver",
+    "authorFullName": "Oliver Optic",
+    "authorId": "o#a260"
+  },
+  {
+    "id": "14786",
+    "title": "Up the Chimney",
+    "titleBase": "Up the Chimney",
+    "author": "Knapp, Shepherd",
+    "authorFullName": "Shepherd Knapp",
+    "authorId": "k#a5557"
+  },
+  {
+    "id": "29892",
+    "title": "Up the Forked River; Or, Adventures in South America",
+    "titleBase": "Up the Forked River; Or, Adventures in South America",
+    "author": "Ellis, Edward Sylvester",
+    "authorFullName": "Edward Sylvester Ellis",
+    "authorId": "e#a2569"
+  },
+  {
+    "id": "10438",
+    "title": "Up the Hill and Over",
+    "titleBase": "Up the Hill and Over",
+    "author": "Mackay, Isabel Ecclestone",
+    "authorFullName": "Isabel Ecclestone Mackay",
+    "authorId": "m#a1429"
+  },
+  {
+    "id": "43051",
+    "title": "Up the Mazaruni for Diamonds",
+    "titleBase": "Up the Mazaruni for Diamonds",
+    "author": "Varre, William la",
+    "authorFullName": "William la Varre",
+    "authorId": "v#a42000"
+  },
+  {
+    "id": "24775",
+    "title": "Up the Riveror, Yachting on the Mississippi",
+    "titleBase": "Up the Riveror, Yachting on the Mississippi",
+    "author": "Optic, Oliver",
+    "authorFullName": "Oliver Optic",
+    "authorId": "o#a260"
+  },
+  {
+    "id": "20531",
+    "title": "Up To Date Business\rIncluding Lessons in Banking, Exchange, Business Geography, Finance, Transportation and Commercial Law\rHome Study Circle Library Series (Volume II.)",
+    "titleBase": "Up To Date Business\rIncluding Lessons in Banking, Exchange, Business Geography, Finance, Transportation and Commercial Law\rHome Study Circle Library Series (Volume II.)",
+    "author": "Eaton, Seymour",
+    "authorFullName": "Seymour Eaton",
+    "authorId": "e#a9362"
+  },
+  {
+    "id": "4615",
+    "title": "The Upton Letters",
+    "titleBase": "Upton Letters",
+    "author": "Benson, Arthur Christopher",
+    "authorFullName": "Arthur Christopher Benson",
+    "authorId": "b#a1486"
+  },
+  {
+    "id": "4684",
+    "title": "The U. P. Trail",
+    "titleBase": "U. P. Trail",
+    "author": "Grey, Zane",
+    "authorFullName": "Zane Grey",
+    "authorId": "g#a212"
+  },
+  {
+    "id": "31456",
+    "title": "The Upward Path: A Reader For Colored Children",
+    "titleBase": "Upward Path: A Reader For Colored Children",
+    "author": "Moton, Robert Russa",
+    "authorFullName": "Robert Russa Moton",
+    "authorId": "m#a38111"
+  },
+  {
+    "id": "31456",
+    "title": "The Upward Path: A Reader For Colored Children",
+    "titleBase": "Upward Path: A Reader For Colored Children",
+    "author": "Ovington, Mary White",
+    "authorFullName": "Mary White Ovington",
+    "authorId": "o#a36204"
+  },
+  {
+    "id": "31456",
+    "title": "The Upward Path: A Reader For Colored Children",
+    "titleBase": "Upward Path: A Reader For Colored Children",
+    "author": "Pritchard, Myron T. (Myron Thomas)",
+    "authorFullName": "Myron T. (Myron Thomas) Pritchard",
+    "authorId": "p#a39929"
+  },
+  {
+    "id": "41941",
+    "title": "Urania",
+    "titleBase": "Urania",
+    "author": "Bieler, de",
+    "authorFullName": "de Bieler",
+    "authorId": "b#a41437"
+  },
+  {
+    "id": "41941",
+    "title": "Urania",
+    "titleBase": "Urania",
+    "author": "Flammarion, Camille",
+    "authorFullName": "Camille Flammarion",
+    "authorId": "f#a8763"
+  },
+  {
+    "id": "41941",
+    "title": "Urania",
+    "titleBase": "Urania",
+    "author": "Gambard",
+    "authorFullName": "Gambard",
+    "authorId": "g#a41438"
+  },
+  {
+    "id": "41941",
+    "title": "Urania",
+    "titleBase": "Urania",
+    "author": "Myrbach-Rheinfeld, Felician, Freiherr von",
+    "authorFullName": "Felician Freiherr von Myrbach-Rheinfeld",
+    "authorId": "m#a36574"
+  },
+  {
+    "id": "41941",
+    "title": "Urania",
+    "titleBase": "Urania",
+    "author": "Stetson, Augusta Rice",
+    "authorFullName": "Augusta Rice Stetson",
+    "authorId": "s#a41439"
+  },
+  {
+    "id": "2746",
+    "title": "Urbain Grandier\rCelebrated Crimes",
+    "titleBase": "Urbain Grandier\rCelebrated Crimes",
+    "author": "Dumas, Alexandre",
+    "authorFullName": "Alexandre Dumas",
+    "authorId": "d#a492"
+  },
+  {
+    "id": "2598",
+    "title": "Urban Sketches",
+    "titleBase": "Urban Sketches",
+    "author": "Harte, Bret",
+    "authorFullName": "Bret Harte",
+    "authorId": "h#a593"
+  },
+  {
+    "id": "29442",
+    "title": "UrhotHistoriallinen novelli \"Ison vihan\" ajoilta",
+    "titleBase": "UrhotHistoriallinen novelli \"Ison vihan\" ajoilta",
+    "author": "Karikko, Kaarle",
+    "authorFullName": "Kaarle Karikko",
+    "authorId": "k#a33244"
+  },
+  {
+    "id": "1223",
+    "title": "Ursula",
+    "titleBase": "Ursula",
+    "author": "Balzac, Honoré de",
+    "authorFullName": "Honoré de Balzac",
+    "authorId": "b#a251"
+  },
+  {
+    "id": "1223",
+    "title": "Ursula",
+    "titleBase": "Ursula",
+    "author": "Wormeley, Katharine Prescott",
+    "authorFullName": "Katharine Prescott Wormeley",
+    "authorId": "w#a661"
+  },
+  {
+    "id": "21593",
+    "title": "Das Urteil: Eine Geschichte",
+    "titleBase": "Das Urteil: Eine Geschichte",
+    "author": "Kafka, Franz",
+    "authorFullName": "Franz Kafka",
+    "authorId": "k#a1735"
+  },
+  {
+    "id": "42452",
+    "title": "Uruguay",
+    "titleBase": "Uruguay",
+    "author": "Koebel, W. H. (William Henry)",
+    "authorFullName": "W. H. (William Henry) Koebel",
+    "authorId": "k#a7668"
+  },
+  {
+    "id": "25674",
+    "title": "USAF Fact Sheet 95-03Unidentified Flying Objects and Air Force Project Blue Book",
+    "titleBase": "USAF Fact Sheet 95-03Unidentified Flying Objects and Air Force Project Blue Book",
+    "author": "United States. Air Force",
+    "authorFullName": "United States. Air Force",
+    "authorId": "u#a31499"
+  },
+  {
+    "id": "40399",
+    "title": "Les Usages du Siècle : lettres, conseils pratiques, le Savoir-vivre",
+    "titleBase": "Les Usages du Siècle : lettres, conseils pratiques, le Savoir-vivre",
+    "author": "",
+    "authorFullName": "",
+    "authorId": "#a"
+  },
+  {
+    "id": "12681",
+    "title": "Us and the Bottle Man",
+    "titleBase": "Us and the Bottle Man",
+    "author": "Price, Edith Ballinger",
+    "authorFullName": "Edith Ballinger Price",
+    "authorId": "p#a3889"
+  },
+  {
+    "id": "16954",
+    "title": "\"Us\"\rAn Old Fashioned Story",
+    "titleBase": "\"Us\"\rAn Old Fashioned Story",
+    "author": "Crane, Walter",
+    "authorFullName": "Walter Crane",
+    "authorId": "c#a7195"
+  },
+  {
+    "id": "16954",
+    "title": "\"Us\"\rAn Old Fashioned Story",
+    "titleBase": "\"Us\"\rAn Old Fashioned Story",
+    "author": "Molesworth, Mrs.",
+    "authorFullName": "Mrs. Molesworth",
+    "authorId": "m#a2147"
+  },
+  {
+    "id": "11800",
+    "title": "U.S. Copyright Renewals 1950 - 1977",
+    "titleBase": "U.S. Copyright Renewals 1950 - 1977",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11801",
+    "title": "U.S. Copyright Renewals, 1950 January - June",
+    "titleBase": "U.S. Copyright Renewals, 1950 January - June",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11802",
+    "title": "U.S. Copyright Renewals, 1950 July - December",
+    "titleBase": "U.S. Copyright Renewals, 1950 July - December",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11803",
+    "title": "U.S. Copyright Renewals, 1951 January - June",
+    "titleBase": "U.S. Copyright Renewals, 1951 January - June",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11804",
+    "title": "U.S. Copyright Renewals, 1951 July - December",
+    "titleBase": "U.S. Copyright Renewals, 1951 July - December",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11805",
+    "title": "U.S. Copyright Renewals, 1952 January - June",
+    "titleBase": "U.S. Copyright Renewals, 1952 January - June",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11806",
+    "title": "U.S. Copyright Renewals, 1952 July - December",
+    "titleBase": "U.S. Copyright Renewals, 1952 July - December",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11807",
+    "title": "U.S. Copyright Renewals, 1953 January - June",
+    "titleBase": "U.S. Copyright Renewals, 1953 January - June",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11808",
+    "title": "U.S. Copyright Renewals, 1953 July - December",
+    "titleBase": "U.S. Copyright Renewals, 1953 July - December",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11809",
+    "title": "U.S. Copyright Renewals, 1954 January - June",
+    "titleBase": "U.S. Copyright Renewals, 1954 January - June",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11810",
+    "title": "U.S. Copyright Renewals, 1954 July - December",
+    "titleBase": "U.S. Copyright Renewals, 1954 July - December",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11811",
+    "title": "U.S. Copyright Renewals, 1955 January - June",
+    "titleBase": "U.S. Copyright Renewals, 1955 January - June",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11812",
+    "title": "U.S. Copyright Renewals, 1955 July - December",
+    "titleBase": "U.S. Copyright Renewals, 1955 July - December",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11813",
+    "title": "U.S. Copyright Renewals, 1956 January - June",
+    "titleBase": "U.S. Copyright Renewals, 1956 January - June",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11814",
+    "title": "U.S. Copyright Renewals, 1956 July - December",
+    "titleBase": "U.S. Copyright Renewals, 1956 July - December",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11815",
+    "title": "U.S. Copyright Renewals, 1957 January - June",
+    "titleBase": "U.S. Copyright Renewals, 1957 January - June",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11816",
+    "title": "U.S. Copyright Renewals, 1957 July - December",
+    "titleBase": "U.S. Copyright Renewals, 1957 July - December",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11817",
+    "title": "U.S. Copyright Renewals, 1958 January - June",
+    "titleBase": "U.S. Copyright Renewals, 1958 January - June",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11818",
+    "title": "U.S. Copyright Renewals, 1958 July - December",
+    "titleBase": "U.S. Copyright Renewals, 1958 July - December",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11819",
+    "title": "U.S. Copyright Renewals, 1959 January - June",
+    "titleBase": "U.S. Copyright Renewals, 1959 January - June",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11820",
+    "title": "U.S. Copyright Renewals, 1959 July - December",
+    "titleBase": "U.S. Copyright Renewals, 1959 July - December",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11821",
+    "title": "U.S. Copyright Renewals, 1960 January - June",
+    "titleBase": "U.S. Copyright Renewals, 1960 January - June",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11822",
+    "title": "U.S. Copyright Renewals, 1960 July - December",
+    "titleBase": "U.S. Copyright Renewals, 1960 July - December",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11823",
+    "title": "U.S. Copyright Renewals, 1961 January - June",
+    "titleBase": "U.S. Copyright Renewals, 1961 January - June",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11824",
+    "title": "U.S. Copyright Renewals, 1961 July - December",
+    "titleBase": "U.S. Copyright Renewals, 1961 July - December",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11825",
+    "title": "U.S. Copyright Renewals, 1962 January - June",
+    "titleBase": "U.S. Copyright Renewals, 1962 January - June",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11826",
+    "title": "U.S. Copyright Renewals, 1962 July - December",
+    "titleBase": "U.S. Copyright Renewals, 1962 July - December",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11827",
+    "title": "U.S. Copyright Renewals, 1963 January - June",
+    "titleBase": "U.S. Copyright Renewals, 1963 January - June",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11828",
+    "title": "U.S. Copyright Renewals, 1963 July - December",
+    "titleBase": "U.S. Copyright Renewals, 1963 July - December",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11829",
+    "title": "U.S. Copyright Renewals, 1964 January - June",
+    "titleBase": "U.S. Copyright Renewals, 1964 January - June",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11830",
+    "title": "U.S. Copyright Renewals, 1964 July - December",
+    "titleBase": "U.S. Copyright Renewals, 1964 July - December",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11831",
+    "title": "U.S. Copyright Renewals, 1965 January - June",
+    "titleBase": "U.S. Copyright Renewals, 1965 January - June",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11832",
+    "title": "U.S. Copyright Renewals, 1965 July - December",
+    "titleBase": "U.S. Copyright Renewals, 1965 July - December",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11833",
+    "title": "U.S. Copyright Renewals, 1966 January - June",
+    "titleBase": "U.S. Copyright Renewals, 1966 January - June",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11834",
+    "title": "U.S. Copyright Renewals, 1966 July - December",
+    "titleBase": "U.S. Copyright Renewals, 1966 July - December",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11835",
+    "title": "U.S. Copyright Renewals, 1967 January - June",
+    "titleBase": "U.S. Copyright Renewals, 1967 January - June",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11836",
+    "title": "U.S. Copyright Renewals, 1967 July - December",
+    "titleBase": "U.S. Copyright Renewals, 1967 July - December",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11837",
+    "title": "U.S. Copyright Renewals, 1968 January - June",
+    "titleBase": "U.S. Copyright Renewals, 1968 January - June",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11838",
+    "title": "U.S. Copyright Renewals, 1968 July - December",
+    "titleBase": "U.S. Copyright Renewals, 1968 July - December",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11839",
+    "title": "U.S. Copyright Renewals, 1969 January - June",
+    "titleBase": "U.S. Copyright Renewals, 1969 January - June",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11840",
+    "title": "U.S. Copyright Renewals, 1969 July - December",
+    "titleBase": "U.S. Copyright Renewals, 1969 July - December",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11841",
+    "title": "U.S. Copyright Renewals, 1970 January - June",
+    "titleBase": "U.S. Copyright Renewals, 1970 January - June",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11842",
+    "title": "U.S. Copyright Renewals, 1970 July - December",
+    "titleBase": "U.S. Copyright Renewals, 1970 July - December",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11843",
+    "title": "U.S. Copyright Renewals, 1971 January - June",
+    "titleBase": "U.S. Copyright Renewals, 1971 January - June",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11844",
+    "title": "U.S. Copyright Renewals, 1971 July - December",
+    "titleBase": "U.S. Copyright Renewals, 1971 July - December",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11845",
+    "title": "U.S. Copyright Renewals, 1972 January - June",
+    "titleBase": "U.S. Copyright Renewals, 1972 January - June",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11846",
+    "title": "U.S. Copyright Renewals, 1972 July - December",
+    "titleBase": "U.S. Copyright Renewals, 1972 July - December",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11847",
+    "title": "U.S. Copyright Renewals, 1973 January - June",
+    "titleBase": "U.S. Copyright Renewals, 1973 January - June",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11848",
+    "title": "U.S. Copyright Renewals, 1973 July - December",
+    "titleBase": "U.S. Copyright Renewals, 1973 July - December",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11849",
+    "title": "U.S. Copyright Renewals, 1974 January - June",
+    "titleBase": "U.S. Copyright Renewals, 1974 January - June",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11850",
+    "title": "U.S. Copyright Renewals, 1974 July - December",
+    "titleBase": "U.S. Copyright Renewals, 1974 July - December",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11851",
+    "title": "U.S. Copyright Renewals, 1975 January - June",
+    "titleBase": "U.S. Copyright Renewals, 1975 January - June",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11852",
+    "title": "U.S. Copyright Renewals, 1975 July - December",
+    "titleBase": "U.S. Copyright Renewals, 1975 July - December",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11853",
+    "title": "U.S. Copyright Renewals, 1976 January - June",
+    "titleBase": "U.S. Copyright Renewals, 1976 January - June",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11854",
+    "title": "U.S. Copyright Renewals, 1976 July - December",
+    "titleBase": "U.S. Copyright Renewals, 1976 July - December",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11855",
+    "title": "U.S. Copyright Renewals, 1977 January - June",
+    "titleBase": "U.S. Copyright Renewals, 1977 January - June",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "11856",
+    "title": "U.S. Copyright Renewals, 1977 July - December",
+    "titleBase": "U.S. Copyright Renewals, 1977 July - December",
+    "author": "Library of Congress. Copyright Office",
+    "authorFullName": "Library of Congress. Copyright Office",
+    "authorId": "l#a141"
+  },
+  {
+    "id": "13592",
+    "title": "L'Uscoque",
+    "titleBase": "L'Uscoque",
+    "author": "Sand, George",
+    "authorFullName": "George Sand",
+    "authorId": "s#a851"
+  },
+  {
+    "id": "1485",
+    "title": "The Use and Need of the Life of Carry A. Nation",
+    "titleBase": "Use and Need of the Life of Carry A. Nation",
+    "author": "Nation, Carry Amelia",
+    "authorFullName": "Carry Amelia Nation",
+    "authorId": "n#a648"
+  },
+  {
+    "id": "32681",
+    "title": "The Use of a Box of ColoursIn a Practical Demonstration on Composition, Light andShade, and Colour.",
+    "titleBase": "Use of a Box of ColoursIn a Practical Demonstration on Composition, Light andShade, and Colour.",
+    "author": "Willson, Harry",
+    "authorFullName": "Harry Willson",
+    "authorId": "w#a35984"
+  },
+  {
+    "id": "16227",
+    "title": "The Uses of AstronomyAn Oration Delivered at Albany on the 28th of July, 1856",
+    "titleBase": "Uses of AstronomyAn Oration Delivered at Albany on the 28th of July, 1856",
+    "author": "Everett, Edward",
+    "authorFullName": "Edward Everett",
+    "authorId": "e#a6548"
+  },
+  {
+    "id": "24829",
+    "title": "The Uses of ItalicA Primer of Information Regarding the Origin and Uses of Italic Letters",
+    "titleBase": "Uses of ItalicA Primer of Information Regarding the Origin and Uses of Italic Letters",
+    "author": "Hamilton, Frederick W. (Frederick William)",
+    "authorFullName": "Frederick W. (Frederick William) Hamilton",
+    "authorId": "h#a7092"
+  },
+  {
+    "id": "26106",
+    "title": "U.S. Patent 4,293,314: Gelled Fuel-Air ExplosiveOctober 6, 1981.",
+    "titleBase": "U.S. Patent 4,293,314: Gelled Fuel-Air ExplosiveOctober 6, 1981.",
+    "author": "Stull, Bertram O.",
+    "authorFullName": "Bertram O. Stull",
+    "authorId": "s#a31799"
+  },
+  {
+    "id": "4938",
+    "title": "U.S. Presidential Inaugural Addresses",
+    "titleBase": "U.S. Presidential Inaugural Addresses",
+    "author": "United States. Presidents",
+    "authorFullName": "United States. Presidents",
+    "authorId": "u#a476"
+  },
+  {
+    "id": "21623",
+    "title": "UsuryA Scriptural, Ethical and Economic View",
+    "titleBase": "UsuryA Scriptural, Ethical and Economic View",
+    "author": "Elliott, Calvin",
+    "authorFullName": "Calvin Elliott",
+    "authorId": "e#a24816"
+  },
+  {
+    "id": "32206",
+    "title": "The Utah Batteries: A HistoryA complete account of the muster-in, sea voyage, battles,skirmishes and barrack life of the Utah batteries, togetherwith biographies of officers and muster-out rolls.",
+    "titleBase": "Utah Batteries: A HistoryA complete account of the muster-in, sea voyage, battles,skirmishes and barrack life of the Utah batteries, togetherwith biographies of officers and muster-out rolls.",
+    "author": "Mabey, Charles R.",
+    "authorFullName": "Charles R. Mabey",
+    "authorId": "m#a35722"
+  },
+  {
+    "id": "15783",
+    "title": "Utan anförareFem svenskors fjellvandring i Norge",
+    "titleBase": "Utan anförareFem svenskors fjellvandring i Norge",
+    "author": "Wigström, Eva",
+    "authorFullName": "Eva Wigström",
+    "authorId": "w#a6296"
+  },
+  {
+    "id": "11224",
+    "title": "Utilitarianism",
+    "titleBase": "Utilitarianism",
+    "author": "Mill, John Stuart",
+    "authorFullName": "John Stuart Mill",
+    "authorId": "m#a1705"
+  },
+  {
+    "id": "26262",
+    "title": "Utility of Quaternions in Physics",
+    "titleBase": "Utility of Quaternions in Physics",
+    "author": "McAulay, Alexander",
+    "authorFullName": "Alexander McAulay",
+    "authorId": "m#a31887"
+  },
+  {
+    "id": "2130",
+    "title": "Utopia",
+    "titleBase": "Utopia",
+    "author": "More, Thomas, Saint",
+    "authorFullName": "Thomas Saint More",
+    "authorId": "m#a827"
+  },
+  {
+    "id": "26971",
+    "title": "Utopia",
+    "titleBase": "Utopia",
+    "author": "More, Thomas, Saint",
+    "authorFullName": "Thomas Saint More",
+    "authorId": "m#a827"
+  },
+  {
+    "id": "2130",
+    "title": "Utopia",
+    "titleBase": "Utopia",
+    "author": "Morley, Henry",
+    "authorFullName": "Henry Morley",
+    "authorId": "m#a1355"
+  },
+  {
+    "id": "2134",
+    "title": "Utopia of Usurers and Other Essays",
+    "titleBase": "Utopia of Usurers and Other Essays",
+    "author": "Chesterton, G. K. (Gilbert Keith)",
+    "authorFullName": "G. K. (Gilbert Keith) Chesterton",
+    "authorId": "c#a80"
+  },
+  {
+    "id": "18927",
+    "title": "The Uttermost Farthing",
+    "titleBase": "Uttermost Farthing",
+    "author": "Lowndes, Marie Belloc",
+    "authorFullName": "Marie Belloc Lowndes",
+    "authorId": "l#a786"
+  },
+  {
+    "id": "12028",
+    "title": "The Uttermost FarthingA Savant's Vendetta",
+    "titleBase": "Uttermost FarthingA Savant's Vendetta",
+    "author": "Freeman, R. Austin (Richard Austin)",
+    "authorFullName": "R. Austin (Richard Austin) Freeman",
+    "authorId": "f#a3551"
+  },
+  {
+    "id": "43978",
+    "title": "Uudesta MaailmastaHajanaisia matkakuvia Amerikasta",
+    "titleBase": "Uudesta MaailmastaHajanaisia matkakuvia Amerikasta",
+    "author": "Asp, Hilda",
+    "authorFullName": "Hilda Asp",
+    "authorId": "a#a6944"
+  },
+  {
+    "id": "43978",
+    "title": "Uudesta MaailmastaHajanaisia matkakuvia Amerikasta",
+    "titleBase": "Uudesta MaailmastaHajanaisia matkakuvia Amerikasta",
+    "author": "Gripenberg, Alexandra, friherrinna",
+    "authorFullName": "Alexandra friherrinna Gripenberg",
+    "authorId": "g#a6827"
+  },
+  {
+    "id": "40258",
+    "title": "Uusi aikaRomaani",
+    "titleBase": "Uusi aikaRomaani",
+    "author": "Alkio, Santeri",
+    "authorFullName": "Santeri Alkio",
+    "authorId": "a#a5319"
+  },
+  {
+    "id": "34809",
+    "title": "Uusia kertomuksia",
+    "titleBase": "Uusia kertomuksia",
+    "author": "Favorin, Hanna",
+    "authorFullName": "Hanna Favorin",
+    "authorId": "f#a36899"
+  },
+  {
+    "id": "34809",
+    "title": "Uusia kertomuksia",
+    "titleBase": "Uusia kertomuksia",
+    "author": "Thoresen, Magdalena",
+    "authorFullName": "Magdalena Thoresen",
+    "authorId": "t#a37248"
+  },
+  {
+    "id": "43850",
+    "title": "Uusia kertomuksia iltalampun ääressä",
+    "titleBase": "Uusia kertomuksia iltalampun ääressä",
+    "author": "Forssman, Edith Theodora",
+    "authorFullName": "Edith Theodora Forssman",
+    "authorId": "f#a42438"
+  },
+  {
+    "id": "43850",
+    "title": "Uusia kertomuksia iltalampun ääressä",
+    "titleBase": "Uusia kertomuksia iltalampun ääressä",
+    "author": "Pakkala, Teuvo",
+    "authorFullName": "Teuvo Pakkala",
+    "authorId": "p#a4116"
+  },
+  {
+    "id": "20284",
+    "title": "Uusi Grottelaulu",
+    "titleBase": "Uusi Grottelaulu",
+    "author": "Nyman, Severi",
+    "authorFullName": "Severi Nyman",
+    "authorId": "n#a9205"
+  },
+  {
+    "id": "20284",
+    "title": "Uusi Grottelaulu",
+    "titleBase": "Uusi Grottelaulu",
+    "author": "Rydberg, Viktor",
+    "authorFullName": "Viktor Rydberg",
+    "authorId": "r#a3156"
+  },
+  {
+    "id": "43717",
+    "title": "Uusi suomalainen lukemisto",
+    "titleBase": "Uusi suomalainen lukemisto",
+    "author": "Ahlqvist, August",
+    "authorFullName": "August Ahlqvist",
+    "authorId": "a#a25127"
+  },
+  {
+    "id": "40486",
+    "title": "Uusi tilanhaltia",
+    "titleBase": "Uusi tilanhaltia",
+    "author": "Jalava, Antti",
+    "authorFullName": "Antti Jalava",
+    "authorId": "j#a9456"
+  },
+  {
+    "id": "40486",
+    "title": "Uusi tilanhaltia",
+    "titleBase": "Uusi tilanhaltia",
+    "author": "Jókai, Mór",
+    "authorFullName": "Mór Jókai",
+    "authorId": "j#a5845"
+  }
+]

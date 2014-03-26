@@ -1,0 +1,2658 @@
+[
+  {
+    "id": "23351",
+    "title": "The Yacht Clubor The Young Boat-Builder",
+    "titleBase": "Yacht Clubor The Young Boat-Builder",
+    "author": "Optic, Oliver",
+    "authorFullName": "Oliver Optic",
+    "authorId": "o#a260"
+  },
+  {
+    "id": "41971",
+    "title": "Yachting Vol. 1",
+    "titleBase": "Yachting Vol. 1",
+    "author": "Brassey, Lord",
+    "authorFullName": "Lord Brassey",
+    "authorId": "b#a41455"
+  },
+  {
+    "id": "41971",
+    "title": "Yachting Vol. 1",
+    "titleBase": "Yachting Vol. 1",
+    "author": "Pritchett, R. T. (Robert Taylor)",
+    "authorFullName": "R. T. (Robert Taylor) Pritchett",
+    "authorId": "p#a34159"
+  },
+  {
+    "id": "41971",
+    "title": "Yachting Vol. 1",
+    "titleBase": "Yachting Vol. 1",
+    "author": "Seth-Smith, C.E.",
+    "authorFullName": "C.E. Seth-Smith",
+    "authorId": "s#a41456"
+  },
+  {
+    "id": "41971",
+    "title": "Yachting Vol. 1",
+    "titleBase": "Yachting Vol. 1",
+    "author": "Sullivan, Edward",
+    "authorFullName": "Edward Sullivan",
+    "authorId": "s#a41454"
+  },
+  {
+    "id": "41971",
+    "title": "Yachting Vol. 1",
+    "titleBase": "Yachting Vol. 1",
+    "author": "Watson, G. L.",
+    "authorFullName": "G. L. Watson",
+    "authorId": "w#a41457"
+  },
+  {
+    "id": "41973",
+    "title": "Yachting Vol. 2",
+    "titleBase": "Yachting Vol. 2",
+    "author": "Avancini, Avancinio",
+    "authorFullName": "Avancinio Avancini",
+    "authorId": "a#a9915"
+  },
+  {
+    "id": "41973",
+    "title": "Yachting Vol. 2",
+    "titleBase": "Yachting Vol. 2",
+    "author": "Blake, C. L.",
+    "authorFullName": "C. L. Blake",
+    "authorId": "b#a41461"
+  },
+  {
+    "id": "41973",
+    "title": "Yachting Vol. 2",
+    "titleBase": "Yachting Vol. 2",
+    "author": "Durrerin, Marquis",
+    "authorFullName": "Marquis Durrerin",
+    "authorId": "d#a41459"
+  },
+  {
+    "id": "41973",
+    "title": "Yachting Vol. 2",
+    "titleBase": "Yachting Vol. 2",
+    "author": "McFerran, James",
+    "authorFullName": "James McFerran",
+    "authorId": "m#a41460"
+  },
+  {
+    "id": "41973",
+    "title": "Yachting Vol. 2",
+    "titleBase": "Yachting Vol. 2",
+    "author": "Middleton, T. B.",
+    "authorFullName": "T. B. Middleton",
+    "authorId": "m#a41462"
+  },
+  {
+    "id": "41973",
+    "title": "Yachting Vol. 2",
+    "titleBase": "Yachting Vol. 2",
+    "author": "Pritchett, R. T. (Robert Taylor)",
+    "authorFullName": "R. T. (Robert Taylor) Pritchett",
+    "authorId": "p#a34159"
+  },
+  {
+    "id": "25032",
+    "title": "A Yacht Voyage Round England",
+    "titleBase": "Yacht Voyage Round England",
+    "author": "Kingston, William Henry Giles",
+    "authorFullName": "William Henry Giles Kingston",
+    "authorId": "k#a8659"
+  },
+  {
+    "id": "28073",
+    "title": "A Yacht Voyage to Norway, Denmark, and Sweden2nd edition",
+    "titleBase": "Yacht Voyage to Norway, Denmark, and Sweden2nd edition",
+    "author": "Ross, William A.",
+    "authorFullName": "William A. Ross",
+    "authorId": "r#a33123"
+  },
+  {
+    "id": "4706",
+    "title": "Yama = The Pit, a Novel in Three Parts",
+    "titleBase": "Yama = The Pit, a Novel in Three Parts",
+    "author": "Guerney, Bernard Guilbert",
+    "authorFullName": "Bernard Guilbert Guerney",
+    "authorId": "g#a1553"
+  },
+  {
+    "id": "4706",
+    "title": "Yama = The Pit, a Novel in Three Parts",
+    "titleBase": "Yama = The Pit, a Novel in Three Parts",
+    "author": "Kuprin, A. I. (Aleksandr Ivanovich)",
+    "authorFullName": "A. I. (Aleksandr Ivanovich) Kuprin",
+    "authorId": "k#a1552"
+  },
+  {
+    "id": "32288",
+    "title": "A Yankee Flier in Italy",
+    "titleBase": "Yankee Flier in Italy",
+    "author": "Laune, Paul",
+    "authorFullName": "Paul Laune",
+    "authorId": "l#a34154"
+  },
+  {
+    "id": "32288",
+    "title": "A Yankee Flier in Italy",
+    "titleBase": "Yankee Flier in Italy",
+    "author": "Montgomery, Rutherford George",
+    "authorFullName": "Rutherford George Montgomery",
+    "authorId": "m#a34150"
+  },
+  {
+    "id": "29774",
+    "title": "A Yankee Flier Over Berlin",
+    "titleBase": "Yankee Flier Over Berlin",
+    "author": "Laune, Paul",
+    "authorFullName": "Paul Laune",
+    "authorId": "l#a34154"
+  },
+  {
+    "id": "29774",
+    "title": "A Yankee Flier Over Berlin",
+    "titleBase": "Yankee Flier Over Berlin",
+    "author": "Montgomery, Rutherford George",
+    "authorFullName": "Rutherford George Montgomery",
+    "authorId": "m#a34150"
+  },
+  {
+    "id": "32420",
+    "title": "A Yankee Flier with the R.A.F.",
+    "titleBase": "Yankee Flier with the R.A.F.",
+    "author": "Laune, Paul",
+    "authorFullName": "Paul Laune",
+    "authorId": "l#a34154"
+  },
+  {
+    "id": "32420",
+    "title": "A Yankee Flier with the R.A.F.",
+    "titleBase": "Yankee Flier with the R.A.F.",
+    "author": "Montgomery, Rutherford George",
+    "authorFullName": "Rutherford George Montgomery",
+    "authorId": "m#a34150"
+  },
+  {
+    "id": "33773",
+    "title": "A Yankee from the West: A Novel",
+    "titleBase": "Yankee from the West: A Novel",
+    "author": "Read, Opie Percival",
+    "authorFullName": "Opie Percival Read",
+    "authorId": "r#a8387"
+  },
+  {
+    "id": "5696",
+    "title": "A Yankee Girl at Fort Sumter",
+    "titleBase": "Yankee Girl at Fort Sumter",
+    "author": "Curtis, Alice Turner",
+    "authorFullName": "Alice Turner Curtis",
+    "authorId": "c#a1841"
+  },
+  {
+    "id": "37264",
+    "title": "Yankee Girls in Zulu Land",
+    "titleBase": "Yankee Girls in Zulu Land",
+    "author": "Graves, G.E.",
+    "authorFullName": "G.E. Graves",
+    "authorId": "g#a38734"
+  },
+  {
+    "id": "37264",
+    "title": "Yankee Girls in Zulu Land",
+    "titleBase": "Yankee Girls in Zulu Land",
+    "author": "Vescelius-Sheldon, Louise",
+    "authorFullName": "Louise Vescelius-Sheldon",
+    "authorId": "v#a38733"
+  },
+  {
+    "id": "878",
+    "title": "Yankee Gypsies",
+    "titleBase": "Yankee Gypsies",
+    "author": "Whittier, John Greenleaf",
+    "authorFullName": "John Greenleaf Whittier",
+    "authorId": "w#a455"
+  },
+  {
+    "id": "40565",
+    "title": "A Yankee in the Far East",
+    "titleBase": "Yankee in the Far East",
+    "author": "Allen, George Hoyt",
+    "authorFullName": "George Hoyt Allen",
+    "authorId": "a#a40701"
+  },
+  {
+    "id": "40565",
+    "title": "A Yankee in the Far East",
+    "titleBase": "Yankee in the Far East",
+    "author": "Weller, H. S.",
+    "authorFullName": "H. S. Weller",
+    "authorId": "w#a40702"
+  },
+  {
+    "id": "13279",
+    "title": "A Yankee in the Trenches",
+    "titleBase": "Yankee in the Trenches",
+    "author": "Holmes, Robert Derby",
+    "authorFullName": "Robert Derby Holmes",
+    "authorId": "h#a4974"
+  },
+  {
+    "id": "36136",
+    "title": "Yankee Ships and Yankee Sailors: Tales of 1812",
+    "titleBase": "Yankee Ships and Yankee Sailors: Tales of 1812",
+    "author": "Barnes, James",
+    "authorFullName": "James Barnes",
+    "authorId": "b#a38095"
+  },
+  {
+    "id": "36136",
+    "title": "Yankee Ships and Yankee Sailors: Tales of 1812",
+    "titleBase": "Yankee Ships and Yankee Sailors: Tales of 1812",
+    "author": "Chapman, Carlton T.",
+    "authorFullName": "Carlton T. Chapman",
+    "authorId": "c#a38097"
+  },
+  {
+    "id": "36136",
+    "title": "Yankee Ships and Yankee Sailors: Tales of 1812",
+    "titleBase": "Yankee Ships and Yankee Sailors: Tales of 1812",
+    "author": "Zogbaum, R. F.",
+    "authorFullName": "R. F. Zogbaum",
+    "authorId": "z#a38096"
+  },
+  {
+    "id": "15938",
+    "title": "The Yankee Tea-partyOr, Boston in 1773",
+    "titleBase": "Yankee Tea-partyOr, Boston in 1773",
+    "author": "Watson, Henry C. (Henry Clay)",
+    "authorFullName": "Henry C. (Henry Clay) Watson",
+    "authorId": "w#a4002"
+  },
+  {
+    "id": "39920",
+    "title": "Yarmouth Notes1830-1872. Collected from the File of the Norwich Mercury",
+    "titleBase": "Yarmouth Notes1830-1872. Collected from the File of the Norwich Mercury",
+    "author": "Palmer, Frederick Danby",
+    "authorFullName": "Frederick Danby Palmer",
+    "authorId": "p#a40304"
+  },
+  {
+    "id": "978",
+    "title": "The Yates Pride: A Romance",
+    "titleBase": "Yates Pride: A Romance",
+    "author": "Freeman, Mary Eleanor Wilkins",
+    "authorFullName": "Mary Eleanor Wilkins Freeman",
+    "authorId": "f#a495"
+  },
+  {
+    "id": "41483",
+    "title": "The Yazoo MysteryA Novel",
+    "titleBase": "Yazoo MysteryA Novel",
+    "author": "Craddock, Irving",
+    "authorFullName": "Irving Craddock",
+    "authorId": "c#a41199"
+  },
+  {
+    "id": "39673",
+    "title": "A Year in a Lancashire GardenSecond Edition",
+    "titleBase": "Year in a Lancashire GardenSecond Edition",
+    "author": "Bright, Henry Arthur",
+    "authorFullName": "Henry Arthur Bright",
+    "authorId": "b#a40151"
+  },
+  {
+    "id": "31292",
+    "title": "A Year in the Fields",
+    "titleBase": "Year in the Fields",
+    "author": "Burroughs, John",
+    "authorFullName": "John Burroughs",
+    "authorId": "b#a1127"
+  },
+  {
+    "id": "28650",
+    "title": "Year of the Big Thaw",
+    "titleBase": "Year of the Big Thaw",
+    "author": "Bradley, Marion Zimmer",
+    "authorFullName": "Marion Zimmer Bradley",
+    "authorId": "b#a8842"
+  },
+  {
+    "id": "21777",
+    "title": "The Years Between",
+    "titleBase": "Years Between",
+    "author": "Kipling, Rudyard",
+    "authorFullName": "Rudyard Kipling",
+    "authorId": "k#a132"
+  },
+  {
+    "id": "16485",
+    "title": "A Year's Journey through France and Part of Spain, 1777\rVolume 1",
+    "titleBase": "Year's Journey through France and Part of Spain, 1777\rVolume 1",
+    "author": "Thicknesse, Philip",
+    "authorFullName": "Philip Thicknesse",
+    "authorId": "t#a6745"
+  },
+  {
+    "id": "16994",
+    "title": "A Year's Journey through France and Part of Spain, Volume 2",
+    "titleBase": "Year's Journey through France and Part of Spain, Volume 2",
+    "author": "Thicknesse, Philip",
+    "authorFullName": "Philip Thicknesse",
+    "authorId": "t#a6745"
+  },
+  {
+    "id": "33096",
+    "title": "Years of Plenty",
+    "titleBase": "Years of Plenty",
+    "author": "Brown, Ivor",
+    "authorFullName": "Ivor Brown",
+    "authorId": "b#a36201"
+  },
+  {
+    "id": "33660",
+    "title": "The Year When Stardust Fell",
+    "titleBase": "Year When Stardust Fell",
+    "author": "Jones, Raymond F.",
+    "authorFullName": "Raymond F. Jones",
+    "authorId": "j#a25386"
+  },
+  {
+    "id": "2938",
+    "title": "Yeast",
+    "titleBase": "Yeast",
+    "author": "Huxley, Thomas Henry",
+    "authorFullName": "Thomas Henry Huxley",
+    "authorId": "h#a595"
+  },
+  {
+    "id": "10364",
+    "title": "Yeast: a Problem",
+    "titleBase": "Yeast: a Problem",
+    "author": "Kingsley, Charles",
+    "authorFullName": "Charles Kingsley",
+    "authorId": "k#a344"
+  },
+  {
+    "id": "36715",
+    "title": "Yekl: A Tale of the New York Ghetto",
+    "titleBase": "Yekl: A Tale of the New York Ghetto",
+    "author": "Cahan, Abraham",
+    "authorFullName": "Abraham Cahan",
+    "authorId": "c#a1031"
+  },
+  {
+    "id": "41875",
+    "title": "The Yellow Book, An Illustrated Quarterly. Vol. 1, April 1894",
+    "titleBase": "Yellow Book, An Illustrated Quarterly. Vol. 1, April 1894",
+    "author": "Harland, Henry",
+    "authorFullName": "Henry Harland",
+    "authorId": "h#a1810"
+  },
+  {
+    "id": "41876",
+    "title": "The Yellow Book, An Illustrated Quarterly, Vol. 2, July 1894",
+    "titleBase": "Yellow Book, An Illustrated Quarterly, Vol. 2, July 1894",
+    "author": "Harland, Henry",
+    "authorFullName": "Henry Harland",
+    "authorId": "h#a1810"
+  },
+  {
+    "id": "31795",
+    "title": "Yellow-Cap and Other Fairy-Stories For Children",
+    "titleBase": "Yellow-Cap and Other Fairy-Stories For Children",
+    "author": "Hawthorne, Julian",
+    "authorFullName": "Julian Hawthorne",
+    "authorId": "h#a675"
+  },
+  {
+    "id": "36603",
+    "title": "The Yellow Chief",
+    "titleBase": "Yellow Chief",
+    "author": "Anonymous",
+    "authorFullName": "Anonymous",
+    "authorId": "a#a216"
+  },
+  {
+    "id": "36603",
+    "title": "The Yellow Chief",
+    "titleBase": "Yellow Chief",
+    "author": "Reid, Mayne",
+    "authorFullName": "Mayne Reid",
+    "authorId": "r#a6260"
+  },
+  {
+    "id": "2028",
+    "title": "The Yellow Claw",
+    "titleBase": "Yellow Claw",
+    "author": "Rohmer, Sax",
+    "authorFullName": "Sax Rohmer",
+    "authorId": "r#a110"
+  },
+  {
+    "id": "1849",
+    "title": "The Yellow Crayon",
+    "titleBase": "Yellow Crayon",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "authorFullName": "E. Phillips (Edward Phillips) Oppenheim",
+    "authorId": "o#a594"
+  },
+  {
+    "id": "28314",
+    "title": "The Yellow Fairy Book",
+    "titleBase": "Yellow Fairy Book",
+    "author": "Ford, H. J. (Henry Justice)",
+    "authorFullName": "H. J. (Henry Justice) Ford",
+    "authorId": "f#a26630"
+  },
+  {
+    "id": "28314",
+    "title": "The Yellow Fairy Book",
+    "titleBase": "Yellow Fairy Book",
+    "author": "Lang, Andrew",
+    "authorFullName": "Andrew Lang",
+    "authorId": "l#a79"
+  },
+  {
+    "id": "640",
+    "title": "The Yellow Fairy Book",
+    "titleBase": "Yellow Fairy Book",
+    "author": "Lang, Andrew",
+    "authorFullName": "Andrew Lang",
+    "authorId": "l#a79"
+  },
+  {
+    "id": "2857",
+    "title": "A Yellow God: An Idol of Africa",
+    "titleBase": "Yellow God: An Idol of Africa",
+    "author": "Haggard, H. Rider (Henry Rider)",
+    "authorFullName": "H. Rider (Henry Rider) Haggard",
+    "authorId": "h#a365"
+  },
+  {
+    "id": "25082",
+    "title": "The Yellow Horde",
+    "titleBase": "Yellow Horde",
+    "author": "Bull, Charles Livingston",
+    "authorFullName": "Charles Livingston Bull",
+    "authorId": "b#a9742"
+  },
+  {
+    "id": "25082",
+    "title": "The Yellow Horde",
+    "titleBase": "Yellow Horde",
+    "author": "Evarts, Hal G. (Hal George)",
+    "authorFullName": "Hal G. (Hal George) Evarts",
+    "authorId": "e#a8303"
+  },
+  {
+    "id": "41402",
+    "title": "The Yellow HouseMaster of Men",
+    "titleBase": "Yellow HouseMaster of Men",
+    "author": "Oppenheim, E. Phillips (Edward Phillips)",
+    "authorFullName": "E. Phillips (Edward Phillips) Oppenheim",
+    "authorId": "o#a594"
+  },
+  {
+    "id": "34911",
+    "title": "The Yellow Rose",
+    "titleBase": "Yellow Rose",
+    "author": "Jókai, Mór",
+    "authorFullName": "Mór Jókai",
+    "authorId": "j#a5845"
+  },
+  {
+    "id": "42112",
+    "title": "The Yellowstone National ParkHistorical and Descriptive",
+    "titleBase": "Yellowstone National ParkHistorical and Descriptive",
+    "author": "Chittenden, Hiram Martin",
+    "authorFullName": "Hiram Martin Chittenden",
+    "authorId": "c#a41527"
+  },
+  {
+    "id": "40587",
+    "title": "Yellowstone Nights",
+    "titleBase": "Yellowstone Nights",
+    "author": "Quick, Herbert",
+    "authorFullName": "Herbert Quick",
+    "authorId": "q#a4251"
+  },
+  {
+    "id": "9974",
+    "title": "The Yellow Streak",
+    "titleBase": "Yellow Streak",
+    "author": "Williams, Valentine",
+    "authorFullName": "Valentine Williams",
+    "authorId": "w#a904"
+  },
+  {
+    "id": "43251",
+    "title": "Yellow Thunder, Our Little Indian Cousin",
+    "titleBase": "Yellow Thunder, Our Little Indian Cousin",
+    "author": "Bridgman, L. J. (Lewis Jesse)",
+    "authorFullName": "L. J. (Lewis Jesse) Bridgman",
+    "authorId": "b#a8122"
+  },
+  {
+    "id": "43251",
+    "title": "Yellow Thunder, Our Little Indian Cousin",
+    "titleBase": "Yellow Thunder, Our Little Indian Cousin",
+    "author": "Wade, Mary Hazelton Blanchard",
+    "authorFullName": "Mary Hazelton Blanchard Wade",
+    "authorId": "w#a5065"
+  },
+  {
+    "id": "1952",
+    "title": "The Yellow Wallpaper",
+    "titleBase": "Yellow Wallpaper",
+    "author": "Gilman, Charlotte Perkins",
+    "authorFullName": "Charlotte Perkins Gilman",
+    "authorId": "g#a27"
+  },
+  {
+    "id": "32663",
+    "title": "Ye of Little Faith",
+    "titleBase": "Ye of Little Faith",
+    "author": "Beecham, Tom",
+    "authorFullName": "Tom Beecham",
+    "authorId": "b#a34284"
+  },
+  {
+    "id": "32663",
+    "title": "Ye of Little Faith",
+    "titleBase": "Ye of Little Faith",
+    "author": "Phillips, Rog",
+    "authorFullName": "Rog Phillips",
+    "authorId": "p#a34753"
+  },
+  {
+    "id": "7326",
+    "title": "The Yeoman Adventurer",
+    "titleBase": "Yeoman Adventurer",
+    "author": "Gough, George W.",
+    "authorFullName": "George W. Gough",
+    "authorId": "g#a2423"
+  },
+  {
+    "id": "27765",
+    "title": "A Yeoman's LettersThird Edition",
+    "titleBase": "Yeoman's LettersThird Edition",
+    "author": "Ross, P. T.",
+    "authorFullName": "P. T. Ross",
+    "authorId": "r#a32896"
+  },
+  {
+    "id": "4006",
+    "title": "Yesterdays",
+    "titleBase": "Yesterdays",
+    "author": "Wilcox, Ella Wheeler",
+    "authorFullName": "Ella Wheeler Wilcox",
+    "authorId": "w#a1138"
+  },
+  {
+    "id": "12632",
+    "title": "Yesterdays with Authors",
+    "titleBase": "Yesterdays with Authors",
+    "author": "Fields, James Thomas",
+    "authorFullName": "James Thomas Fields",
+    "authorId": "f#a4465"
+  },
+  {
+    "id": "40314",
+    "title": "Yester und LiDie Geschichte einer Sehnsucht",
+    "titleBase": "Yester und LiDie Geschichte einer Sehnsucht",
+    "author": "Kellermann, Bernhard",
+    "authorFullName": "Bernhard Kellermann",
+    "authorId": "k#a40548"
+  },
+  {
+    "id": "26305",
+    "title": "Yes, Virginia, There Is A Santa Claus",
+    "titleBase": "Yes, Virginia, There Is A Santa Claus",
+    "author": "Church, Francis Pharcellus",
+    "authorFullName": "Francis Pharcellus Church",
+    "authorId": "c#a31902"
+  },
+  {
+    "id": "2292",
+    "title": "Yet Again",
+    "titleBase": "Yet Again",
+    "author": "Beerbohm, Max, Sir",
+    "authorFullName": "Max Sir Beerbohm",
+    "authorId": "b#a397"
+  },
+  {
+    "id": "32177",
+    "title": "A \"Y\" Girl in France: Letters of Katherine Shortall",
+    "titleBase": "\"Y\" Girl in France: Letters of Katherine Shortall",
+    "author": "Shortall, Katherine",
+    "authorFullName": "Katherine Shortall",
+    "authorId": "s#a4798"
+  },
+  {
+    "id": "20884",
+    "title": "Yhdyselämää",
+    "titleBase": "Yhdyselämää",
+    "author": "Lie, Jonas",
+    "authorFullName": "Jonas Lie",
+    "authorId": "l#a5095"
+  },
+  {
+    "id": "20884",
+    "title": "Yhdyselämää",
+    "titleBase": "Yhdyselämää",
+    "author": "Roschier, Tekla",
+    "authorFullName": "Tekla Roschier",
+    "authorId": "r#a6159"
+  },
+  {
+    "id": "44821",
+    "title": "Yhteiskunnallisen kysymyksen ydinkohdatNykyisyyden ja tulevaisuuden elämänvaatimuksena",
+    "titleBase": "Yhteiskunnallisen kysymyksen ydinkohdatNykyisyyden ja tulevaisuuden elämänvaatimuksena",
+    "author": "Steiner, Rudolf",
+    "authorFullName": "Rudolf Steiner",
+    "authorId": "s#a26537"
+  },
+  {
+    "id": "33707",
+    "title": "Yiddish Tales",
+    "titleBase": "Yiddish Tales",
+    "author": "Frank, Helena",
+    "authorFullName": "Helena Frank",
+    "authorId": "f#a34814"
+  },
+  {
+    "id": "33707",
+    "title": "Yiddish Tales",
+    "titleBase": "Yiddish Tales",
+    "author": "Various",
+    "authorFullName": "Various",
+    "authorId": "v#a116"
+  },
+  {
+    "id": "21782",
+    "title": "The Yillian Way",
+    "titleBase": "Yillian Way",
+    "author": "Laumer, Keith",
+    "authorFullName": "Keith Laumer",
+    "authorId": "l#a24817"
+  },
+  {
+    "id": "20960",
+    "title": "Yksillä juurilla",
+    "titleBase": "Yksillä juurilla",
+    "author": "Harraden, Beatrice",
+    "authorFullName": "Beatrice Harraden",
+    "authorId": "h#a4389"
+  },
+  {
+    "id": "20960",
+    "title": "Yksillä juurilla",
+    "titleBase": "Yksillä juurilla",
+    "author": "Suomalainen, Samuli",
+    "authorFullName": "Samuli Suomalainen",
+    "authorId": "s#a7732"
+  },
+  {
+    "id": "13593",
+    "title": "Yksin",
+    "titleBase": "Yksin",
+    "author": "Aho, Juhani",
+    "authorFullName": "Juhani Aho",
+    "authorId": "a#a1773"
+  },
+  {
+    "id": "18476",
+    "title": "Yksinkertainen sydän",
+    "titleBase": "Yksinkertainen sydän",
+    "author": "Flaubert, Gustave",
+    "authorFullName": "Gustave Flaubert",
+    "authorId": "f#a574"
+  },
+  {
+    "id": "18476",
+    "title": "Yksinkertainen sydän",
+    "titleBase": "Yksinkertainen sydän",
+    "author": "Hahl, Jalmari",
+    "authorFullName": "Jalmari Hahl",
+    "authorId": "h#a8054"
+  },
+  {
+    "id": "15501",
+    "title": "Yksinkö?",
+    "titleBase": "Yksinkö?",
+    "author": "Malmberg, Aino",
+    "authorFullName": "Aino Malmberg",
+    "authorId": "m#a5957"
+  },
+  {
+    "id": "14214",
+    "title": "Ylhäiset ja alhaiset",
+    "titleBase": "Ylhäiset ja alhaiset",
+    "author": "Gummerus, K. J. (Kaarle Jaakko)",
+    "authorFullName": "K. J. (Kaarle Jaakko) Gummerus",
+    "authorId": "g#a5410"
+  },
+  {
+    "id": "42565",
+    "title": "Yllätys y. m. kertomuksia Alaskasta",
+    "titleBase": "Yllätys y. m. kertomuksia Alaskasta",
+    "author": "London, Jack",
+    "authorFullName": "Jack London",
+    "authorId": "l#a120"
+  },
+  {
+    "id": "42565",
+    "title": "Yllätys y. m. kertomuksia Alaskasta",
+    "titleBase": "Yllätys y. m. kertomuksia Alaskasta",
+    "author": "Oksanen, Vilho",
+    "authorFullName": "Vilho Oksanen",
+    "authorId": "o#a41744"
+  },
+  {
+    "id": "12379",
+    "title": "Ylösnousemus I",
+    "titleBase": "Ylösnousemus I",
+    "author": "Järnefelt, Arvid",
+    "authorFullName": "Arvid Järnefelt",
+    "authorId": "j#a4252"
+  },
+  {
+    "id": "12379",
+    "title": "Ylösnousemus I",
+    "titleBase": "Ylösnousemus I",
+    "author": "Tolstoy, Leo, graf",
+    "authorFullName": "Leo graf Tolstoy",
+    "authorId": "t#a136"
+  },
+  {
+    "id": "12604",
+    "title": "Ylösnousemus II",
+    "titleBase": "Ylösnousemus II",
+    "author": "Järnefelt, Arvid",
+    "authorFullName": "Arvid Järnefelt",
+    "authorId": "j#a4252"
+  },
+  {
+    "id": "12604",
+    "title": "Ylösnousemus II",
+    "titleBase": "Ylösnousemus II",
+    "author": "Tolstoy, Leo, graf",
+    "authorFullName": "Leo graf Tolstoy",
+    "authorId": "t#a136"
+  },
+  {
+    "id": "13259",
+    "title": "Ylösnousemus III",
+    "titleBase": "Ylösnousemus III",
+    "author": "Järnefelt, Arvid",
+    "authorFullName": "Arvid Järnefelt",
+    "authorId": "j#a4252"
+  },
+  {
+    "id": "13259",
+    "title": "Ylösnousemus III",
+    "titleBase": "Ylösnousemus III",
+    "author": "Tolstoy, Leo, graf",
+    "authorFullName": "Leo graf Tolstoy",
+    "authorId": "t#a136"
+  },
+  {
+    "id": "45186",
+    "title": "Ylpeys ja ennakkoluulo",
+    "titleBase": "Ylpeys ja ennakkoluulo",
+    "author": "Austen, Jane",
+    "authorFullName": "Jane Austen",
+    "authorId": "a#a68"
+  },
+  {
+    "id": "45186",
+    "title": "Ylpeys ja ennakkoluulo",
+    "titleBase": "Ylpeys ja ennakkoluulo",
+    "author": "Joutsen, O. A.",
+    "authorFullName": "O. A. Joutsen",
+    "authorId": "j#a33476"
+  },
+  {
+    "id": "21802",
+    "title": "Yntemoca yntlacamecayo, yn tlahtoque yn teteuhctin yn ompa tlaca ypan altepetl culhuacan yhuan nican tlahtoque teteuhctin yn ipan in tlaca huey altepetl mexico tenochtitlanOquitlallitiaque yn tlahtoque teteuhctin culhuacan",
+    "titleBase": "Yntemoca yntlacamecayo, yn tlahtoque yn teteuhctin yn ompa tlaca ypan altepetl culhuacan yhuan nican tlahtoque teteuhctin yn ipan in tlaca huey altepetl mexico tenochtitlanOquitlallitiaque yn tlahtoque teteuhctin culhuacan",
+    "author": "Chimalpahin Cuauhtlehuanitzin, Domingo Francisco de San Antón Muñón",
+    "authorFullName": "Domingo Francisco de San Antón Muñón Chimalpahin Cuauhtlehuanitzin",
+    "authorId": "c#a24900"
+  },
+  {
+    "id": "2526",
+    "title": "The Yoga Sutras of Patanjali: The Book of the Spiritual Man",
+    "titleBase": "Yoga Sutras of Patanjali: The Book of the Spiritual Man",
+    "author": "Johnston, Charles",
+    "authorFullName": "Charles Johnston",
+    "authorId": "j#a4214"
+  },
+  {
+    "id": "2526",
+    "title": "The Yoga Sutras of Patanjali: The Book of the Spiritual Man",
+    "titleBase": "Yoga Sutras of Patanjali: The Book of the Spiritual Man",
+    "author": "Patañjali",
+    "authorFullName": "Patañjali",
+    "authorId": "p#a950"
+  },
+  {
+    "id": "16583",
+    "title": "The Yoke\rA Romance of the Days when the Lord Redeemed the Children of Israel from the Bondage of Egypt",
+    "titleBase": "Yoke\rA Romance of the Days when the Lord Redeemed the Children of Israel from the Bondage of Egypt",
+    "author": "Miller, Elizabeth",
+    "authorFullName": "Elizabeth Miller",
+    "authorId": "m#a6389"
+  },
+  {
+    "id": "12057",
+    "title": "Yolanda: Maid of Burgundy",
+    "titleBase": "Yolanda: Maid of Burgundy",
+    "author": "Major, Charles",
+    "authorFullName": "Charles Major",
+    "authorId": "m#a4202"
+  },
+  {
+    "id": "12057",
+    "title": "Yolanda: Maid of Burgundy",
+    "titleBase": "Yolanda: Maid of Burgundy",
+    "author": "Weber-Ditzler, Charlotte",
+    "authorFullName": "Charlotte Weber-Ditzler",
+    "authorId": "w#a36198"
+  },
+  {
+    "id": "34004",
+    "title": "Yolanda of Cyprus",
+    "titleBase": "Yolanda of Cyprus",
+    "author": "Rice, Cale Young",
+    "authorFullName": "Cale Young Rice",
+    "authorId": "r#a34439"
+  },
+  {
+    "id": "5866",
+    "title": "Yollop",
+    "titleBase": "Yollop",
+    "author": "McCutcheon, George Barr",
+    "authorFullName": "George Barr McCutcheon",
+    "authorId": "m#a1555"
+  },
+  {
+    "id": "42536",
+    "title": "Yonder",
+    "titleBase": "Yonder",
+    "author": "Young, E. H. (Emily Hilda)",
+    "authorFullName": "E. H. (Emily Hilda) Young",
+    "authorId": "y#a2655"
+  },
+  {
+    "id": "27628",
+    "title": "YorkDe Aarde en haar Volken, 1909",
+    "titleBase": "YorkDe Aarde en haar Volken, 1909",
+    "author": "Bosch, G.",
+    "authorFullName": "G. Bosch",
+    "authorId": "b#a5323"
+  },
+  {
+    "id": "23821",
+    "title": "Yorke The Adventurer",
+    "titleBase": "Yorke The Adventurer",
+    "author": "Becke, Louis",
+    "authorFullName": "Louis Becke",
+    "authorId": "b#a1317"
+  },
+  {
+    "id": "36552",
+    "title": "York Minster",
+    "titleBase": "York Minster",
+    "author": "Purey-Cust, Arthur Perceval",
+    "authorFullName": "Arthur Perceval Purey-Cust",
+    "authorId": "p#a38345"
+  },
+  {
+    "id": "18175",
+    "title": "Yorksher Puddin'A Collection of the Most Popular Dialect Stories from thePen of John Hartley",
+    "titleBase": "Yorksher Puddin'A Collection of the Most Popular Dialect Stories from thePen of John Hartley",
+    "author": "Hartley, John",
+    "authorFullName": "John Hartley",
+    "authorId": "h#a7408"
+  },
+  {
+    "id": "9973",
+    "title": "Yorkshire",
+    "titleBase": "Yorkshire",
+    "author": "Home, Gordon",
+    "authorFullName": "Gordon Home",
+    "authorId": "h#a2778"
+  },
+  {
+    "id": "44852",
+    "title": "Yorkshire Battles",
+    "titleBase": "Yorkshire Battles",
+    "author": "Lamplough, Edward",
+    "authorFullName": "Edward Lamplough",
+    "authorId": "l#a42948"
+  },
+  {
+    "id": "10795",
+    "title": "Yorkshire—Coast and Moorland Scenes",
+    "titleBase": "Yorkshire—Coast and Moorland Scenes",
+    "author": "Home, Gordon",
+    "authorFullName": "Gordon Home",
+    "authorId": "h#a2778"
+  },
+  {
+    "id": "2888",
+    "title": "Yorkshire Dialect Poems (1673-1915) and traditional poems",
+    "titleBase": "Yorkshire Dialect Poems (1673-1915) and traditional poems",
+    "author": "Moorman, F. W. (Frederic William)",
+    "authorFullName": "F. W. (Frederic William) Moorman",
+    "authorId": "m#a1062"
+  },
+  {
+    "id": "17472",
+    "title": "Yorkshire Ditties, First SeriesTo Which Is Added The Cream Of Wit And Humour From His Popular Writings",
+    "titleBase": "Yorkshire Ditties, First SeriesTo Which Is Added The Cream Of Wit And Humour From His Popular Writings",
+    "author": "Hartley, John",
+    "authorFullName": "John Hartley",
+    "authorId": "h#a7408"
+  },
+  {
+    "id": "17799",
+    "title": "Yorkshire Ditties, Second SeriesTo which is added The Cream of Wit and Humourfrom his Popular Writings",
+    "titleBase": "Yorkshire Ditties, Second SeriesTo which is added The Cream of Wit and Humourfrom his Popular Writings",
+    "author": "Hartley, John",
+    "authorFullName": "John Hartley",
+    "authorId": "h#a7408"
+  },
+  {
+    "id": "40522",
+    "title": "Yorkshire Family Romance",
+    "titleBase": "Yorkshire Family Romance",
+    "author": "Ross, Frederick",
+    "authorFullName": "Frederick Ross",
+    "authorId": "r#a40674"
+  },
+  {
+    "id": "19470",
+    "title": "Yorkshire LyricsPoems written in the Dialect as Spoken in the West Ridingof Yorkshire. To which are added a Selection of FugitiveVerses not in the Dialect",
+    "titleBase": "Yorkshire LyricsPoems written in the Dialect as Spoken in the West Ridingof Yorkshire. To which are added a Selection of FugitiveVerses not in the Dialect",
+    "author": "Hartley, John",
+    "authorFullName": "John Hartley",
+    "authorId": "h#a7408"
+  },
+  {
+    "id": "18176",
+    "title": "Yorkshire Tales. Third SeriesAmusing sketches of Yorkshire Life in the Yorkshire Dialect",
+    "titleBase": "Yorkshire Tales. Third SeriesAmusing sketches of Yorkshire Life in the Yorkshire Dialect",
+    "author": "Hartley, John",
+    "authorFullName": "John Hartley",
+    "authorId": "h#a7408"
+  },
+  {
+    "id": "4255",
+    "title": "A Yorkshire Tragedy",
+    "titleBase": "Yorkshire Tragedy",
+    "author": "Shakespeare (spurious and doubtful works)",
+    "authorFullName": "Shakespeare (spurious and doubtful works)",
+    "authorId": "s#a654"
+  },
+  {
+    "id": "7091",
+    "title": "The Yosemite",
+    "titleBase": "Yosemite",
+    "author": "Muir, John",
+    "authorFullName": "John Muir",
+    "authorId": "m#a180"
+  },
+  {
+    "id": "26592",
+    "title": "The Yosemite",
+    "titleBase": "Yosemite",
+    "author": "Muir, John",
+    "authorFullName": "John Muir",
+    "authorId": "m#a180"
+  },
+  {
+    "id": "19944",
+    "title": "The Yotsuya Kwaidan or O'Iwa InariTales of the Tokugawa, Volume 1 (of 2)",
+    "titleBase": "Yotsuya Kwaidan or O'Iwa InariTales of the Tokugawa, Volume 1 (of 2)",
+    "author": "De Benneville, James S. (James Seguin)",
+    "authorFullName": "James S. (James Seguin) De Benneville",
+    "authorId": "d#a8981"
+  },
+  {
+    "id": "12607",
+    "title": "You Can Search Me",
+    "titleBase": "You Can Search Me",
+    "author": "Hobart, George V. (George Vere)",
+    "authorFullName": "George V. (George Vere) Hobart",
+    "authorId": "h#a4454"
+  },
+  {
+    "id": "31897",
+    "title": "You Don't Make Wine Like the Greeks Did",
+    "titleBase": "You Don't Make Wine Like the Greeks Did",
+    "author": "Fisher, David E.",
+    "authorFullName": "David E. Fisher",
+    "authorId": "f#a35541"
+  },
+  {
+    "id": "31897",
+    "title": "You Don't Make Wine Like the Greeks Did",
+    "titleBase": "You Don't Make Wine Like the Greeks Did",
+    "author": "Summers, Leo",
+    "authorFullName": "Leo Summers",
+    "authorId": "s#a26735"
+  },
+  {
+    "id": "19394",
+    "title": "You'll git dar in de mornin'",
+    "titleBase": "You'll git dar in de mornin'",
+    "author": "Burleigh, H. T. (Harry Thacker)",
+    "authorFullName": "H. T. (Harry Thacker) Burleigh",
+    "authorId": "b#a7345"
+  },
+  {
+    "id": "19394",
+    "title": "You'll git dar in de mornin'",
+    "titleBase": "You'll git dar in de mornin'",
+    "author": "Stanton, Frank Lebby",
+    "authorFullName": "Frank Lebby Stanton",
+    "authorId": "s#a8644"
+  },
+  {
+    "id": "2175",
+    "title": "You Never Can Tell",
+    "titleBase": "You Never Can Tell",
+    "author": "Shaw, Bernard",
+    "authorFullName": "Bernard Shaw",
+    "authorId": "s#a467"
+  },
+  {
+    "id": "6288",
+    "title": "You Never Know Your Luck; being the story of a matrimonial deserter. Complete",
+    "titleBase": "You Never Know Your Luck; being the story of a matrimonial deserter. Complete",
+    "author": "Parker, Gilbert",
+    "authorFullName": "Gilbert Parker",
+    "authorId": "p#a1285"
+  },
+  {
+    "id": "6285",
+    "title": "You Never Know Your Luck; being the story of a matrimonial deserter. Volume 1.",
+    "titleBase": "You Never Know Your Luck; being the story of a matrimonial deserter. Volume 1.",
+    "author": "Parker, Gilbert",
+    "authorFullName": "Gilbert Parker",
+    "authorId": "p#a1285"
+  },
+  {
+    "id": "6286",
+    "title": "You Never Know Your Luck; being the story of a matrimonial deserter. Volume 2.",
+    "titleBase": "You Never Know Your Luck; being the story of a matrimonial deserter. Volume 2.",
+    "author": "Parker, Gilbert",
+    "authorFullName": "Gilbert Parker",
+    "authorId": "p#a1285"
+  },
+  {
+    "id": "6287",
+    "title": "You Never Know Your Luck; being the story of a matrimonial deserter. Volume 3.",
+    "titleBase": "You Never Know Your Luck; being the story of a matrimonial deserter. Volume 3.",
+    "author": "Parker, Gilbert",
+    "authorFullName": "Gilbert Parker",
+    "authorId": "p#a1285"
+  },
+  {
+    "id": "22521",
+    "title": "The Young Acrobat of the Great North American Circus",
+    "titleBase": "Young Acrobat of the Great North American Circus",
+    "author": "Alger, Horatio",
+    "authorFullName": "Horatio Alger",
+    "authorId": "a#a168"
+  },
+  {
+    "id": "312",
+    "title": "Young Adventure: A Book of Poems",
+    "titleBase": "Young Adventure: A Book of Poems",
+    "author": "Benét, Stephen Vincent",
+    "authorFullName": "Stephen Vincent Benét",
+    "authorId": "b#a174"
+  },
+  {
+    "id": "27300",
+    "title": "The Young Adventureror Tom's Trip Across the Plains",
+    "titleBase": "Young Adventureror Tom's Trip Across the Plains",
+    "author": "Alger, Horatio",
+    "authorFullName": "Horatio Alger",
+    "authorId": "a#a168"
+  },
+  {
+    "id": "25494",
+    "title": "The Young Alaskans",
+    "titleBase": "Young Alaskans",
+    "author": "Hough, Emerson",
+    "authorFullName": "Emerson Hough",
+    "authorId": "h#a1094"
+  },
+  {
+    "id": "28694",
+    "title": "Young Alaskans in the Far North",
+    "titleBase": "Young Alaskans in the Far North",
+    "author": "Hough, Emerson",
+    "authorFullName": "Emerson Hough",
+    "authorId": "h#a1094"
+  },
+  {
+    "id": "27850",
+    "title": "The Young Alaskans in the Rockies",
+    "titleBase": "Young Alaskans in the Rockies",
+    "author": "Hough, Emerson",
+    "authorFullName": "Emerson Hough",
+    "authorId": "h#a1094"
+  },
+  {
+    "id": "26367",
+    "title": "The Young Alaskans on the Missouri",
+    "titleBase": "Young Alaskans on the Missouri",
+    "author": "Hough, Emerson",
+    "authorFullName": "Emerson Hough",
+    "authorId": "h#a1094"
+  },
+  {
+    "id": "28741",
+    "title": "The Young Alaskans on the Trail",
+    "titleBase": "Young Alaskans on the Trail",
+    "author": "Hough, Emerson",
+    "authorFullName": "Emerson Hough",
+    "authorId": "h#a1094"
+  },
+  {
+    "id": "20625",
+    "title": "Young Americans AbroadVacation in Europe: Travels in England, France, Holland,Belgium, Prussia and Switzerland",
+    "titleBase": "Young Americans AbroadVacation in Europe: Travels in England, France, Holland,Belgium, Prussia and Switzerland",
+    "author": "Choules, John Overton",
+    "authorFullName": "John Overton Choules",
+    "authorId": "c#a9426"
+  },
+  {
+    "id": "38412",
+    "title": "The Young and Field Literary Readers, Book 2",
+    "titleBase": "Young and Field Literary Readers, Book 2",
+    "author": "Barney, Maginel Wright",
+    "authorFullName": "Maginel Wright Barney",
+    "authorId": "b#a35429"
+  },
+  {
+    "id": "38412",
+    "title": "The Young and Field Literary Readers, Book 2",
+    "titleBase": "Young and Field Literary Readers, Book 2",
+    "author": "Field, Walter Taylor",
+    "authorFullName": "Walter Taylor Field",
+    "authorId": "f#a39450"
+  },
+  {
+    "id": "38412",
+    "title": "The Young and Field Literary Readers, Book 2",
+    "titleBase": "Young and Field Literary Readers, Book 2",
+    "author": "Young, Ella Flagg",
+    "authorFullName": "Ella Flagg Young",
+    "authorId": "y#a39449"
+  },
+  {
+    "id": "31140",
+    "title": "Young Auctioneers; Or, The Polishing of a Rolling Stone",
+    "titleBase": "Young Auctioneers; Or, The Polishing of a Rolling Stone",
+    "author": "Stratemeyer, Edward",
+    "authorFullName": "Edward Stratemeyer",
+    "authorId": "s#a1626"
+  },
+  {
+    "id": "25150",
+    "title": "The Young Bank Messenger",
+    "titleBase": "Young Bank Messenger",
+    "author": "Alger, Horatio",
+    "authorFullName": "Horatio Alger",
+    "authorId": "a#a168"
+  },
+  {
+    "id": "30089",
+    "title": "Young Barbarians",
+    "titleBase": "Young Barbarians",
+    "author": "Maclaren, Ian",
+    "authorFullName": "Ian Maclaren",
+    "authorId": "m#a2364"
+  },
+  {
+    "id": "25524",
+    "title": "The Young Berringtons: The Boy Explorers",
+    "titleBase": "Young Berringtons: The Boy Explorers",
+    "author": "Kingston, William Henry Giles",
+    "authorFullName": "William Henry Giles Kingston",
+    "authorId": "k#a8659"
+  },
+  {
+    "id": "42902",
+    "title": "Young Blood",
+    "titleBase": "Young Blood",
+    "author": "Hornung, E. W. (Ernest William)",
+    "authorFullName": "E. W. (Ernest William) Hornung",
+    "authorId": "h#a364"
+  },
+  {
+    "id": "21344",
+    "title": "The Young Bridge-Tenderor, Ralph Nelson's Upward Struggle",
+    "titleBase": "Young Bridge-Tenderor, Ralph Nelson's Upward Struggle",
+    "author": "Stratemeyer, Edward",
+    "authorFullName": "Edward Stratemeyer",
+    "authorId": "s#a1626"
+  },
+  {
+    "id": "9613",
+    "title": "The Young Buglers",
+    "titleBase": "Young Buglers",
+    "author": "Henty, G. A. (George Alfred)",
+    "authorFullName": "G. A. (George Alfred) Henty",
+    "authorId": "h#a1032"
+  },
+  {
+    "id": "4921",
+    "title": "Young Canada's Nursery Rhymes",
+    "titleBase": "Young Canada's Nursery Rhymes",
+    "author": "Various",
+    "authorFullName": "Various",
+    "authorId": "v#a116"
+  },
+  {
+    "id": "20432",
+    "title": "Young Captain Jack\rOr, The Son of a Soldier",
+    "titleBase": "Young Captain Jack\rOr, The Son of a Soldier",
+    "author": "Alger, Horatio",
+    "authorFullName": "Horatio Alger",
+    "authorId": "a#a168"
+  },
+  {
+    "id": "20432",
+    "title": "Young Captain Jack\rOr, The Son of a Soldier",
+    "titleBase": "Young Captain Jack\rOr, The Son of a Soldier",
+    "author": "Stratemeyer, Edward",
+    "authorFullName": "Edward Stratemeyer",
+    "authorId": "s#a1626"
+  },
+  {
+    "id": "10983",
+    "title": "The Young CaptivesA Narrative of the Shipwreck and Suffering of John and William Doyley",
+    "titleBase": "Young CaptivesA Narrative of the Shipwreck and Suffering of John and William Doyley",
+    "author": "Anonymous",
+    "authorFullName": "Anonymous",
+    "authorId": "a#a216"
+  },
+  {
+    "id": "12792",
+    "title": "The Young Captives: A Story of Judah and Babylon",
+    "titleBase": "Young Captives: A Story of Judah and Babylon",
+    "author": "Hayne, Mark",
+    "authorFullName": "Mark Hayne",
+    "authorId": "h#a4596"
+  },
+  {
+    "id": "12792",
+    "title": "The Young Captives: A Story of Judah and Babylon",
+    "titleBase": "Young Captives: A Story of Judah and Babylon",
+    "author": "Jones, Erasmus W.",
+    "authorFullName": "Erasmus W. Jones",
+    "authorId": "j#a4583"
+  },
+  {
+    "id": "19097",
+    "title": "The Young Carpenters of FreibergA Tale of the Thirty Years' War",
+    "titleBase": "Young Carpenters of FreibergA Tale of the Thirty Years' War",
+    "author": "Anonymous",
+    "authorFullName": "Anonymous",
+    "authorId": "a#a216"
+  },
+  {
+    "id": "5128",
+    "title": "The Young Carthaginian: A Story of The Times of Hannibal",
+    "titleBase": "Young Carthaginian: A Story of The Times of Hannibal",
+    "author": "Henty, G. A. (George Alfred)",
+    "authorFullName": "G. A. (George Alfred) Henty",
+    "authorId": "h#a1032"
+  },
+  {
+    "id": "25449",
+    "title": "The Young CastellanA Tale of the English Civil War",
+    "titleBase": "Young CastellanA Tale of the English Civil War",
+    "author": "Fenn, George Manville",
+    "authorFullName": "George Manville Fenn",
+    "authorId": "f#a3840"
+  },
+  {
+    "id": "42689",
+    "title": "The Young CavalierA Story of the Civil Wars",
+    "titleBase": "Young CavalierA Story of the Civil Wars",
+    "author": "Browne, Gordon",
+    "authorFullName": "Gordon Browne",
+    "authorId": "b#a8569"
+  },
+  {
+    "id": "42689",
+    "title": "The Young CavalierA Story of the Civil Wars",
+    "titleBase": "Young CavalierA Story of the Civil Wars",
+    "author": "Westerman, Percy F. (Percy Francis)",
+    "authorFullName": "Percy F. (Percy Francis) Westerman",
+    "authorId": "w#a32140"
+  },
+  {
+    "id": "32934",
+    "title": "The Young ColonistsA Story of the Zulu and Boer Wars",
+    "titleBase": "Young ColonistsA Story of the Zulu and Boer Wars",
+    "author": "Henty, G. A. (George Alfred)",
+    "authorFullName": "G. A. (George Alfred) Henty",
+    "authorId": "h#a1032"
+  },
+  {
+    "id": "41512",
+    "title": "The Young Continentals at Bunker Hill",
+    "titleBase": "Young Continentals at Bunker Hill",
+    "author": "Boyer, Ralph L. (Ralph Ludwig)",
+    "authorFullName": "Ralph L. (Ralph Ludwig) Boyer",
+    "authorId": "b#a34848"
+  },
+  {
+    "id": "41512",
+    "title": "The Young Continentals at Bunker Hill",
+    "titleBase": "Young Continentals at Bunker Hill",
+    "author": "McIntyre, John Thomas",
+    "authorFullName": "John Thomas McIntyre",
+    "authorId": "m#a4311"
+  },
+  {
+    "id": "37255",
+    "title": "The Young DragoonEvery Day Life of a Soldier",
+    "titleBase": "Young DragoonEvery Day Life of a Soldier",
+    "author": "Drayson, A.W. (Alfred Wilks)",
+    "authorFullName": "A.W. (Alfred Wilks) Drayson",
+    "authorId": "d#a38728"
+  },
+  {
+    "id": "20008",
+    "title": "The Young Duke",
+    "titleBase": "Young Duke",
+    "author": "Disraeli, Benjamin, Earl of Beaconsfield",
+    "authorFullName": "Benjamin Earl of Beaconsfield Disraeli",
+    "authorId": "d#a1292"
+  },
+  {
+    "id": "11585",
+    "title": "The Young Emigrants; Madelaine Tube; the Boy and the Book; and Crystal Palace",
+    "titleBase": "Young Emigrants; Madelaine Tube; the Boy and the Book; and Crystal Palace",
+    "author": "Sedgwick, Susan Anne Livingston Ridley",
+    "authorFullName": "Susan Anne Livingston Ridley Sedgwick",
+    "authorId": "s#a4038"
+  },
+  {
+    "id": "8153",
+    "title": "The Young Engineers in Arizona; or, Laying Tracks on the Man-killer Quicksand",
+    "titleBase": "Young Engineers in Arizona; or, Laying Tracks on the Man-killer Quicksand",
+    "author": "Hancock, H. Irving (Harrie Irving)",
+    "authorFullName": "H. Irving (Harrie Irving) Hancock",
+    "authorId": "h#a2034"
+  },
+  {
+    "id": "12734",
+    "title": "The Young Engineers in Colorado\rOr, At Railroad Building in Earnest",
+    "titleBase": "Young Engineers in Colorado\rOr, At Railroad Building in Earnest",
+    "author": "Hancock, H. Irving (Harrie Irving)",
+    "authorFullName": "H. Irving (Harrie Irving) Hancock",
+    "authorId": "h#a2034"
+  },
+  {
+    "id": "12778",
+    "title": "The Young Engineers in Mexico\rOr, Fighting the Mine Swindlers",
+    "titleBase": "Young Engineers in Mexico\rOr, Fighting the Mine Swindlers",
+    "author": "Hancock, H. Irving (Harrie Irving)",
+    "authorFullName": "H. Irving (Harrie Irving) Hancock",
+    "authorId": "h#a2034"
+  },
+  {
+    "id": "12777",
+    "title": "The Young Engineers in Nevada\rOr, Seeking Fortune on the Turn of a Pick",
+    "titleBase": "Young Engineers in Nevada\rOr, Seeking Fortune on the Turn of a Pick",
+    "author": "Hancock, H. Irving (Harrie Irving)",
+    "authorFullName": "H. Irving (Harrie Irving) Hancock",
+    "authorId": "h#a2034"
+  },
+  {
+    "id": "14369",
+    "title": "The Young Engineers on the Gulf\rOr, The Dread Mystery of the Million Dollar Breakwater",
+    "titleBase": "Young Engineers on the Gulf\rOr, The Dread Mystery of the Million Dollar Breakwater",
+    "author": "Hancock, H. Irving (Harrie Irving)",
+    "authorFullName": "H. Irving (Harrie Irving) Hancock",
+    "authorId": "h#a2034"
+  },
+  {
+    "id": "18947",
+    "title": "The Younger EddaAlso called Snorre's Edda, or The Prose Edda",
+    "titleBase": "Younger EddaAlso called Snorre's Edda, or The Prose Edda",
+    "author": "Anderson, Rasmus Björn",
+    "authorFullName": "Rasmus Björn Anderson",
+    "authorId": "a#a4534"
+  },
+  {
+    "id": "18947",
+    "title": "The Younger EddaAlso called Snorre's Edda, or The Prose Edda",
+    "titleBase": "Younger EddaAlso called Snorre's Edda, or The Prose Edda",
+    "author": "Snorri Sturluson",
+    "authorFullName": "Snorri Sturluson",
+    "authorId": "s#a312"
+  },
+  {
+    "id": "14852",
+    "title": "The Younger Set",
+    "titleBase": "Younger Set",
+    "author": "Chambers, Robert W. (Robert William)",
+    "authorFullName": "Robert W. (Robert William) Chambers",
+    "authorId": "c#a1618"
+  },
+  {
+    "id": "21687",
+    "title": "The Youngest Girl in the FifthA School Story",
+    "titleBase": "Youngest Girl in the FifthA School Story",
+    "author": "Brazil, Angela",
+    "authorFullName": "Angela Brazil",
+    "authorId": "b#a2544"
+  },
+  {
+    "id": "21687",
+    "title": "The Youngest Girl in the FifthA School Story",
+    "titleBase": "Youngest Girl in the FifthA School Story",
+    "author": "Davis, Stanley",
+    "authorFullName": "Stanley Davis",
+    "authorId": "d#a24861"
+  },
+  {
+    "id": "32992",
+    "title": "The Youngest Girl in the School",
+    "titleBase": "Youngest Girl in the School",
+    "author": "Sharp, Evelyn",
+    "authorFullName": "Evelyn Sharp",
+    "authorId": "s#a34581"
+  },
+  {
+    "id": "5623",
+    "title": "The Young Explorer; Or, Claiming His Fortune",
+    "titleBase": "Young Explorer; Or, Claiming His Fortune",
+    "author": "Alger, Horatio",
+    "authorFullName": "Horatio Alger",
+    "authorId": "a#a168"
+  },
+  {
+    "id": "26313",
+    "title": "The Young Farmer: Some Things He Should Know",
+    "titleBase": "Young Farmer: Some Things He Should Know",
+    "author": "Hunt, Thomas Forsyth",
+    "authorFullName": "Thomas Forsyth Hunt",
+    "authorId": "h#a31906"
+  },
+  {
+    "id": "6114",
+    "title": "The Young Firemen of Lakeville; Or, Herbert Dare's Pluck",
+    "titleBase": "Young Firemen of Lakeville; Or, Herbert Dare's Pluck",
+    "author": "Webster, Frank V.",
+    "authorFullName": "Frank V. Webster",
+    "authorId": "w#a1955"
+  },
+  {
+    "id": "39431",
+    "title": "Young Folks' Bible in Words of Easy ReadingThe Sweet Stories of God's Word in the Language of Childhood",
+    "titleBase": "Young Folks' Bible in Words of Easy ReadingThe Sweet Stories of God's Word in the Language of Childhood",
+    "author": "Pollard, Josephine",
+    "authorFullName": "Josephine Pollard",
+    "authorId": "p#a38122"
+  },
+  {
+    "id": "4769",
+    "title": "Young Folks' History of England",
+    "titleBase": "Young Folks' History of England",
+    "author": "Yonge, Charlotte M. (Charlotte Mary)",
+    "authorFullName": "Charlotte M. (Charlotte Mary) Yonge",
+    "authorId": "y#a945"
+  },
+  {
+    "id": "16667",
+    "title": "Young Folks' History of Rome",
+    "titleBase": "Young Folks' History of Rome",
+    "author": "Yonge, Charlotte M. (Charlotte Mary)",
+    "authorFullName": "Charlotte M. (Charlotte Mary) Yonge",
+    "authorId": "y#a945"
+  },
+  {
+    "id": "16534",
+    "title": "A Young Folks' History of the Church of Jesus Christ of Latter-day Saints",
+    "titleBase": "Young Folks' History of the Church of Jesus Christ of Latter-day Saints",
+    "author": "Anderson, Nephi",
+    "authorFullName": "Nephi Anderson",
+    "authorId": "a#a4501"
+  },
+  {
+    "id": "15884",
+    "title": "Young Folks' Library, Volume XI (of 20)Wonders of Earth, Sea and Sky",
+    "titleBase": "Young Folks' Library, Volume XI (of 20)Wonders of Earth, Sea and Sky",
+    "author": "Holden, Edward Singleton",
+    "authorFullName": "Edward Singleton Holden",
+    "authorId": "h#a6360"
+  },
+  {
+    "id": "15202",
+    "title": "Young Folks' Treasury, Volume 2 (of 12)\rMyths and Legendary Heroes",
+    "titleBase": "Young Folks' Treasury, Volume 2 (of 12)\rMyths and Legendary Heroes",
+    "author": "Mabie, Hamilton Wright",
+    "authorFullName": "Hamilton Wright Mabie",
+    "authorId": "m#a1421"
+  },
+  {
+    "id": "15560",
+    "title": "Young Folks Treasury, Volume 3 (of 12)\rClassic Tales and Old-Fashioned Stories",
+    "titleBase": "Young Folks Treasury, Volume 3 (of 12)\rClassic Tales and Old-Fashioned Stories",
+    "author": "Mabie, Hamilton Wright",
+    "authorFullName": "Hamilton Wright Mabie",
+    "authorId": "m#a1421"
+  },
+  {
+    "id": "1882",
+    "title": "The Young Forester",
+    "titleBase": "Young Forester",
+    "author": "Grey, Zane",
+    "authorFullName": "Zane Grey",
+    "authorId": "g#a212"
+  },
+  {
+    "id": "22060",
+    "title": "The Young Franc TireursAnd Their Adventures in the Franco-Prussian War",
+    "titleBase": "Young Franc TireursAnd Their Adventures in the Franco-Prussian War",
+    "author": "Henty, G. A. (George Alfred)",
+    "authorFullName": "G. A. (George Alfred) Henty",
+    "authorId": "h#a1032"
+  },
+  {
+    "id": "22060",
+    "title": "The Young Franc TireursAnd Their Adventures in the Franco-Prussian War",
+    "titleBase": "Young Franc TireursAnd Their Adventures in the Franco-Prussian War",
+    "author": "Young, F. T.",
+    "authorFullName": "F. T. Young",
+    "authorId": "y#a25070"
+  },
+  {
+    "id": "21712",
+    "title": "The Young Fur Traders",
+    "titleBase": "Young Fur Traders",
+    "author": "Ballantyne, R. M. (Robert Michael)",
+    "authorFullName": "R. M. (Robert Michael) Ballantyne",
+    "authorId": "b#a333"
+  },
+  {
+    "id": "13588",
+    "title": "The Young Gentleman and Lady's Monitor, and English Teacher's Assistant\rBeing a collection of select pieces from our best modern writers, calculated to eradicate vulgar prejudices and rusticity of manners, improve the understanding, rectify the will, purify the passions, direct the minds of youth to the pursuit of proper objects, and to facilitate their reading, writing, and speaking the English language with elegance and propriety",
+    "titleBase": "Young Gentleman and Lady's Monitor, and English Teacher's Assistant\rBeing a collection of select pieces from our best modern writers, calculated to eradicate vulgar prejudices and rusticity of manners, improve the understanding, rectify the will, purify the passions, direct the minds of youth to the pursuit of proper objects, and to facilitate their reading, writing, and speaking the English language with elegance and propriety",
+    "author": "Moore, John Hamilton",
+    "authorFullName": "John Hamilton Moore",
+    "authorId": "m#a5142"
+  },
+  {
+    "id": "752",
+    "title": "A Young Girl's Diary",
+    "titleBase": "Young Girl's Diary",
+    "author": "Freud, Sigmund",
+    "authorFullName": "Sigmund Freud",
+    "authorId": "f#a391"
+  },
+  {
+    "id": "752",
+    "title": "A Young Girl's Diary",
+    "titleBase": "Young Girl's Diary",
+    "author": "Paul, Cedar",
+    "authorFullName": "Cedar Paul",
+    "authorId": "p#a390"
+  },
+  {
+    "id": "752",
+    "title": "A Young Girl's Diary",
+    "titleBase": "Young Girl's Diary",
+    "author": "Paul, Eden",
+    "authorFullName": "Eden Paul",
+    "authorId": "p#a389"
+  },
+  {
+    "id": "12876",
+    "title": "A Young Girl's Wooing",
+    "titleBase": "Young Girl's Wooing",
+    "author": "Roe, Edward Payson",
+    "authorFullName": "Edward Payson Roe",
+    "authorId": "r#a858"
+  },
+  {
+    "id": "24911",
+    "title": "Young Glory and the Spanish CruiserA Brave Fight Against Odds",
+    "titleBase": "Young Glory and the Spanish CruiserA Brave Fight Against Odds",
+    "author": "Mott, Walter Fenton",
+    "authorFullName": "Walter Fenton Mott",
+    "authorId": "m#a26806"
+  },
+  {
+    "id": "21380",
+    "title": "A Young Hero",
+    "titleBase": "Young Hero",
+    "author": "Fenn, George Manville",
+    "authorFullName": "George Manville Fenn",
+    "authorId": "f#a3840"
+  },
+  {
+    "id": "21380",
+    "title": "A Young Hero",
+    "titleBase": "Young Hero",
+    "author": "Webb, Archibald",
+    "authorFullName": "Archibald Webb",
+    "authorId": "w#a9893"
+  },
+  {
+    "id": "25836",
+    "title": "Young Hilda at the Wars",
+    "titleBase": "Young Hilda at the Wars",
+    "author": "Gleason, Arthur",
+    "authorFullName": "Arthur Gleason",
+    "authorId": "g#a8493"
+  },
+  {
+    "id": "12936",
+    "title": "Young Hunters of the Lake\ror, Out with Rod and Gun",
+    "titleBase": "Young Hunters of the Lake\ror, Out with Rod and Gun",
+    "author": "Stratemeyer, Edward",
+    "authorFullName": "Edward Stratemeyer",
+    "authorId": "s#a1626"
+  },
+  {
+    "id": "42142",
+    "title": "A Young Inventor's Pluckor The Mystery of the Willington Legacy",
+    "titleBase": "Young Inventor's Pluckor The Mystery of the Willington Legacy",
+    "author": "Stratemeyer, Edward",
+    "authorFullName": "Edward Stratemeyer",
+    "authorId": "s#a1626"
+  },
+  {
+    "id": "6673",
+    "title": "Young Knights of the Empire : Their Code, and Further Scout Yarns",
+    "titleBase": "Young Knights of the Empire : Their Code, and Further Scout Yarns",
+    "author": "Baden-Powell of Gilwell, Robert Stephenson Smyth Baden-Powell, Baron",
+    "authorFullName": "Robert Stephenson Smyth Baden-Powell Baron Baden-Powell of Gilwell",
+    "authorId": "b#a2144"
+  },
+  {
+    "id": "29248",
+    "title": "The Young Lady's Equestrian Manual",
+    "titleBase": "Young Lady's Equestrian Manual",
+    "author": "Anonymous",
+    "authorFullName": "Anonymous",
+    "authorId": "a#a216"
+  },
+  {
+    "id": "15490",
+    "title": "The Young Lady's MentorA Guide to the Formation of Character. In a Series of Letters to Her Unknown Friends",
+    "titleBase": "Young Lady's MentorA Guide to the Formation of Character. In a Series of Letters to Her Unknown Friends",
+    "author": "Anonymous",
+    "authorFullName": "Anonymous",
+    "authorId": "a#a216"
+  },
+  {
+    "id": "25886",
+    "title": "The Young Lieutenantor, The Adventures of an Army Officer",
+    "titleBase": "Young Lieutenantor, The Adventures of an Army Officer",
+    "author": "Optic, Oliver",
+    "authorFullName": "Oliver Optic",
+    "authorId": "o#a260"
+  },
+  {
+    "id": "25747",
+    "title": "Youngling: A Terran Empire story",
+    "titleBase": "Youngling: A Terran Empire story",
+    "author": "Wilson, Ann",
+    "authorFullName": "Ann Wilson",
+    "authorId": "w#a7375"
+  },
+  {
+    "id": "16181",
+    "title": "Young Lion of the Woods\rOr, A Story of Early Colonial Days",
+    "titleBase": "Young Lion of the Woods\rOr, A Story of Early Colonial Days",
+    "author": "Smith, Thomas Barlow",
+    "authorFullName": "Thomas Barlow Smith",
+    "authorId": "s#a6526"
+  },
+  {
+    "id": "10922",
+    "title": "Young Lives",
+    "titleBase": "Young Lives",
+    "author": "Le Gallienne, Richard",
+    "authorFullName": "Richard Le Gallienne",
+    "authorId": "l#a246"
+  },
+  {
+    "id": "21506",
+    "title": "The Young LlaneroA Story of War and Wild Life in Venezuela",
+    "titleBase": "Young LlaneroA Story of War and Wild Life in Venezuela",
+    "author": "Kingston, William Henry Giles",
+    "authorFullName": "William Henry Giles Kingston",
+    "authorId": "k#a8659"
+  },
+  {
+    "id": "24403",
+    "title": "The Young Lord and Other Talesto which is added Victorine Durocher",
+    "titleBase": "Young Lord and Other Talesto which is added Victorine Durocher",
+    "author": "Crosland, Newton, Mrs.",
+    "authorFullName": "Newton Mrs. Crosland",
+    "authorId": "c#a26462"
+  },
+  {
+    "id": "24403",
+    "title": "The Young Lord and Other Talesto which is added Victorine Durocher",
+    "titleBase": "Young Lord and Other Talesto which is added Victorine Durocher",
+    "author": "Mason, Walter George",
+    "authorFullName": "Walter George Mason",
+    "authorId": "m#a6947"
+  },
+  {
+    "id": "24403",
+    "title": "The Young Lord and Other Talesto which is added Victorine Durocher",
+    "titleBase": "Young Lord and Other Talesto which is added Victorine Durocher",
+    "author": "Sherwood, Mrs. (Mary Martha)",
+    "authorFullName": "Mrs. (Mary Martha) Sherwood",
+    "authorId": "s#a4312"
+  },
+  {
+    "id": "24403",
+    "title": "The Young Lord and Other Talesto which is added Victorine Durocher",
+    "titleBase": "Young Lord and Other Talesto which is added Victorine Durocher",
+    "author": "Weir, Harrison",
+    "authorFullName": "Harrison Weir",
+    "authorId": "w#a8210"
+  },
+  {
+    "id": "42801",
+    "title": "The Young LovellA Romance",
+    "titleBase": "Young LovellA Romance",
+    "author": "Ford, Ford Madox",
+    "authorFullName": "Ford Madox Ford",
+    "authorId": "f#a1016"
+  },
+  {
+    "id": "19766",
+    "title": "Young Lucretia and Other Stories",
+    "titleBase": "Young Lucretia and Other Stories",
+    "author": "Freeman, Mary Eleanor Wilkins",
+    "authorFullName": "Mary Eleanor Wilkins Freeman",
+    "authorId": "f#a495"
+  },
+  {
+    "id": "24524",
+    "title": "The Young Maiden",
+    "titleBase": "Young Maiden",
+    "author": "Muzzey, A. B. (Artemas Bowers)",
+    "authorFullName": "A. B. (Artemas Bowers) Muzzey",
+    "authorId": "m#a26553"
+  },
+  {
+    "id": "17110",
+    "title": "The Young Man and the World",
+    "titleBase": "Young Man and the World",
+    "author": "Beveridge, Albert Jeremiah",
+    "authorFullName": "Albert Jeremiah Beveridge",
+    "authorId": "b#a7144"
+  },
+  {
+    "id": "27374",
+    "title": "A Young Man in a Hurry, and Other Short Stories",
+    "titleBase": "Young Man in a Hurry, and Other Short Stories",
+    "author": "Chambers, Robert W. (Robert William)",
+    "authorFullName": "Robert W. (Robert William) Chambers",
+    "authorId": "c#a1618"
+  },
+  {
+    "id": "31494",
+    "title": "The Young Man in Business",
+    "titleBase": "Young Man in Business",
+    "author": "Bok, Edward William",
+    "authorFullName": "Edward William Bok",
+    "authorId": "b#a1223"
+  },
+  {
+    "id": "23860",
+    "title": "The Young Man's Guide",
+    "titleBase": "Young Man's Guide",
+    "author": "Alcott, William A. (William Andrus)",
+    "authorFullName": "William A. (William Andrus) Alcott",
+    "authorId": "a#a2959"
+  },
+  {
+    "id": "43083",
+    "title": "A Young Man's Year",
+    "titleBase": "Young Man's Year",
+    "author": "Hope, Anthony",
+    "authorFullName": "Anthony Hope",
+    "authorId": "h#a63"
+  },
+  {
+    "id": "42066",
+    "title": "The Young Marooners on the Florida Coast",
+    "titleBase": "Young Marooners on the Florida Coast",
+    "author": "Goulding, F. R.",
+    "authorFullName": "F. R. Goulding",
+    "authorId": "g#a41506"
+  },
+  {
+    "id": "22669",
+    "title": "The Young Miner; Or, Tom Nelson in California",
+    "titleBase": "Young Miner; Or, Tom Nelson in California",
+    "author": "Alger, Horatio",
+    "authorFullName": "Horatio Alger",
+    "authorId": "a#a168"
+  },
+  {
+    "id": "10482",
+    "title": "The Young MotherManagement of Children in Regard to Health",
+    "titleBase": "Young MotherManagement of Children in Regard to Health",
+    "author": "Alcott, William A. (William Andrus)",
+    "authorFullName": "William A. (William Andrus) Alcott",
+    "authorId": "a#a2959"
+  },
+  {
+    "id": "20365",
+    "title": "The Young Mountaineers: Short Stories",
+    "titleBase": "Young Mountaineers: Short Stories",
+    "author": "Fraser, Malcolm",
+    "authorFullName": "Malcolm Fraser",
+    "authorId": "f#a9249"
+  },
+  {
+    "id": "20365",
+    "title": "The Young Mountaineers: Short Stories",
+    "titleBase": "Young Mountaineers: Short Stories",
+    "author": "Murfree, Mary Noailles",
+    "authorFullName": "Mary Noailles Murfree",
+    "authorId": "m#a1759"
+  },
+  {
+    "id": "22272",
+    "title": "Young Mr. Barter's RepentanceFrom \"Schwartz\" by David Christie Murray",
+    "titleBase": "Young Mr. Barter's RepentanceFrom \"Schwartz\" by David Christie Murray",
+    "author": "Murray, David Christie",
+    "authorFullName": "David Christie Murray",
+    "authorId": "m#a25179"
+  },
+  {
+    "id": "5673",
+    "title": "The Young Musician ; Or, Fighting His Way",
+    "titleBase": "Young Musician ; Or, Fighting His Way",
+    "author": "Alger, Horatio",
+    "authorFullName": "Horatio Alger",
+    "authorId": "a#a168"
+  },
+  {
+    "id": "24599",
+    "title": "A Young Mutineer",
+    "titleBase": "Young Mutineer",
+    "author": "Meade, L. T.",
+    "authorFullName": "L. T. Meade",
+    "authorId": "m#a1621"
+  },
+  {
+    "id": "26218",
+    "title": "The Young Oarsmen of Lakeview",
+    "titleBase": "Young Oarsmen of Lakeview",
+    "author": "Stratemeyer, Edward",
+    "authorFullName": "Edward Stratemeyer",
+    "authorId": "s#a1626"
+  },
+  {
+    "id": "44045",
+    "title": "Young Oliver: or the Thoughtless BoyA Tale",
+    "titleBase": "Young Oliver: or the Thoughtless BoyA Tale",
+    "author": "Anonymous",
+    "authorFullName": "Anonymous",
+    "authorId": "a#a216"
+  },
+  {
+    "id": "26016",
+    "title": "The Young Outlawor, Adrift in the Streets",
+    "titleBase": "Young Outlawor, Adrift in the Streets",
+    "author": "Alger, Horatio",
+    "authorFullName": "Horatio Alger",
+    "authorId": "a#a168"
+  },
+  {
+    "id": "17993",
+    "title": "Young Peoples' History of the War with Spain",
+    "titleBase": "Young Peoples' History of the War with Spain",
+    "author": "Holmes, Prescott",
+    "authorFullName": "Prescott Holmes",
+    "authorId": "h#a7738"
+  },
+  {
+    "id": "8403",
+    "title": "Young People's Pride: A Novel",
+    "titleBase": "Young People's Pride: A Novel",
+    "author": "Benét, Stephen Vincent",
+    "authorFullName": "Stephen Vincent Benét",
+    "authorId": "b#a174"
+  },
+  {
+    "id": "39864",
+    "title": "The Young People's Wesley",
+    "titleBase": "Young People's Wesley",
+    "author": "Mallalieu, Bishop W. F.",
+    "authorFullName": "Bishop W. F. Mallalieu",
+    "authorId": "m#a40274"
+  },
+  {
+    "id": "39864",
+    "title": "The Young People's Wesley",
+    "titleBase": "Young People's Wesley",
+    "author": "McDonald, W.",
+    "authorFullName": "W. McDonald",
+    "authorId": "m#a40273"
+  },
+  {
+    "id": "19246",
+    "title": "The Young Pitcher",
+    "titleBase": "Young Pitcher",
+    "author": "Grey, Zane",
+    "authorFullName": "Zane Grey",
+    "authorId": "g#a212"
+  },
+  {
+    "id": "16330",
+    "title": "The Young Priest's Keepsake",
+    "titleBase": "Young Priest's Keepsake",
+    "author": "Phelan, Michael J.",
+    "authorFullName": "Michael J. Phelan",
+    "authorId": "p#a6627"
+  },
+  {
+    "id": "25868",
+    "title": "The Young Railroaders\rTales of Adventure and Ingenuity",
+    "titleBase": "Young Railroaders\rTales of Adventure and Ingenuity",
+    "author": "Coombs, Francis Lovell",
+    "authorFullName": "Francis Lovell Coombs",
+    "authorId": "c#a31628"
+  },
+  {
+    "id": "21485",
+    "title": "The Young Rajah",
+    "titleBase": "Young Rajah",
+    "author": "Gruine, W. G. C.",
+    "authorFullName": "W. G. C. Gruine",
+    "authorId": "g#a24743"
+  },
+  {
+    "id": "21485",
+    "title": "The Young Rajah",
+    "titleBase": "Young Rajah",
+    "author": "Kingston, William Henry Giles",
+    "authorFullName": "William Henry Giles Kingston",
+    "authorId": "k#a8659"
+  },
+  {
+    "id": "28331",
+    "title": "The Young Ranchers; Or, Fighting the Sioux",
+    "titleBase": "Young Ranchers; Or, Fighting the Sioux",
+    "author": "Ellis, Edward Sylvester",
+    "authorFullName": "Edward Sylvester Ellis",
+    "authorId": "e#a2569"
+  },
+  {
+    "id": "11097",
+    "title": "Young Robin Hood",
+    "titleBase": "Young Robin Hood",
+    "author": "Fenn, George Manville",
+    "authorFullName": "George Manville Fenn",
+    "authorId": "f#a3840"
+  },
+  {
+    "id": "5763",
+    "title": "Young's Demonstrative Translation of Scientific Secrets\rOr, A Collection of Above 500 Useful Receipts on a Variety of Subjects",
+    "titleBase": "Young's Demonstrative Translation of Scientific Secrets\rOr, A Collection of Above 500 Useful Receipts on a Variety of Subjects",
+    "author": "Young, Daniel",
+    "authorFullName": "Daniel Young",
+    "authorId": "y#a1867"
+  },
+  {
+    "id": "15256",
+    "title": "The Young SeigneurOr, Nation-Making",
+    "titleBase": "Young SeigneurOr, Nation-Making",
+    "author": "Lighthall, W. D. (William Douw)",
+    "authorFullName": "W. D. (William Douw) Lighthall",
+    "authorId": "l#a5584"
+  },
+  {
+    "id": "39473",
+    "title": "The Young Sharpshooter at Antietam",
+    "titleBase": "Young Sharpshooter at Antietam",
+    "author": "Tomlinson, Everett T. (Everett Titsworth)",
+    "authorFullName": "Everett T. (Everett Titsworth) Tomlinson",
+    "authorId": "t#a6299"
+  },
+  {
+    "id": "33156",
+    "title": "Young's Night ThoughtsWith Life, Critical Dissertation and Explanatory Notes",
+    "titleBase": "Young's Night ThoughtsWith Life, Critical Dissertation and Explanatory Notes",
+    "author": "Gilfillan, George",
+    "authorFullName": "George Gilfillan",
+    "authorId": "g#a3126"
+  },
+  {
+    "id": "33156",
+    "title": "Young's Night ThoughtsWith Life, Critical Dissertation and Explanatory Notes",
+    "titleBase": "Young's Night ThoughtsWith Life, Critical Dissertation and Explanatory Notes",
+    "author": "Young, Edward",
+    "authorFullName": "Edward Young",
+    "authorId": "y#a8278"
+  },
+  {
+    "id": "23315",
+    "title": "Young Soldier",
+    "titleBase": "Young Soldier",
+    "author": "Anonymous",
+    "authorFullName": "Anonymous",
+    "authorId": "a#a216"
+  },
+  {
+    "id": "5843",
+    "title": "The Young Step-Mother; Or, A Chronicle of Mistakes",
+    "titleBase": "Young Step-Mother; Or, A Chronicle of Mistakes",
+    "author": "Yonge, Charlotte M. (Charlotte Mary)",
+    "authorFullName": "Charlotte M. (Charlotte Mary) Yonge",
+    "authorId": "y#a945"
+  },
+  {
+    "id": "28680",
+    "title": "The Young Surveyor; Or, Jack on the Prairies",
+    "titleBase": "Young Surveyor; Or, Jack on the Prairies",
+    "author": "Trowbridge, J. T. (John Townsend)",
+    "authorFullName": "J. T. (John Townsend) Trowbridge",
+    "authorId": "t#a9020"
+  },
+  {
+    "id": "28986",
+    "title": "Young Swaigder; or, The Force of Runes, and Other Ballads",
+    "titleBase": "Young Swaigder; or, The Force of Runes, and Other Ballads",
+    "author": "Borrow, George",
+    "authorFullName": "George Borrow",
+    "authorId": "b#a4383"
+  },
+  {
+    "id": "28986",
+    "title": "Young Swaigder; or, The Force of Runes, and Other Ballads",
+    "titleBase": "Young Swaigder; or, The Force of Runes, and Other Ballads",
+    "author": "Wise, Thomas James",
+    "authorFullName": "Thomas James Wise",
+    "authorId": "w#a31678"
+  },
+  {
+    "id": "21089",
+    "title": "Young Tom BowlingThe Boys of the British Navy",
+    "titleBase": "Young Tom BowlingThe Boys of the British Navy",
+    "author": "Greene, John B.",
+    "authorFullName": "John B. Greene",
+    "authorId": "g#a9736"
+  },
+  {
+    "id": "21089",
+    "title": "Young Tom BowlingThe Boys of the British Navy",
+    "titleBase": "Young Tom BowlingThe Boys of the British Navy",
+    "author": "Hutcheson, John C. (John Conroy)",
+    "authorFullName": "John C. (John Conroy) Hutcheson",
+    "authorId": "h#a9724"
+  },
+  {
+    "id": "19477",
+    "title": "The Young TrailersA Story of Early Kentucky",
+    "titleBase": "Young TrailersA Story of Early Kentucky",
+    "author": "Altsheler, Joseph A. (Joseph Alexander)",
+    "authorFullName": "Joseph A. (Joseph Alexander) Altsheler",
+    "authorId": "a#a2561"
+  },
+  {
+    "id": "10810",
+    "title": "The Young Trail Hunters\rOr, the Wild Riders of the Plains. The Veritable Adventures of Hal Hyde and Ned Brown, on Their Journey Across the Great Plains of the South-West",
+    "titleBase": "Young Trail Hunters\rOr, the Wild Riders of the Plains. The Veritable Adventures of Hal Hyde and Ned Brown, on Their Journey Across the Great Plains of the South-West",
+    "author": "Cozzens, Samuel Woodworth",
+    "authorFullName": "Samuel Woodworth Cozzens",
+    "authorId": "c#a3693"
+  },
+  {
+    "id": "21713",
+    "title": "The Young Trawler",
+    "titleBase": "Young Trawler",
+    "author": "Ballantyne, R. M. (Robert Michael)",
+    "authorFullName": "R. M. (Robert Michael) Ballantyne",
+    "authorId": "b#a333"
+  },
+  {
+    "id": "20922",
+    "title": "The Young Treasure Hunter; Or, Fred Stanley's Trip to Alaska",
+    "titleBase": "Young Treasure Hunter; Or, Fred Stanley's Trip to Alaska",
+    "author": "Webster, Frank V.",
+    "authorFullName": "Frank V. Webster",
+    "authorId": "w#a1955"
+  },
+  {
+    "id": "21415",
+    "title": "The Young Visiters or, Mr. Salteena's Plan",
+    "titleBase": "Young Visiters or, Mr. Salteena's Plan",
+    "author": "Ashford, Daisy",
+    "authorFullName": "Daisy Ashford",
+    "authorId": "a#a9908"
+  },
+  {
+    "id": "21415",
+    "title": "The Young Visiters or, Mr. Salteena's Plan",
+    "titleBase": "Young Visiters or, Mr. Salteena's Plan",
+    "author": "Barrie, J. M. (James Matthew)",
+    "authorFullName": "J. M. (James Matthew) Barrie",
+    "authorId": "b#a10"
+  },
+  {
+    "id": "23129",
+    "title": "The Young Voyageurs: Boy Hunters in the North",
+    "titleBase": "Young Voyageurs: Boy Hunters in the North",
+    "author": "Harvey, William",
+    "authorFullName": "William Harvey",
+    "authorId": "h#a25917"
+  },
+  {
+    "id": "23129",
+    "title": "The Young Voyageurs: Boy Hunters in the North",
+    "titleBase": "Young Voyageurs: Boy Hunters in the North",
+    "author": "Reid, Mayne",
+    "authorFullName": "Mayne Reid",
+    "authorId": "r#a6260"
+  },
+  {
+    "id": "32897",
+    "title": "Young Wallingford",
+    "titleBase": "Young Wallingford",
+    "author": "Chester, George Randolph",
+    "authorFullName": "George Randolph Chester",
+    "authorId": "c#a1465"
+  },
+  {
+    "id": "20617",
+    "title": "Young Wild West at \"Forbidden Pass\"and, How Arietta Paid the Toll",
+    "titleBase": "Young Wild West at \"Forbidden Pass\"and, How Arietta Paid the Toll",
+    "author": "Old scout",
+    "authorFullName": "Old scout",
+    "authorId": "o#a9416"
+  },
+  {
+    "id": "12839",
+    "title": "The Young Wireless Operator—As a Fire PatrolThe Story of a Young Wireless Amateur Who Made Good as a Fire Patrol",
+    "titleBase": "Young Wireless Operator—As a Fire PatrolThe Story of a Young Wireless Amateur Who Made Good as a Fire Patrol",
+    "author": "Theiss, Lewis E. (Lewis Edwin)",
+    "authorFullName": "Lewis E. (Lewis Edwin) Theiss",
+    "authorId": "t#a4662"
+  },
+  {
+    "id": "9054",
+    "title": "The Young Woman's Guide",
+    "titleBase": "Young Woman's Guide",
+    "author": "Alcott, William A. (William Andrus)",
+    "authorFullName": "William A. (William Andrus) Alcott",
+    "authorId": "a#a2959"
+  },
+  {
+    "id": "9968",
+    "title": "The Young Woodsman\rOr, Life in the Forests of Canada",
+    "titleBase": "Young Woodsman\rOr, Life in the Forests of Canada",
+    "author": "Oxley, J. Macdonald (James Macdonald)",
+    "authorFullName": "J. Macdonald (James Macdonald) Oxley",
+    "authorId": "o#a3223"
+  },
+  {
+    "id": "34668",
+    "title": "The Young YagersA Narrative of Hunting Adventures in Southern Africa",
+    "titleBase": "Young YagersA Narrative of Hunting Adventures in Southern Africa",
+    "author": "Harvey, William Fryer",
+    "authorFullName": "William Fryer Harvey",
+    "authorId": "h#a5882"
+  },
+  {
+    "id": "34668",
+    "title": "The Young YagersA Narrative of Hunting Adventures in Southern Africa",
+    "titleBase": "Young YagersA Narrative of Hunting Adventures in Southern Africa",
+    "author": "Reid, Mayne",
+    "authorFullName": "Mayne Reid",
+    "authorId": "r#a6260"
+  },
+  {
+    "id": "16495",
+    "title": "Your Boys",
+    "titleBase": "Your Boys",
+    "author": "Smith, Gipsy",
+    "authorFullName": "Gipsy Smith",
+    "authorId": "s#a6750"
+  },
+  {
+    "id": "9917",
+    "title": "Your Child: Today and Tomorrow\rSome Problems for Parents Concerning Punishment, Reasoning, Lies, Ideals and Ambitions, Fear, Work and Play, Imagination, Social Activities, Obedience, Adolescence, Will, Heredity",
+    "titleBase": "Your Child: Today and Tomorrow\rSome Problems for Parents Concerning Punishment, Reasoning, Lies, Ideals and Ambitions, Fear, Work and Play, Imagination, Social Activities, Obedience, Adolescence, Will, Heredity",
+    "author": "Gruenberg, Sidonie Matsner",
+    "authorFullName": "Sidonie Matsner Gruenberg",
+    "authorId": "g#a3202"
+  },
+  {
+    "id": "42055",
+    "title": "Your Mind and How to Use It: A Manual of Practical Psychology",
+    "titleBase": "Your Mind and How to Use It: A Manual of Practical Psychology",
+    "author": "Atkinson, William Walker",
+    "authorFullName": "William Walker Atkinson",
+    "authorId": "a#a4862"
+  },
+  {
+    "id": "42248",
+    "title": "Your National ParksWith Detailed Information for Tourists",
+    "titleBase": "Your National ParksWith Detailed Information for Tourists",
+    "author": "Mills, Enos Abijah",
+    "authorFullName": "Enos Abijah Mills",
+    "authorId": "m#a33404"
+  },
+  {
+    "id": "42248",
+    "title": "Your National ParksWith Detailed Information for Tourists",
+    "titleBase": "Your National ParksWith Detailed Information for Tourists",
+    "author": "Schmeckebier, Laurence F.",
+    "authorFullName": "Laurence F. Schmeckebier",
+    "authorId": "s#a41592"
+  },
+  {
+    "id": "35256",
+    "title": "Your Negro Neighbor",
+    "titleBase": "Your Negro Neighbor",
+    "author": "Brawley, Benjamin Griffith",
+    "authorFullName": "Benjamin Griffith Brawley",
+    "authorId": "b#a4226"
+  },
+  {
+    "id": "21442",
+    "title": "Your PlantsPlain and Practical Directions for the Treatment of Tenderand Hardy Plants in the House and in the Garden",
+    "titleBase": "Your PlantsPlain and Practical Directions for the Treatment of Tenderand Hardy Plants in the House and in the Garden",
+    "author": "Sheehan, James",
+    "authorFullName": "James Sheehan",
+    "authorId": "s#a9923"
+  },
+  {
+    "id": "15063",
+    "title": "Your United States: Impressions of a first visit",
+    "titleBase": "Your United States: Impressions of a first visit",
+    "author": "Bennett, Arnold",
+    "authorFullName": "Arnold Bennett",
+    "authorId": "b#a859"
+  },
+  {
+    "id": "15063",
+    "title": "Your United States: Impressions of a first visit",
+    "titleBase": "Your United States: Impressions of a first visit",
+    "author": "Craig, Frank",
+    "authorFullName": "Frank Craig",
+    "authorId": "c#a32640"
+  },
+  {
+    "id": "20584",
+    "title": "You Should Worry Says John Henry",
+    "titleBase": "You Should Worry Says John Henry",
+    "author": "Hobart, George V. (George Vere)",
+    "authorFullName": "George V. (George Vere) Hobart",
+    "authorId": "h#a4454"
+  },
+  {
+    "id": "31547",
+    "title": "Youth",
+    "titleBase": "Youth",
+    "author": "Asimov, Isaac",
+    "authorFullName": "Isaac Asimov",
+    "authorId": "a#a35316"
+  },
+  {
+    "id": "9361",
+    "title": "Youth",
+    "titleBase": "Youth",
+    "author": "Conrad, Joseph",
+    "authorFullName": "Joseph Conrad",
+    "authorId": "c#a125"
+  },
+  {
+    "id": "2637",
+    "title": "Youth",
+    "titleBase": "Youth",
+    "author": "Hogarth, C. J.",
+    "authorFullName": "C. J. Hogarth",
+    "authorId": "h#a835"
+  },
+  {
+    "id": "2637",
+    "title": "Youth",
+    "titleBase": "Youth",
+    "author": "Tolstoy, Leo, graf",
+    "authorFullName": "Leo graf Tolstoy",
+    "authorId": "t#a136"
+  },
+  {
+    "id": "28843",
+    "title": "Youth, a Narrative",
+    "titleBase": "Youth, a Narrative",
+    "author": "Conrad, Joseph",
+    "authorFullName": "Joseph Conrad",
+    "authorId": "c#a125"
+  },
+  {
+    "id": "525",
+    "title": "Youth, a Narrative",
+    "titleBase": "Youth, a Narrative",
+    "author": "Conrad, Joseph",
+    "authorFullName": "Joseph Conrad",
+    "authorId": "c#a125"
+  },
+  {
+    "id": "8148",
+    "title": "Youth and Egolatry",
+    "titleBase": "Youth and Egolatry",
+    "author": "Baroja, Pío",
+    "authorFullName": "Pío Baroja",
+    "authorId": "b#a2669"
+  },
+  {
+    "id": "8148",
+    "title": "Youth and Egolatry",
+    "titleBase": "Youth and Egolatry",
+    "author": "Fassett, Jacob S. (Jacob Sloat)",
+    "authorFullName": "Jacob S. (Jacob Sloat) Fassett",
+    "authorId": "f#a4789"
+  },
+  {
+    "id": "8148",
+    "title": "Youth and Egolatry",
+    "titleBase": "Youth and Egolatry",
+    "author": "Mencken, H. L. (Henry Louis)",
+    "authorFullName": "H. L. (Henry Louis) Mencken",
+    "authorId": "m#a578"
+  },
+  {
+    "id": "8148",
+    "title": "Youth and Egolatry",
+    "titleBase": "Youth and Egolatry",
+    "author": "Phillips, Frances L.",
+    "authorFullName": "Frances L. Phillips",
+    "authorId": "p#a4790"
+  },
+  {
+    "id": "13722",
+    "title": "Youth and Sex\rDangers and Safeguards for Girls and Boys",
+    "titleBase": "Youth and Sex\rDangers and Safeguards for Girls and Boys",
+    "author": "Scharlieb, Mary",
+    "authorFullName": "Mary Scharlieb",
+    "authorId": "s#a5196"
+  },
+  {
+    "id": "13722",
+    "title": "Youth and Sex\rDangers and Safeguards for Girls and Boys",
+    "titleBase": "Youth and Sex\rDangers and Safeguards for Girls and Boys",
+    "author": "Sibly, Frederick Arthur",
+    "authorFullName": "Frederick Arthur Sibly",
+    "authorId": "s#a5197"
+  },
+  {
+    "id": "13555",
+    "title": "Youth and the Bright Medusa",
+    "titleBase": "Youth and the Bright Medusa",
+    "author": "Cather, Willa",
+    "authorFullName": "Willa Cather",
+    "authorId": "c#a22"
+  },
+  {
+    "id": "5797",
+    "title": "Youth Challenges",
+    "titleBase": "Youth Challenges",
+    "author": "Kelland, Clarence Budington",
+    "authorFullName": "Clarence Budington Kelland",
+    "authorId": "k#a4987"
+  },
+  {
+    "id": "10638",
+    "title": "The Youthful Wanderer\rAn Account of a Tour through England, France, Belgium, Holland, Germany and the Rhine, Switzerland, Italy, and Egypt, Adapted to the Wants of Young Americans Taking Their First Glimpses at the Old World",
+    "titleBase": "Youthful Wanderer\rAn Account of a Tour through England, France, Belgium, Holland, Germany and the Rhine, Switzerland, Italy, and Egypt, Adapted to the Wants of Young Americans Taking Their First Glimpses at the Old World",
+    "author": "Heffner, George H.",
+    "authorFullName": "George H. Heffner",
+    "authorId": "h#a3616"
+  },
+  {
+    "id": "9173",
+    "title": "Youth: Its Education, Regimen, and Hygiene",
+    "titleBase": "Youth: Its Education, Regimen, and Hygiene",
+    "author": "Hall, G. Stanley (Granville Stanley)",
+    "authorFullName": "G. Stanley (Granville Stanley) Hall",
+    "authorId": "h#a2990"
+  },
+  {
+    "id": "19753",
+    "title": "The Youth of Goethe",
+    "titleBase": "Youth of Goethe",
+    "author": "Brown, Peter Hume",
+    "authorFullName": "Peter Hume Brown",
+    "authorId": "b#a8863"
+  },
+  {
+    "id": "23283",
+    "title": "The Youth of Jefferson\rOr, a Chronicle of College Scrapes at Williamsburg, in Virginia, A.D. 1764",
+    "titleBase": "Youth of Jefferson\rOr, a Chronicle of College Scrapes at Williamsburg, in Virginia, A.D. 1764",
+    "author": "Cooke, John Esten",
+    "authorFullName": "John Esten Cooke",
+    "authorId": "c#a2736"
+  },
+  {
+    "id": "41682",
+    "title": "The Youth of Parnassus and Other Stories",
+    "titleBase": "Youth of Parnassus and Other Stories",
+    "author": "Smith, Logan Pearsall",
+    "authorFullName": "Logan Pearsall Smith",
+    "authorId": "s#a2793"
+  },
+  {
+    "id": "22242",
+    "title": "The Youth's CompanionVolume LII, Number 11, Thursday, March 13, 1879",
+    "titleBase": "Youth's CompanionVolume LII, Number 11, Thursday, March 13, 1879",
+    "author": "Various",
+    "authorFullName": "Various",
+    "authorId": "v#a116"
+  },
+  {
+    "id": "11432",
+    "title": "The Youth's Coronal",
+    "titleBase": "Youth's Coronal",
+    "author": "Gould, Hannah Flagg",
+    "authorFullName": "Hannah Flagg Gould",
+    "authorId": "g#a3979"
+  },
+  {
+    "id": "32907",
+    "title": "You Too Can Be A Millionaire",
+    "titleBase": "You Too Can Be A Millionaire",
+    "author": "Loomis, Noel M.",
+    "authorFullName": "Noel M. Loomis",
+    "authorId": "l#a35155"
+  },
+  {
+    "id": "44234",
+    "title": "Ypres 1914An Official Account Published by Order of the German General Staff",
+    "titleBase": "Ypres 1914An Official Account Published by Order of the German General Staff",
+    "author": "Schwink, Otto",
+    "authorFullName": "Otto Schwink",
+    "authorId": "s#a42644"
+  },
+  {
+    "id": "44234",
+    "title": "Ypres 1914An Official Account Published by Order of the German General Staff",
+    "titleBase": "Ypres 1914An Official Account Published by Order of the German General Staff",
+    "author": "Wynne, Graeme Chamley",
+    "authorFullName": "Graeme Chamley Wynne",
+    "authorId": "w#a42645"
+  },
+  {
+    "id": "36213",
+    "title": "Ypres and the Battles of Ypres",
+    "titleBase": "Ypres and the Battles of Ypres",
+    "author": "Unknown",
+    "authorFullName": "Unknown",
+    "authorId": "u#a49"
+  },
+  {
+    "id": "8194",
+    "title": "Yr Hwiangerddi",
+    "titleBase": "Yr Hwiangerddi",
+    "author": "Edwards, Owen Morgan, Sir",
+    "authorFullName": "Owen Morgan Sir Edwards",
+    "authorId": "e#a1144"
+  },
+  {
+    "id": "16652",
+    "title": "Yrjänä Kailanen ja hänen poikansaKuvauksia Ruotsin suomalaisten elämästä ja eränkäynnistäWermlannin ja Taalain metsäseuduilla",
+    "titleBase": "Yrjänä Kailanen ja hänen poikansaKuvauksia Ruotsin suomalaisten elämästä ja eränkäynnistäWermlannin ja Taalain metsäseuduilla",
+    "author": "Schröder, Gustaf",
+    "authorFullName": "Gustaf Schröder",
+    "authorId": "s#a6847"
+  },
+  {
+    "id": "18808",
+    "title": "Yrjö Aukusti Wallin ja hänen matkansa Arabiassa",
+    "titleBase": "Yrjö Aukusti Wallin ja hänen matkansa Arabiassa",
+    "author": "Krohn, Julius",
+    "authorFullName": "Julius Krohn",
+    "authorId": "k#a4607"
+  },
+  {
+    "id": "23090",
+    "title": "Yr Ynys UnygThe Lonely Island",
+    "titleBase": "Yr Ynys UnygThe Lonely Island",
+    "author": "Winton, Julia de",
+    "authorFullName": "Julia de Winton",
+    "authorId": "w#a25668"
+  },
+  {
+    "id": "37474",
+    "title": "Ystäväni kertomus",
+    "titleBase": "Ystäväni kertomus",
+    "author": "Roos, Mathilda",
+    "authorFullName": "Mathilda Roos",
+    "authorId": "r#a5981"
+  },
+  {
+    "id": "21548",
+    "title": "Ystävykset",
+    "titleBase": "Ystävykset",
+    "author": "Ouida",
+    "authorFullName": "Ouida",
+    "authorId": "o#a1204"
+  },
+  {
+    "id": "21548",
+    "title": "Ystävykset",
+    "titleBase": "Ystävykset",
+    "author": "Ramstedt, Maria",
+    "authorFullName": "Maria Ramstedt",
+    "authorId": "r#a24781"
+  },
+  {
+    "id": "19527",
+    "title": "The Yukon Trail: A Tale of the North",
+    "titleBase": "Yukon Trail: A Tale of the North",
+    "author": "Raine, William MacLeod",
+    "authorFullName": "William MacLeod Raine",
+    "authorId": "r#a713"
+  },
+  {
+    "id": "19527",
+    "title": "The Yukon Trail: A Tale of the North",
+    "titleBase": "Yukon Trail: A Tale of the North",
+    "author": "Wolfe, George Ellis",
+    "authorFullName": "George Ellis Wolfe",
+    "authorId": "w#a34058"
+  },
+  {
+    "id": "40056",
+    "title": "Yule LogsLongmans' Christmas Annual for 1898",
+    "titleBase": "Yule LogsLongmans' Christmas Annual for 1898",
+    "author": "Henty, G. A. (George Alfred)",
+    "authorFullName": "G. A. (George Alfred) Henty",
+    "authorId": "h#a1032"
+  },
+  {
+    "id": "40056",
+    "title": "Yule LogsLongmans' Christmas Annual for 1898",
+    "titleBase": "Yule LogsLongmans' Christmas Annual for 1898",
+    "author": "Various",
+    "authorFullName": "Various",
+    "authorId": "v#a116"
+  },
+  {
+    "id": "18570",
+    "title": "Yule-Tide in Many Lands",
+    "titleBase": "Yule-Tide in Many Lands",
+    "author": "Bridgman, L. J. (Lewis Jesse)",
+    "authorFullName": "L. J. (Lewis Jesse) Bridgman",
+    "authorId": "b#a8122"
+  },
+  {
+    "id": "18570",
+    "title": "Yule-Tide in Many Lands",
+    "titleBase": "Yule-Tide in Many Lands",
+    "author": "Pringle, Mary Poague",
+    "authorFullName": "Mary Poague Pringle",
+    "authorId": "p#a8120"
+  },
+  {
+    "id": "18570",
+    "title": "Yule-Tide in Many Lands",
+    "titleBase": "Yule-Tide in Many Lands",
+    "author": "Urann, Clara A.",
+    "authorFullName": "Clara A. Urann",
+    "authorId": "u#a8121"
+  },
+  {
+    "id": "21378",
+    "title": "Yussuf the Guide; Or, the Mountain Bandits\rBeing a Story of Strange Adventure in Asia Minor",
+    "titleBase": "Yussuf the Guide; Or, the Mountain Bandits\rBeing a Story of Strange Adventure in Asia Minor",
+    "author": "Fenn, George Manville",
+    "authorFullName": "George Manville Fenn",
+    "authorId": "f#a3840"
+  },
+  {
+    "id": "21378",
+    "title": "Yussuf the Guide; Or, the Mountain Bandits\rBeing a Story of Strange Adventure in Asia Minor",
+    "titleBase": "Yussuf the Guide; Or, the Mountain Bandits\rBeing a Story of Strange Adventure in Asia Minor",
+    "author": "Schönberg, John",
+    "authorFullName": "John Schönberg",
+    "authorId": "s#a9891"
+  },
+  {
+    "id": "3664",
+    "title": "Yvette",
+    "titleBase": "Yvette",
+    "author": "Maupassant, Guy de",
+    "authorFullName": "Guy de Maupassant",
+    "authorId": "m#a306"
+  },
+  {
+    "id": "42563",
+    "title": "Yvonne",
+    "titleBase": "Yvonne",
+    "author": "Delpit, Édouard",
+    "authorFullName": "Édouard Delpit",
+    "authorId": "d#a41743"
+  }
+]
