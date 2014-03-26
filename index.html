@@ -3,6 +3,7 @@
 
 <head>
     <title>angular-fast-matcher</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootswatch/3.1.1/superhero/bootstrap.min.css" />
     <link rel="stylesheet" href="//yandex.st/highlightjs/8.0/styles/mono-blue.min.css">
     <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js"></script>
@@ -11,18 +12,11 @@
     <script src="demo.js"></script>
 
     <style>
+        body { overflow-y: scroll; }
         .page-header { text-align: center; }
         .page-header a { font-weight: bold; }
         .nav { margin-bottom: 15px; }
-        .definition-list { display: table; padding-left: 0; }
-        .definition-list li { display: table-row; }
-        .definition-list li .part-of-speech,
-        .definition-list li .definition {
-            display: table-cell;
-            padding-right: 1em;
-        }
-        .part-of-speech:before { content: "("; }
-        .part-of-speech:after { content: ")"; }
+        .compact-book-view { overflow-x: hidden; text-overflow: ellipsis; }
         .modal { display: block; background-color: rgba(0, 0, 0, 0.75); }
         .modal-dialog {
             display: block;
@@ -46,7 +40,7 @@
 
 <body ng-controller="DemoController">
     <div class="container">
-        <div class="page-header">
+        <div class="page-header hidden-xs">
             <h1>angular-fast-matcher demo</h1>
             <p class="lead">
                 <strong>angular-fast-matcher</strong> is an Angular directive that uses the
@@ -60,6 +54,11 @@
                 <a href="http://www.gutenberg.org/" target="_blank">Project Gutenberg</a>.
             </p>
         </div>
+
+        <h3 class="text-right visible-xs">
+            angular-fast-matcher-demo<br />
+            <small><a href="https://github.com/dtao/angular-fast-matcher">Source on GitHub</a></small>
+        </h3>
 
         <ul class="nav nav-pills">
             <li class="{{getTabClass('demo')}}">
@@ -90,8 +89,15 @@
                     target="_blank"
                     class="list-group-item {{$index == currentBookIndex ? 'active' : ''}}">
 
-                    <h3 class="list-group-item-heading">{{book.title}}</h3>
-                    <p>{{book.author}}</p>
+                    <div class="full-book-view hidden-xs">
+                        <h3 class="list-group-item-heading">{{book.title}}</h3>
+                        <p>{{book.author}}</p>
+                    </div>
+
+                    <div class="compact-book-view visible-xs">
+                        <strong>{{book.title}}</strong>
+                        <small>{{book.author}}</small>
+                    </div>
                 </a>
             </div>
         </div>
@@ -159,6 +165,8 @@
 &lt;/ul&gt;</code></pre>
         </div>
     </div>
+
+    <a href="https://github.com/dtao/angular-fast-matcher" class="hidden-xs"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://camo.githubusercontent.com/8b6b8ccc6da3aa5722903da7b58eb5ab1081adee/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f6c6566745f6f72616e67655f6666373630302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_left_orange_ff7600.png"></a>
 </body>
 
 </html>
