@@ -302,6 +302,7 @@
       link: function(scope, element, attrs) {
         var parentScope = scope.$parent,
             property = attrs.fastMatcherProperty,
+            limit = attrs.fastMatcherLimit,
             makeSelection = scope.selectionCallback;
 
         if (!property) {
@@ -323,6 +324,7 @@
           var matcher = new FastMatcher(source, {
             selector: property,
             matches: scope.matches,
+            limit: limit ? Number(limit) : undefined,
             caseInsensitive: true,
             preserveOrder: true
           });
