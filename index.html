@@ -124,10 +124,13 @@
     Optional:
     =========
 
-    * fast-matcher-property
+    * fast-matcher-property (or fast-matcher-properties)
       The name of the property to access from each element of the underlying source. For example if
       the data source is an array of book objects and you want to provide autocompletion by title,
       you would specify 'title' here.
+
+      You can also specify multiple properties (with fast-matcher-properties), separated by commas
+      and/or spaces. In this case the directive will search across all properties for matches.
 
       You don't have to include this attribute if the data source is just a list of strings.
 
