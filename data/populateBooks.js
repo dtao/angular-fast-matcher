@@ -22,6 +22,7 @@ function loadTitles(letter, callback) {
             id = el.attr('href').split('/').pop(),
             authorEl = el.closest('h2').next('p').find('a'),
             author = authorEl.text(),
+            authorFullName = getFullName(author),
             authorId = authorEl.attr('href').split('/').pop();
 
         books.push({
@@ -29,6 +30,7 @@ function loadTitles(letter, callback) {
           title: title,
           titleBase: titleBase,
           author: author,
+          authorFullName: authorFullName,
           authorId: authorId
         });
       });
@@ -58,6 +60,14 @@ function getTitleBase(title) {
     title = title.replace(TITLE_BASE_PATTERN, '');
   }
   return title;
+}
+
+function getFullName(name) {
+  var parts = name.split(/,\s*/);
+  if (parts.length > 1) {
+    parts.push(parts.shift());
+  }
+  return parts.join(' ');
 }
 
 async.each('abcdefghijklmnopqrstuvwxyz'.split(''), loadTitles, function(err) {
