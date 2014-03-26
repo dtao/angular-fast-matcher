@@ -48,7 +48,7 @@ function loadTitles(letter, callback) {
   });
 
   request.on('error', function(err) {
-    console.error(err);
+    console.error('Error loading data for ' + letter.toUpperCase() + ': ' + err);
     return callback();
   });
 }
