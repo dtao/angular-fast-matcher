@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Angular directive for fast-matcher",
   "main": "angularFastMatcher.js",
+  "repository": "https://github.com/dtao/angular-fast-matcher",
   "devDependencies": {
     "gulp": "^3.5.6",
     "gulp-browserify": "^0.5.0"
