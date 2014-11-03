@@ -11,6 +11,6 @@
     "gulp-browserify": "^0.5.0"
   },
   "dependencies": {
-    "fast-matcher": "^0.3.0"
+    "fast-matcher": "^0.3.1"
   }
 }

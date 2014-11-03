@@ -9,32 +9,63 @@
    * new FastMatcher(list); // list == ['b', 'a', 'c']
    */
   function FastMatcher(list, options) {
-    var source    = this.source = this.wrapList(list);
-    this.options  = options || {};
-    this.matches  = this.options.matches || [];
+    this.source    = list.slice(0);
+    this.options   = options || {};
+    this.matches   = this.options.matches || [];
+    this.selectors = this.createSelectors();
 
-    var selectors = this.selectors = this.createSelectors();
-    this.lists = selectors.map(function(selector) {
-      var list = source.slice(0);
-      list.sort(function(x, y) {
-        return compare(selector(x.val), selector(y.val));
+    var source = this.source,
+        options = this.options,
+        lists = [];
+
+    this.selectors.forEach(function(selector) {
+      var maxSegments = 0;
+
+      var list = source.map(function(e, i) {
+        var item = {
+          i: i,
+          val: e,
+          selectedVal: selector(e)
+        };
+
+        if (options.anyWord) {
+          item.segments = getSubstrings(item.selectedVal);
+          maxSegments = Math.max(maxSegments, item.segments.length);
+        }
+
+        return item;
       });
-      list.selector = selector;
-      return list;
-    });
-  }
 
-  /**
-   * @example
-   * function wrapList(list) {
-   *   return new FastMatcher([]).wrapList(list);
-   * }
-   *
-   * wrapList([5, 3, 4]); // => [{i:0,val:5},{i:1,val:3},{i:2,val:4}]
-   */
-  FastMatcher.prototype.wrapList = function wrapList(list) {
-    return list.map(function(e, i) { return { i: i, val: e }; });
-  };
+      if (options.anyWord) {
+        for (var i = 0; i < maxSegments; ++i) {
+          lists.push(
+            list
+              .filter(function(item) {
+                return i < item.segments.length;
+              })
+              .map(function(item) {
+                return {
+                  i: item.i,
+                  val: item.val,
+                  selectedVal: item.segments[i]
+                };
+              })
+              .sort(function(x, y) {
+                return compare(x.selectedVal, y.selectedVal);
+              }));
+        }
+
+      } else {
+        list.sort(function(x, y) {
+          return compare(x.selectedVal, y.selectedVal);
+        });
+
+        lists.push(list);
+      }
+    });
+
+    this.lists = lists;
+  }
 
   /**
    * @example
@@ -106,6 +137,15 @@
    *
    * getMatches([{x:'a',y:'a'},{x:'a',y:'b'},{x:'b',y:'a'},{x:'c',y:'a'}], 'a', { selector: ['x', 'y'], limit: 3 });
    * // => [{x:'a',y:'a'},{x:'a',y:'b'},{x:'b',y:'a'}]
+   *
+   * getMatches(['a', 'a b', 'a c', 'b', 'c a b'], 'b', { anyWord: true });
+   * // => ['b', 'a b', 'c a b']
+   *
+   * getMatches(['a', 'a b', 'a c', 'b', 'c a b'], 'b', { anyWord: true, preserveOrder: true });
+   * // => ['a b', 'b', 'c a b']
+   *
+   * getMatches(['a', 'a b', 'c a b'], 'a b', { anyWord: true });
+   * // => ['a b', 'c a b']
    */
   FastMatcher.prototype.getMatches = function getMatches(prefix) {
     if (this.options.caseInsensitive) {
@@ -117,7 +157,7 @@
     var limit = originalLimit,
         lists = this.lists,
         items = [],
-        list, index, item, itemsAdded;
+        list, index, value, itemsAdded;
 
     for (var i = 0; i < lists.length; ++i) {
       if (items.length === limit) {
@@ -133,12 +173,12 @@
           break;
         }
 
-        item = list.selector(list[index].val);
+        value = list[index].selectedVal;
         if (this.options.caseInsensitive) {
-          item = item.toLowerCase();
+          value = value.toLowerCase();
         }
 
-        if (!startsWith(item, prefix)) {
+        if (!startsWith(value, prefix)) {
           break;
         }
 
@@ -163,15 +203,14 @@
   };
 
   FastMatcher.prototype.findIndex = function findIndex(list, prefix) {
-    var selector = list.selector,
-        lower    = 0,
+    var lower    = 0,
         upper    = list.length;
 
     var i, value;
     while (lower < upper) {
       i = (lower + upper) >>> 1;
 
-      value = selector(list[i].val);
+      value = list[i].selectedVal;
       if (this.options.caseInsensitive) {
         value = value.toLowerCase();
       }
@@ -208,6 +247,29 @@
     }
 
     return function(x) { return x; };
+  }
+
+  /**
+   * @private
+   * @example
+   * getSubstrings('of the night');
+   * // => ['of the night', 'the night', 'night']
+   *
+   * getSubstrings(' foo bar ');
+   * // => ['foo bar ', 'bar ']
+   */
+  function getSubstrings(string) {
+    string = string.replace(/^\s+/, '');
+
+    var substrings = [string],
+        startOfWord = /\s[^\s]/g,
+        match;
+
+    while (match = startOfWord.exec(string)) {
+      substrings.push(string.substring(match.index + 1));
+    }
+
+    return substrings;
   }
 
   /**
@@ -292,6 +354,14 @@
   var module = angular.module('fastMatcher', []);
 
   module.directive('fastMatcher', ['$q', function($q) {
+    function parseNumber(value) {
+      return value ? Number(value) : undefined;
+    }
+
+    function parseBoolean(value) {
+      return /^true$/i.test(value);
+    }
+
     return {
       scope: {
         source: '=fastMatcherSource',
@@ -302,7 +372,8 @@
       link: function(scope, element, attrs) {
         var parentScope = scope.$parent,
             property = attrs.fastMatcherProperty,
-            limit = attrs.fastMatcherLimit,
+            limit = parseNumber(attrs.fastMatcherLimit),
+            anyWord = parseBoolean(attrs.fastMatcherAnyWord),
             makeSelection = scope.selectionCallback;
 
         if (!property) {
@@ -324,7 +395,8 @@
           var matcher = new FastMatcher(source, {
             selector: property,
             matches: scope.matches,
-            limit: limit ? Number(limit) : undefined,
+            limit: limit,
+            anyWord: anyWord,
             caseInsensitive: true,
             preserveOrder: true
           });
