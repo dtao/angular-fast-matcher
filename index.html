@@ -78,9 +78,10 @@
                     fast-matcher-properties="title,titleBase,author,authorFullName"
                     fast-matcher-current-callback="setCurrentBook"
                     fast-matcher-selection-callback="selectBook"
-                    placeholder="Search {{books.length | number}} books from Project Gutenberg"
+                    placeholder="{{inputPlaceholder}}"
                     ng-disabled="!loaded"
                     ng-model="prefix" />
+                <p class="help-block">You can search by title or author.</p>
             </div>
 
             <div class="list-group">

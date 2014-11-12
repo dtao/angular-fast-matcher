@@ -1,6 +1,6 @@
 var app = angular.module('FastMatcherDemo', ['fastMatcher']);
 
-app.controller('DemoController', function($scope, $window, $http, $q) {
+app.controller('DemoController', function($scope, $window, $http, $q, $filter) {
 
   // Tab navigation
   $scope.currentPage = 'demo';
@@ -20,6 +20,19 @@ app.controller('DemoController', function($scope, $window, $http, $q) {
   // Demo section
   $scope.books = [];
   $scope.loaded = false;
+
+  Object.defineProperty($scope, 'inputPlaceholder', {
+    get: function() {
+      var message = 'Search ' + $filter('number')($scope.books.length) +
+        ' books from Project Gutenberg';
+
+      if (!$scope.loaded) {
+        message += ' (still loading...)';
+      }
+
+      return message;
+    }
+  });
 
   var requests = [];
   angular.forEach('abcdefghijklmnopqrstuvwxyz'.split(''), function(letter) {
