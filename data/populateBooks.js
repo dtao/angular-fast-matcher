@@ -6,6 +6,10 @@ var fs      = require('fs'),
 function loadTitles(letter, callback) {
   var filePath = 'books/' + letter + '.json';
 
+  if (!fs.existsSync('books')) {
+    fs.mkdirSync('books');
+  }
+
   if (fs.existsSync(filePath)) {
     console.log('Already have data for ' + letter.toUpperCase());
     callback();
