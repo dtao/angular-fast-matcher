@@ -1,5 +1,21 @@
 var app = angular.module('FastMatcherDemo', ['fastMatcher']);
 
+// Prevent links w/ ng-click attributes from changing the address bar.
+
+window.addEventListener('load', function() {
+  document.body.addEventListener('click', function(e) {
+    var target = e.target;
+
+    if (!target) {
+      return;
+    }
+
+    if (target.nodeName === 'A' && !!target.getAttribute('ng-click')) {
+      e.preventDefault();
+    }
+  });
+});
+
 app.controller('DemoController', function($scope, $window, $http, $q, $filter) {
 
   // Tab navigation
