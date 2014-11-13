@@ -41,7 +41,7 @@
     </script>
 </head>
 
-<body ng-controller="DemoController">
+<body ng-controller="DemoController as ctrl">
     <div class="container">
         <div class="page-header hidden-xs">
             <h1>angular-fast-matcher demo</h1>
@@ -49,7 +49,7 @@
                 <strong>angular-fast-matcher</strong> is an Angular directive that uses the
                 <a href="https://github.com/dtao/fast-matcher">fast-matcher</a> library to
                 provide autocomplete results.<br />
-                See the <a href="#usage" ng-click="showPage('usage')">usage</a> section for details
+                See the <a href="#usage" ng-click="ctrl.showPage('usage')">usage</a> section for details
                 on how to use it.
             </p>
             <p>
@@ -64,23 +64,23 @@
         </h3>
 
         <ul class="nav nav-pills">
-            <li class="{{getTabClass('demo')}}">
-                <a href="#demo" ng-click="showPage('demo')">Demo</a>
+            <li ng-class="{active: ctrl.isCurrentPage('demo')}">
+                <a href="#demo" ng-click="ctrl.showPage('demo')">Demo</a>
             </li>
-            <li class="{{getTabClass('usage')}}">
-                <a href="#usage" ng-click="showPage('usage')">Usage</a>
+            <li ng-class="{active: ctrl.isCurrentPage('usage')}">
+                <a href="#usage" ng-click="ctrl.showPage('usage')">Usage</a>
             </li>
         </ul>
 
-        <div id="demo" ng-show="isCurrentPage('demo')">
+        <div id="demo" ng-show="ctrl.isCurrentPage('demo')">
             <div class="form-group">
                 <input type="text" name="prefix" class="form-control"
                     fast-matcher
                     fast-matcher-source="booksPromise"
                     fast-matcher-output="matchingBooks"
-                    fast-matcher-properties="title,titleBase,author,authorFullName"
-                    fast-matcher-current-callback="setCurrentBook"
-                    fast-matcher-selection-callback="selectBook"
+                    fast-matcher-properties="title, titleBase, author, authorFullName"
+                    fast-matcher-index-changed="ctrl.setCurrentBook(index)"
+                    fast-matcher-item-selected="ctrl.selectBook(item)"
                     placeholder="{{inputPlaceholder}}"
                     ng-disabled="!loaded"
                     ng-model="prefix" />
@@ -107,7 +107,7 @@
             </div>
         </div>
 
-        <div id="usage" ng-show="isCurrentPage('usage')">
+        <div id="usage" ng-show="ctrl.isCurrentPage('usage')">
             <p>
                 Attach the directive to an <code>&lt;input&gt;</code> element with the following
                 attributes.
@@ -165,40 +165,43 @@
                 </li>
 
                 <li>
-                    <strong><code>fast-matcher-current-callback</code></strong>
-                    <p>A function to call with the index of the currently selected item, whenever it
-                    changes. This is to support keyboard-based selection (letting the user hit
-                    Up/Down to highlight items in the list).</p>
+                    <strong><code>fast-matcher-index-changed</code></strong>
+                    <p>An expression to evaluate, with <code>index</code> set to the index of the
+                    currently selected item, whenever it changes. This is to support keyboard-based
+                    selection (letting the user hit Up/Down to highlight items in the list).</p>
                 </li>
 
                 <li>
-                    <strong><code>fast-matcher-selection-callback</code></strong>
-                    <p>A function to call when an item is selected from the list of autocompletion
-                    results. This will be called when the user selects an item and hits Enter.</p>
+                    <strong><code>fast-matcher-item-selected</code></strong>
+                    <p>An expression to evaluate, with <code>item</code> set to the selected item,
+                    when an item is selected from the list of autocompletion results. This will be
+                    called when the user selects an item and hits Enter.</p>
                 </li>
             </ul>
 
             <h3>Example</h3>
 
-            <pre ng-non-bindable><code class="html">&lt;input type="text"
-    fast-matcher
-    fast-matcher-source="books"
-    fast-matcher-output="matchedBooks"
-    fast-matcher-property="title"
-    fast-matcher-current-callback="setCurrentBook"
-    fast-matcher-selection-callback="selectBook" /&gt;
+            <pre ng-non-bindable><code class="html">&lt;div ng-controller="BooksController as ctrl"&gt;
+    &lt;input type="text"
+        fast-matcher
+        fast-matcher-source="books"
+        fast-matcher-output="matchedBooks"
+        fast-matcher-properties="author, title"
+        fast-matcher-index-changed="ctrl.setCurrentBook(index)"
+        fast-matcher-item-selected="ctrl.selectBook(item)" /&gt;
 
-&lt;!--
-    You can put this list anywhere on the page and style it however you want.
-    In fact you can put it multiple places. Or nowhere. It also doesn't have to be
-    a &lt;ul&gt; element. It can be anything.
---&gt;
-&lt;ul&gt;
-    &lt;li ng-repeat="book in matchedBooks" ng-class="{active: isCurrentBook($index)}"&gt;
-        &lt;div class="title" ng-bind="book.title"&gt;&lt;/div&gt;
-        &lt;div class="author" ng-bind="book.author"&gt;&lt;/div&gt;
-    &lt;/li&gt;
-&lt;/ul&gt;</code></pre>
+    &lt;!--
+        You can put this list anywhere on the page and style it however you want.
+        In fact you can put it multiple places. Or nowhere. It also doesn't have to be
+        a &lt;ul&gt; element. It can be anything.
+    --&gt;
+    &lt;ul&gt;
+        &lt;li ng-repeat="book in matchedBooks" ng-class="{active: ctrl.isCurrentBook($index)}"&gt;
+            &lt;div class="title" ng-bind="book.title"&gt;&lt;/div&gt;
+            &lt;div class="author" ng-bind="book.author"&gt;&lt;/div&gt;
+        &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;</code></pre>
         </div>
     </div>
 

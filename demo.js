@@ -18,22 +18,20 @@ window.addEventListener('load', function() {
 
 app.controller('DemoController', function($scope, $window, $http, $q, $filter) {
 
-  // Tab navigation
+  // ----- Tab navigation -----
+
   $scope.currentPage = 'demo';
 
-  $scope.getTabClass = function(page) {
-    return $scope.isCurrentPage(page) ? 'active' : '';
-  };
-
-  $scope.showPage = function(page) {
+  this.showPage = function(page) {
     $scope.currentPage = page;
   };
 
-  $scope.isCurrentPage = function(page) {
+  this.isCurrentPage = function(page) {
     return page === $scope.currentPage;
   };
 
-  // Demo section
+  // ----- Demo section -----
+
   $scope.books = [];
   $scope.loaded = false;
 
@@ -66,11 +64,11 @@ app.controller('DemoController', function($scope, $window, $http, $q, $filter) {
 
   $scope.currentBookIndex = -1;
 
-  $scope.setCurrentBook = function(index) {
+  this.setCurrentBook = function(index) {
     $scope.currentBookIndex = index;
   };
 
-  $scope.selectBook = function(book) {
+  this.selectBook = function(book) {
     $window.open('http://www.gutenberg.org/ebooks/' + book.id);
   };
 
