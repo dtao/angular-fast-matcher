@@ -69,7 +69,7 @@
             </li>
         </ul>
 
-        <div ng-show="isCurrentPage('demo')">
+        <div id="demo" ng-show="isCurrentPage('demo')">
             <div class="form-group">
                 <input type="text" name="prefix" class="form-control"
                     fast-matcher
@@ -104,58 +104,80 @@
             </div>
         </div>
 
-        <div ng-show="isCurrentPage('usage')">
-            <pre ng-non-bindable><code class="html">&lt;!--
-    Attach the directive to an &lt;input&gt; element with the following attributes.
+        <div id="usage" ng-show="isCurrentPage('usage')">
+            <p>
+                Attach the directive to an <code>&lt;input&gt;</code> element with the following
+                attributes.
+            </p>
 
-    Required:
-    =========
+            <h3>Required</h3>
 
-    * fast-matcher
+            <ul class="attribute-list">
+                <li>
+                    <strong><code>fast-matcher</code></strong>
+                </li>
 
-    * fast-matcher-source
-      Specify either an array or promise that resolves to an array. This will be the underlying
-      source from which autocomplete results are fetched.
+                <li>
+                    <strong><code>fast-matcher-source</code></strong>
+                    <p>Specify either an array or promise that resolves to an array. This will be
+                    the underlying source from which autocomplete results are fetched.</p>
+                </li>
 
-    * fast-matcher-output
-      Specify the array to be populated with autocomplete results. If it doesn't already exist, the
-      directive will create it.
+                <li>
+                    <strong><code>fast-matcher-output</code></strong>
+                    <p>Specify the array to be populated with autocomplete results. If it doesn't
+                    already exist, the directive will create it.</p>
 
-      Note that this array will be updated in-place.
+                    <p>Note that this array will be updated in-place.</p>
+                </li>
+            </ul>
 
-    Optional:
-    =========
+            <h3>Optional</h3>
 
-    * fast-matcher-property (or fast-matcher-properties)
-      The name of the property to access from each element of the underlying source. For example if
-      the data source is an array of book objects and you want to provide autocompletion by title,
-      you would specify 'title' here.
+            <ul class="attribute-list">
+                <li>
+                    <strong><code>fast-matcher-property</code></strong>
+                    (or <code>fast-matcher-properties</code>)
+                    <p>The name of the property to access from each element of the underlying
+                    source. For example if the data source is an array of book objects and you want
+                    to provide autocompletion by title, you would specify 'title' here.</p>
 
-      You can also specify multiple properties (with fast-matcher-properties), separated by commas
-      and/or spaces. In this case the directive will search across all properties for matches.
+                    <p>You can also specify multiple properties (with fast-matcher-properties),
+                    separated by commas and/or spaces. In this case the directive will search across
+                    all properties for matches.</p>
 
-      You don't have to include this attribute if the data source is just a list of strings.
+                    <p>You don't have to include this attribute if the data source is just a list of
+                    strings.</p>
+                </li>
 
-    * fast-matcher-limit
-      The maximum number of matches to find.
+                <li>
+                    <strong><code>fast-matcher-limit</code></strong>
+                    <p>The maximum number of matches to find.</p>
+                </li>
 
-    * fast-matcher-any-word
-      Whether to support matching by any word (not just the first word) in a string.
+                <li>
+                    <strong><code>fast-matcher-any-word</code></strong>
+                    <p>Whether to support matching by any word (not just the first word) in a
+                    string.</p>
+                </li>
 
-    * fast-matcher-current-callback
-      A function to call with the index of the currently selected item, whenever it changes. This is
-      to support keyboard-based selection (letting the user hit Up/Down to highlight items in the
-      list).
+                <li>
+                    <strong><code>fast-matcher-current-callback</code></strong>
+                    <p>A function to call with the index of the currently selected item, whenever it
+                    changes. This is to support keyboard-based selection (letting the user hit
+                    Up/Down to highlight items in the list).</p>
+                </li>
 
-    * fast-matcher-selection-callback
-      A function to call when an item is selected from the list of autocompletion results. This will
-      be called when the user selects an item and hits Enter.
---&gt;
+                <li>
+                    <strong><code>fast-matcher-selection-callback</code></strong>
+                    <p>A function to call when an item is selected from the list of autocompletion
+                    results. This will be called when the user selects an item and hits Enter.</p>
+                </li>
+            </ul>
 
-&lt;!--
-    Example
---&gt;
-&lt;input type="text"
+            <h3>Example</h3>
+
+            <pre ng-non-bindable><code class="html">&lt;input type="text"
     fast-matcher
     fast-matcher-source="books"
     fast-matcher-output="matchedBooks"
