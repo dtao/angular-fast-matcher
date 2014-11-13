@@ -5,6 +5,14 @@
   var module = angular.module('fastMatcher', []);
 
   module.directive('fastMatcher', ['$q', function($q) {
+    function parseNumber(value) {
+      return value ? Number(value) : undefined;
+    }
+
+    function parseBoolean(value) {
+      return /^true$/i.test(value);
+    }
+
     return {
       scope: {
         source: '=fastMatcherSource',
@@ -15,7 +23,8 @@
       link: function(scope, element, attrs) {
         var parentScope = scope.$parent,
             property = attrs.fastMatcherProperty,
-            limit = attrs.fastMatcherLimit,
+            limit = parseNumber(attrs.fastMatcherLimit),
+            anyWord = parseBoolean(attrs.fastMatcherAnyWord),
             makeSelection = scope.selectionCallback;
 
         if (!property) {
@@ -37,7 +46,8 @@
           var matcher = new FastMatcher(source, {
             selector: property,
             matches: scope.matches,
-            limit: limit ? Number(limit) : undefined,
+            limit: limit,
+            anyWord: anyWord,
             caseInsensitive: true,
             preserveOrder: true
           });

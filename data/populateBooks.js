@@ -4,6 +4,18 @@ var fs      = require('fs'),
     cheerio = require('cheerio');
 
 function loadTitles(letter, callback) {
+  var filePath = 'books/' + letter + '.json';
+
+  if (!fs.existsSync('books')) {
+    fs.mkdirSync('books');
+  }
+
+  if (fs.existsSync(filePath)) {
+    console.log('Already have data for ' + letter.toUpperCase());
+    callback();
+    return;
+  }
+
   var books = [];
 
   var request = http.get('http://www.gutenberg.org/browse/titles/' + letter, function(response) {
@@ -35,7 +47,7 @@ function loadTitles(letter, callback) {
         });
       });
 
-      fs.writeFile('books/' + letter + '.json', JSON.stringify(books, null, 2), 'utf8', function(err) {
+      fs.writeFile(filePath, JSON.stringify(books, null, 2), 'utf8', function(err) {
         if (err) {
           console.error(err);
         } else {
