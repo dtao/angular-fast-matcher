@@ -362,6 +362,14 @@
       return /^true$/i.test(value);
     }
 
+    function evalExpr(scope, properties, expression) {
+      var childScope = scope.$parent.$new();
+      for (var prop in properties) {
+        childScope[prop] = properties[prop];
+      }
+      return childScope.$eval(expression);
+    }
+
     return {
       scope: {
         source: '=fastMatcherSource',
@@ -374,7 +382,13 @@
             property = attrs.fastMatcherProperty,
             limit = parseNumber(attrs.fastMatcherLimit),
             anyWord = parseBoolean(attrs.fastMatcherAnyWord),
-            makeSelection = scope.selectionCallback;
+
+            // This is deprecated, but still supported.
+            selectionCallback = scope.selectionCallback,
+
+            // This is the new way.
+            indexChangedExpr = attrs.fastMatcherIndexChanged,
+            itemSelectedExpr = attrs.fastMatcherItemSelected;
 
         if (!property) {
           property = (attrs.fastMatcherProperties || '').split(/[\s,]+/);
@@ -386,8 +400,18 @@
         var selectedIndex = -1;
         function setCurrentIndex(index) {
           selectedIndex = index;
-          if (scope.currentCallback) {
+          if (indexChangedExpr) {
+            evalExpr(scope, { index: index }, indexChangedExpr);
+          } else if (scope.currentCallback) {
             scope.currentCallback(index);
+          }
+        }
+
+        function makeSelection(item) {
+          if (itemSelectedExpr) {
+            evalExpr(scope, { item: item }, itemSelectedExpr);
+          } else if (selectionCallback) {
+            selectionCallback(item);
           }
         }
 
@@ -426,30 +450,28 @@
             });
           }
 
-          if (makeSelection) {
-            element.on('keydown', function(e) {
-              switch (e.keyCode) {
-                case 13: // enter
-                  if (selectedIndex >= 0 && selectedIndex < scope.matches.length) {
-                    makeSelection(scope.matches[selectedIndex]);
-                  } else if (scope.matches.length === 1) {
-                    makeSelection(scope.matches[0]);
-                  }
-                  setCurrentIndex(-1);
-                  break;
+          element.on('keydown', function(e) {
+            switch (e.keyCode) {
+              case 13: // enter
+                if (selectedIndex >= 0 && selectedIndex < scope.matches.length) {
+                  makeSelection(scope.matches[selectedIndex]);
+                } else if (scope.matches.length === 1) {
+                  makeSelection(scope.matches[0]);
+                }
+                setCurrentIndex(-1);
+                break;
 
-                case 38: // up
-                  setCurrentIndex((selectedIndex || scope.matches.length) - 1);
-                  break;
+              case 38: // up
+                setCurrentIndex((selectedIndex || scope.matches.length) - 1);
+                break;
 
-                case 40: // down
-                  setCurrentIndex(++selectedIndex % scope.matches.length);
-                  break;
-              }
+              case 40: // down
+                setCurrentIndex(++selectedIndex % scope.matches.length);
+                break;
+            }
 
-              scope.$apply();
-            });
-          }
+            scope.$apply();
+          });
         });
       }
     };
