@@ -4,7 +4,7 @@
 <head>
     <title>angular-fast-matcher</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootswatch/3.1.1/superhero/bootstrap.min.css" />
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootswatch/3.3.0/paper/bootstrap.min.css" />
     <link rel="stylesheet" href="//yandex.st/highlightjs/8.0/styles/mono-blue.min.css">
     <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js"></script>
     <script src="//yandex.st/highlightjs/8.0/highlight.min.js"></script>
@@ -95,8 +95,8 @@
                     ng-class="{active: $index == currentBookIndex}">
 
                     <div class="full-book-view hidden-xs">
-                        <h3 class="list-group-item-heading" ng-bind="book.title"></h3>
-                        <p ng-bind="book.author"></p>
+                        <h4 class="list-group-item-heading" ng-bind="book.title"></h4>
+                        <p class="list-group-item-text" ng-bind="book.author"></p>
                     </div>
 
                     <div class="compact-book-view visible-xs">
