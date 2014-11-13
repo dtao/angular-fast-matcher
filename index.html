@@ -88,16 +88,17 @@
                 <a ng-repeat="book in matchingBooks"
                     href="http://www.gutenberg.org/ebooks/{{book.id}}"
                     target="_blank"
-                    class="list-group-item {{$index == currentBookIndex ? 'active' : ''}}">
+                    class="list-group-item"
+                    ng-class="{active: $index == currentBookIndex}">
 
                     <div class="full-book-view hidden-xs">
-                        <h3 class="list-group-item-heading">{{book.title}}</h3>
-                        <p>{{book.author}}</p>
+                        <h3 class="list-group-item-heading" ng-bind="book.title"></h3>
+                        <p ng-bind="book.author"></p>
                     </div>
 
                     <div class="compact-book-view visible-xs">
-                        <strong>{{book.title}}</strong>
-                        <small>{{book.author}}</small>
+                        <strong ng-bind="book.title"></strong>
+                        <small ng-bind="book.author"></small>
                     </div>
                 </a>
             </div>
@@ -147,8 +148,8 @@
       list).
 
     * fast-matcher-selection-callback
-      A function to call when an item selected from the list of autocompletion results. This will be
-      called when the user selects an item and hits Enter.
+      A function to call when an item is selected from the list of autocompletion results. This will
+      be called when the user selects an item and hits Enter.
 --&gt;
 
 &lt;!--
@@ -168,9 +169,9 @@
     a &lt;ul&gt; element. It can be anything.
 --&gt;
 &lt;ul&gt;
-    &lt;li ng-repeat="book in matchedBooks" class="{{isCurrentBook($index) ? 'active' : ''}}"&gt;
-        &lt;div class="title"&gt;{{book.title}}&lt;/div&gt;
-        &lt;div class="author"&gt;{{book.author}}&lt;/div&gt;
+    &lt;li ng-repeat="book in matchedBooks" ng-class="{active: isCurrentBook($index)}"&gt;
+        &lt;div class="title" ng-bind="book.title"&gt;&lt;/div&gt;
+        &lt;div class="author" ng-bind="book.author"&gt;&lt;/div&gt;
     &lt;/li&gt;
 &lt;/ul&gt;</code></pre>
         </div>
